@@ -1,0 +1,4 @@
+candidate,expanding_MAE,rolling_MAE,rolling_std
+xgb|b|hist_ctx|c0,3.965,4.078,0.23
+rf|b|hist_ctx|c0,3.967,4.037,0.222
+rf|b|hist_ctx|c1,3.97,4.03,0.233

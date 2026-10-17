@@ -1,0 +1,13 @@
+# Python env
+.venv/
+__pycache__/
+*.pyc
+
+# Re-downloadable raw data (ESPN box scores, bbref tables, ESPN projections, drafts)
+data/raw/
+
+# Vendored OpenMP runtime for lightgbm (platform-specific; see README)
+vendor/
+
+# Logs
+reports/*.log

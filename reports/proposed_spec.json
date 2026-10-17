@@ -1,0 +1,18 @@
+{
+  "family": "xgb",
+  "spec": "b",
+  "feature_set": "hist_ctx",
+  "params": {
+    "n_estimators": 517,
+    "learning_rate": 0.017653597052200216,
+    "max_depth": 4,
+    "min_child_weight": 15.399179421234509,
+    "subsample": 0.7530867745418289,
+    "colsample_bytree": 0.9493031068096526,
+    "reg_lambda": 2.4326347576958387,
+    "half_life": Infinity
+  },
+  "walk_forward_mae_mean": 3.964697169036921,
+  "walk_forward_mae_std": 0.18521412888425115,
+  "note": "PROPOSED -- not yet frozen; awaiting user OK before holdout."
+}
