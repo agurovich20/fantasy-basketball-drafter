@@ -64,8 +64,18 @@ def project_2027() -> pd.DataFrame:
     # refit frozen spec on all historical target seasons 2011-2026
     train = S.rows_for_seasons(table, C.train_seasons(C.PRODUCTION_FOLD[0]))
     last_train_season = C.PRODUCTION_FOLD[0][1]  # 2026
-    proj = M.predict_with_spec(frozen, train, prod, last_train_season)
-    proj = np.clip(proj, 0, None)
+    xgb_proj = np.clip(M.predict_with_spec(frozen, train, prod, last_train_season),
+                       0, None)
+
+    # production predictor = blend 0.55*model + 0.45*ESPN (fallback to model
+    # alone where ESPN has no 2027 projection)
+    from . import espn as E
+    w = frozen.get("blend", {}).get("weight_ours", 0.55)
+    esp = E.projections(2027).set_index("athlete_id")["espn_proj_fppg"].to_dict()
+    espn_vec = prod["athlete_id"].map(esp).to_numpy(float)
+    has_espn = ~np.isnan(espn_vec)
+    proj = xgb_proj.copy()
+    proj[has_espn] = w * xgb_proj[has_espn] + (1 - w) * espn_vec[has_espn]
 
     p10, p90 = _residual_bands(proj, resid_df)
     p10 = np.clip(p10, 0, None)
@@ -78,6 +88,8 @@ def project_2027() -> pd.DataFrame:
         "experience": prod["experience"].to_numpy(),
         "changed_team": prod["changed_team"].to_numpy(),
         "proj_fppg": np.round(proj, 2),
+        "model_fppg": np.round(xgb_proj, 2),
+        "espn_fppg": np.round(espn_vec, 2),
         "p10_fppg": np.round(p10, 2),
         "p90_fppg": np.round(p90, 2),
     }).sort_values("proj_fppg", ascending=False).reset_index(drop=True)

@@ -154,6 +154,32 @@ def usable_seasons() -> tuple:
     return tuple(out)
 
 
+def adp(year: int) -> pd.DataFrame:
+    """ownership.averageDraftPosition per player for a season."""
+    rows = []
+    for p in _load(year):
+        own = p["player"].get("ownership") or {}
+        a = own.get("averageDraftPosition")
+        if a and a > 0:
+            rows.append({"athlete_id": int(p["id"]), "adp": float(a)})
+    return pd.DataFrame(rows)
+
+
+def adp_valid(year: int) -> bool:
+    """ADP 'checks out' if >=7 of the top-10 by ADP are also top-20 by ESPN
+    projected value (guards against seasons where ADP is unpopulated/degenerate)."""
+    a = adp(year)
+    if len(a) < 100:
+        return False
+    pr = projections(year)
+    if pr.empty:
+        return False
+    pr = pr.assign(val=pr["espn_proj_fppg"] * pr["espn_proj_gp"])
+    top20 = set(pr.sort_values("val", ascending=False).head(20)["athlete_id"])
+    top10_adp = a.sort_values("adp").head(10)["athlete_id"].tolist()
+    return sum(x in top20 for x in top10_adp) >= 7
+
+
 def actuals(year: int) -> pd.DataFrame:
     """ESPN actual season totals (statSourceId=0) -- used only for validation."""
     rows = []

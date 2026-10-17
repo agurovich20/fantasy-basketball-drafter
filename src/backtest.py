@@ -478,12 +478,22 @@ def holdout_stage(table: pd.DataFrame, base: F.Base):
     comp = []
     if (C.REPORTS / "best_by_type.json").exists():
         best_by_type = json.loads((C.REPORTS / "best_by_type.json").read_text())
+        single_preds = {}
         for key, spec in best_by_type.items():
+            if spec["family"] == "ensemble" or spec["feature_set"] == "-":
+                continue  # ensemble can't go through build_X; handled below
             preds = [M.predict_with_spec(spec, f.train, f.evl, f.last_train_season)
                      for f in folds]
-            r = _aggregate(key, spec["family"], spec["spec"],
-                           spec["feature_set"], spec["params"], folds, preds)
-            comp.append(r)
+            single_preds[f"{spec['family']}|{spec['spec']}|{spec['feature_set']}"] = preds
+            comp.append(_aggregate(key, spec["family"], spec["spec"],
+                                   spec["feature_set"], spec["params"], folds, preds))
+        # reconstruct the best-2 ensemble (xgb+rf on spec b, hist_ctx)
+        a = single_preds.get("xgb|b|hist_ctx")
+        b = single_preds.get("rf|b|hist_ctx")
+        if a and b:
+            ens = [(a[i] + b[i]) / 2 for i in range(len(folds))]
+            comp.append(_aggregate("ensemble(xgb+rf)", "ensemble", "-", "-",
+                                   {}, folds, ens))
     comp_rows = _leaderboard_frame(baselines + [frozen_res] + comp)
     comp_rows = comp_rows.sort_values("MAE_mean").reset_index(drop=True)
     print("\n[Holdout leaderboard] frozen + all candidates (comparison only)")

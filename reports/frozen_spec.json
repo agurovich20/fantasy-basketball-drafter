@@ -1,0 +1,30 @@
+{
+  "family": "xgb",
+  "spec": "b",
+  "feature_set": "hist_ctx",
+  "params": {
+    "n_estimators": 517,
+    "learning_rate": 0.017653597052200216,
+    "max_depth": 4,
+    "min_child_weight": 15.399179421234509,
+    "subsample": 0.7530867745418289,
+    "colsample_bytree": 0.9493031068096526,
+    "reg_lambda": 2.4326347576958387,
+    "half_life": Infinity
+  },
+  "blend": {
+    "weight_ours": 0.55,
+    "espn_weight": 0.45,
+    "fallback": "xgb_alone_when_no_espn",
+    "fit_seasons": [
+      2018,
+      2019,
+      2021,
+      2022
+    ]
+  },
+  "walk_forward_mae_mean": 3.965,
+  "walk_forward_mae_std": 0.185,
+  "frozen_at": "2026-10-17",
+  "note": "Frozen per user approval. 1-SE pick over ensemble. Holdout 2024-2026 scored once after this."
+}

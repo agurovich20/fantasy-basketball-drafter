@@ -281,6 +281,28 @@ def build_production_table(base: Base | None = None) -> pd.DataFrame:
     return _finalize(cand)
 
 
+def build_predict_table(base: Base, season: int, athlete_ids) -> pd.DataFrame:
+    """Features for an arbitrary set of players at `season`, WITHOUT the
+    20-game target filter (used to project every drafted player, incl. ones
+    who later busted).  Rookies (no history) are still dropped."""
+    ps = base.player_season
+    ids = list(dict.fromkeys(int(a) for a in athlete_ids))
+    cand = pd.DataFrame({"athlete_id": ids})
+    cand["season"] = season
+    nm = ps.sort_values("season").groupby("athlete_id")["name"].last()
+    cand["name"] = cand["athlete_id"].map(nm)
+    opening = base.opening
+    team = opening[opening["season"] == season][["athlete_id", "team"]]
+    cand = cand.merge(team, on="athlete_id", how="left")
+    for c in TARGET_COLS:
+        cand[c] = np.nan
+    cand = _attach_lags(cand, ps)
+    cand = _attach_ctx(cand, base)
+    cand = _attach_age(cand, base)
+    cand = _attach_roster_change(cand, base)
+    return _finalize(cand)
+
+
 def feature_columns(df: pd.DataFrame, feature_set: str) -> list[str]:
     """Return feature columns for 'hist', 'hist_ctx' or 'hist_ctx_roster'."""
     from . import features_ext as FX
