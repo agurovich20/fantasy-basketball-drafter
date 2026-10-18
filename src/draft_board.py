@@ -149,8 +149,18 @@ def build() -> pd.DataFrame:
 
     df = esp.merge(meta, on="athlete_id", how="left")
     df["espn_fppg"] = df["espn_proj_fppg"]
-    df["proj_games"] = df["espn_proj_gp"]
     df["model_fppg"] = df["athlete_id"].map(model_map)
+
+    # games projection: kept ESPN (no model beat it on walk-forward) + manual
+    # return-date overrides, with KNN-comparable p10/p90 and top-3 comps.
+    from . import games_model as G
+    gtbl = G.build_games_table(base)
+    gproj = G.project_2027_games(base, gtbl).set_index("athlete_id")
+    df["proj_games"] = df["athlete_id"].map(gproj["proj_games"]).fillna(
+        df["espn_proj_gp"])
+    df["games_p10"] = df["athlete_id"].map(gproj["games_p10"])
+    df["games_p90"] = df["athlete_id"].map(gproj["games_p90"])
+    df["comps"] = df["athlete_id"].map(gproj["comps"]).fillna("")
     # blend: 0.55*ours+0.45*ESPN; ESPN-only where no model (rookies)
     bl = w * df["model_fppg"] + (1 - w) * df["espn_fppg"]
     df["blend_fppg"] = bl.where(df["model_fppg"].notna(), df["espn_fppg"])
@@ -205,11 +215,13 @@ def build() -> pd.DataFrame:
 
     cols = ["model_rank", "espn_rank", "adp", "rank_diff", "flag", "player",
             "team", "positions", "age", "blend_fppg", "model_fppg", "espn_fppg",
-            "fppg_p10", "fppg_p90", "proj_games", "season_pts", "vorp", "tier",
-            "changed_team", "injury_note", "player_type"]
+            "fppg_p10", "fppg_p90", "proj_games", "games_p10", "games_p90",
+            "season_pts", "vorp", "tier", "changed_team", "injury_note",
+            "player_type", "comps"]
     out = board[cols].copy()
     for c in ["adp", "age", "blend_fppg", "model_fppg", "espn_fppg", "fppg_p10",
-              "fppg_p90", "proj_games", "season_pts", "vorp"]:
+              "fppg_p90", "proj_games", "games_p10", "games_p90", "season_pts",
+              "vorp"]:
         out[c] = pd.to_numeric(out[c], errors="coerce").round(1)
     out["adp"] = out["adp"].map(lambda x: "" if pd.isna(x) else x)
     out["model_fppg"] = out["model_fppg"].map(lambda x: "" if pd.isna(x) else x)

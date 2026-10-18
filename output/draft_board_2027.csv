@@ -1,301 +1,301 @@
-model_rank,espn_rank,adp,rank_diff,flag,player,team,positions,age,blend_fppg,model_fppg,espn_fppg,fppg_p10,fppg_p90,proj_games,season_pts,vorp,tier,changed_team,injury_note,player_type
-1,1,1.4,0,,Nikola Jokic,DEN,C,32.0,64.3,61.9,67.2,57.2,69.7,72.0,4629.5,2808.7,1,N,,Primary scorer
-2,2,3.1,0,,Shai Gilgeous-Alexander,OKC,PG,28.6,56.9,57.0,56.8,49.8,62.4,76.0,4328.1,2406.1,2,N,day-to-day,Primary scorer
-3,4,3.0,1,,Victor Wembanyama,SA,C,23.1,61.0,61.5,60.5,53.9,66.2,67.0,4089.4,2395.0,2,N,day-to-day,Rim-running big
-4,3,3.6,-1,,Luka Doncic,LAL,PG,27.9,60.2,59.8,60.6,53.1,65.3,68.0,4091.5,2371.8,2,N,,Primary scorer
-5,5,5.7,0,,Giannis Antetokounmpo,MIA,PF/C,32.2,52.0,47.4,57.6,44.9,57.5,67.0,3480.8,1786.4,3,Y,day-to-day,Primary scorer
-6,7,8.0,1,,Cade Cunningham,DET,PG,25.4,50.7,51.0,50.4,43.6,56.3,69.0,3501.2,1756.2,3,N,day-to-day,Primary scorer
-7,6,8.7,-1,,Jalen Johnson,ATL,PF,25.1,48.6,47.5,50.0,41.5,54.0,72.0,3499.2,1678.3,4,N,,Primary scorer
-8,8,7.3,0,,Anthony Edwards,MIN,SG/SF,25.5,47.1,47.0,47.2,40.0,52.5,72.0,3391.1,1570.3,5,N,day-to-day,Primary scorer
-9,13,13.4,4,,Tyrese Maxey,PHI,PG/SG,26.2,47.4,49.3,45.1,40.3,52.8,71.0,3365.3,1569.7,5,N,,Primary scorer
-10,9,9.2,-1,,Jayson Tatum,BOS,SF/PF,28.9,46.9,46.0,48.1,39.8,52.3,70.0,3285.9,1515.6,6,N,,Primary scorer
-11,11,13.1,0,,Cooper Flagg,DAL,SF/PF,20.1,45.7,45.9,45.4,38.6,51.0,72.0,3287.7,1466.8,7,N,,Primary scorer
-12,21,19.8,9,,Tyrese Haliburton,IND,PG/SG,26.9,47.0,45.8,48.6,40.0,52.4,64.0,3011.1,1392.6,8,,day-to-day,
-13,22,24.4,9,,Alperen Sengun,HOU,C,24.5,44.5,45.8,43.0,37.4,50.1,72.0,3207.2,1386.3,8,N,day-to-day,Primary scorer
-14,10,11.3,-4,,Donovan Mitchell,CLE,PG/SG,30.4,44.8,43.3,46.5,37.6,50.1,71.0,3177.4,1381.8,8,N,,Primary scorer
-15,17,16.7,2,,Scottie Barnes,TOR,SG/SF,25.5,44.2,44.7,43.7,37.1,49.6,72.0,3184.5,1363.6,8,N,,Primary scorer
-16,18,23.6,2,,Josh Giddey,CHI,PG/SG,24.3,44.7,43.4,46.2,37.5,50.0,68.0,3037.6,1317.8,9,N,,Primary scorer
-17,27,31.7,10,,Jamal Murray,DEN,PG,29.9,43.6,43.3,43.9,36.4,48.9,69.0,3005.4,1260.4,10,N,,Primary scorer
-18,28,30.8,10,,Anthony Davis,WSH,PF/C,33.9,45.5,42.2,49.6,38.4,50.9,61.0,2776.9,1234.2,10,Y,,Rim-running big
-19,14,19.2,-5,,LaMelo Ball,MIN,PG,25.4,43.4,40.9,46.4,36.3,48.8,68.0,2950.7,1231.0,10,Y,day-to-day,Primary scorer
-20,19,21.0,-1,,Amen Thompson,HOU,SG/SF,24.0,40.9,41.6,40.0,33.7,46.2,78.0,3187.5,1214.9,10,N,,Lead guard
-21,12,18.1,-9,,Domantas Sabonis,SAC,PF/C,30.7,42.7,39.4,46.7,35.2,48.3,69.0,2947.0,1202.0,10,N,day-to-day,Stretch big
-22,15,14.1,-7,,Jalen Brunson,NY,PG,30.4,41.7,40.0,43.8,34.6,47.1,72.0,3003.6,1182.7,10,N,,Primary scorer
-23,34,36.3,11,,Evan Mobley,CLE,PF/C,25.6,42.7,42.1,43.3,35.6,48.1,66.0,2816.2,1147.1,11,N,,Rim-running big
-24,32,31.5,8,,Kawhi Leonard,TOR,SF/PF,35.6,43.4,41.4,45.7,36.2,48.7,63.0,2731.3,1138.0,11,Y,,Primary scorer
-25,20,22.3,-5,,Devin Booker,PHX,PG/SG,30.3,40.3,38.0,43.2,33.2,45.7,72.0,2903.8,1082.9,12,N,day-to-day,Primary scorer
-26,24,21.4,-2,,Karl-Anthony Towns,NY,C,31.2,40.5,37.6,44.1,33.4,45.9,70.0,2838.0,1067.7,12,N,,Stretch big
-27,29,34.1,2,,Deni Avdija,POR,SF/PF,26.1,40.1,39.9,40.4,33.0,45.4,72.0,2886.4,1065.6,12,N,,Primary scorer
-28,23,21.0,-5,,Kevin Durant,HOU,SF/PF,38.3,39.6,36.9,42.9,32.5,45.0,72.0,2851.3,1030.4,12,N,day-to-day,Primary scorer
-29,30,35.5,1,,Austin Reaves,LAL,PG/SG,28.7,40.5,38.2,43.3,33.4,45.9,67.0,2712.3,1017.9,12,N,,Primary scorer
-30,16,22.9,-14,,Trae Young,WSH,PG,28.4,39.6,35.6,44.4,32.4,45.1,71.0,2808.6,1013.1,12,Y,,Primary scorer
-31,25,29.7,-6,,James Harden,CLE,PG/SG,37.4,39.1,36.7,42.1,32.0,44.5,73.0,2854.6,1008.5,12,Y,,Primary scorer
-32,33,38.3,1,,Jalen Williams,OKC,SF/PF,25.8,39.7,38.6,41.0,32.5,44.9,70.0,2776.8,1006.5,12,N,day-to-day,Primary scorer
-33,45,41.9,12,,Paolo Banchero,ORL,SF/PF,24.2,39.7,40.3,39.0,32.6,45.3,69.0,2739.7,994.7,12,N,,Primary scorer
-34,36,29.9,2,,Stephen Curry,GS,PG,38.9,40.2,37.8,43.0,33.1,45.7,66.0,2651.3,982.2,12,N,,Primary scorer
-35,31,29.1,-4,,Bam Adebayo,MIA,PF/C,29.5,38.7,38.0,39.6,31.6,44.1,73.0,2826.0,979.8,12,N,day-to-day,Stretch big
-36,26,30.6,-10,,Pascal Siakam,IND,PF,32.8,37.8,35.2,41.1,30.7,43.2,74.0,2800.3,928.8,13,N,,Primary scorer
-37,69,68.6,32,TARGET,Joel Embiid,PHI,C,32.9,42.0,39.3,45.4,34.9,47.4,54.0,2267.9,902.3,13,N,day-to-day,Primary scorer
-38,39,42.8,1,,Kon Knueppel,CHA,SG/SF,21.5,36.8,38.1,35.2,29.7,42.2,78.0,2869.9,897.3,13,N,day-to-day,3&D wing
-39,48,59.6,9,,Dyson Daniels,ATL,PG/SG,23.9,37.1,38.2,35.7,30.0,42.4,75.0,2779.6,882.8,13,N,,Connector wing
-40,40,32.7,0,,Jaylen Brown,PHI,SG/SF,30.3,37.7,37.0,38.6,30.7,43.1,71.0,2677.6,882.0,13,Y,day-to-day,Primary scorer
-41,62,72.7,21,TARGET,Trey Murphy III,NO,SG/SF,26.6,38.2,39.4,36.8,31.1,43.6,68.0,2598.6,878.9,13,N,,Primary scorer
-42,55,65.5,13,,Zion Williamson,NO,PF/C,26.6,38.9,38.1,40.0,31.9,44.3,64.0,2492.6,874.1,13,N,,Primary scorer
-43,54,65.5,11,,Tyler Herro,MIL,PG/SG,27.0,38.3,37.9,38.8,31.2,43.7,67.0,2567.8,873.3,13,Y,,Primary scorer
-44,38,49.1,-6,,Desmond Bane,ORL,SG/SF,28.6,37.3,36.6,38.2,30.1,42.7,72.0,2688.2,867.3,13,N,day-to-day,Primary scorer
-45,68,66.0,23,TARGET,Chet Holmgren,OKC,PF/C,24.8,38.4,38.8,37.9,31.3,43.8,65.0,2497.8,854.0,13,N,day-to-day,Rim-running big
-46,49,56.8,3,,Lauri Markkanen,UTAH,SF/PF,29.7,37.7,36.8,38.7,30.5,43.0,69.0,2598.4,853.4,13,N,day-to-day,Primary scorer
-47,52,50.7,5,,Stephon Castle,SA,PG/SG,22.3,37.1,37.3,36.9,29.9,42.5,72.0,2671.7,850.8,13,N,day-to-day,Primary scorer
-48,42,55.0,-6,,De'Aaron Fox,SA,PG/SG,29.1,37.3,36.5,38.2,30.1,42.6,71.0,2645.0,849.5,13,N,day-to-day,Lead guard
-49,35,41.2,-14,,Derrick White,BOS,PG/SG,32.6,36.3,35.7,37.0,29.2,41.6,77.0,2792.7,845.3,13,N,,Lead guard
-50,37,49.5,-13,,Darius Garland,LAC,PG,27.0,37.3,34.9,40.4,30.2,42.7,69.0,2576.6,831.6,13,Y,,Lead guard
-51,56,68.5,5,,Franz Wagner,ORL,SF/PF,25.4,37.8,37.2,38.6,30.7,43.2,66.0,2497.2,828.1,13,N,,Primary scorer
-52,47,54.6,-5,,Michael Porter Jr.,BKN,SF/PF,28.6,37.2,35.8,38.9,30.1,42.6,69.0,2568.9,823.9,13,N,,Primary scorer
-53,61,74.5,8,,Keyonte George,UTAH,PG/SG,23.2,37.3,37.7,36.8,30.2,42.7,68.0,2534.8,815.1,13,N,,Primary scorer
-54,41,38.7,-13,,LeBron James,PHI,SF/PF,42.1,37.8,34.0,42.5,30.6,43.2,64.0,2419.3,800.7,13,Y,day-to-day,Primary scorer
-55,53,55.6,-2,,Kyrie Irving,DAL,PG,34.9,38.6,34.1,44.2,31.6,44.0,59.0,2279.4,787.3,13,,knee (ACL) - ramp up,
-56,58,69.6,2,,Brandon Miller,CHA,SG/SF,24.2,36.4,35.5,37.4,29.2,41.7,68.0,2473.6,753.8,13,N,,Primary scorer
-57,66,80.2,9,,Donovan Clingan,POR,C,22.9,35.5,36.9,33.9,28.4,40.9,73.0,2593.8,747.6,13,N,,Rim-running big
-58,51,69.8,-7,,Dejounte Murray,NO,PG/SG,30.4,36.1,33.7,39.0,29.0,41.4,68.0,2454.2,734.5,13,N,day-to-day,Primary scorer
-59,74,90.9,15,TARGET,Alex Sarr,WSH,PF/C,21.8,36.3,36.1,36.6,29.2,41.7,66.0,2397.9,728.8,13,N,,Rim-running big
-60,50,59.7,-10,,Julius Randle,BKN,PF,32.2,35.1,33.6,37.0,28.0,40.5,72.0,2529.7,708.8,13,Y,,Primary scorer
-61,73,80.4,12,,VJ Edgecombe,PHI,SG,21.5,34.9,35.9,33.7,27.8,40.2,72.0,2512.0,691.1,13,N,,Connector wing
-62,64,75.2,2,,Caleb Wilson,CHI,SF,20.0,34.9,,34.9,27.8,40.3,71.0,2478.0,682.4,13,,,
-63,80,86.5,17,TARGET,Jaren Jackson Jr.,UTAH,PF/C,27.4,36.3,34.7,38.1,29.1,41.6,62.0,2248.0,680.1,13,Y,,Stretch big
-64,59,69.6,-5,,Damian Lillard,POR,PG,36.6,35.6,33.1,38.6,28.5,40.9,65.0,2313.5,669.7,13,N,day-to-day,
-65,70,80.6,5,,Ja Morant,POR,PG,27.5,35.6,34.0,37.5,28.5,40.9,65.0,2312.0,668.1,13,Y,,Primary scorer
-66,60,77.9,-6,,Onyeka Okongwu,ATL,C,26.1,34.5,34.3,34.8,27.4,39.9,72.0,2485.4,664.5,14,N,,Stretch big
-67,65,75.4,-2,,Cameron Boozer,MEM,PF,19.0,34.3,,34.3,27.2,39.7,72.0,2472.0,651.1,14,,,
-68,87,107.2,19,TARGET,Immanuel Quickley,TOR,PG/SG,27.6,35.3,35.6,34.9,28.2,40.6,65.0,2293.1,649.3,14,N,,Lead guard
-69,57,84.3,-12,,Ty Jerome,MEM,PG/SG,29.6,34.7,30.6,39.8,27.5,40.1,64.0,2221.5,603.0,15,N,,Primary scorer
-70,105,102.6,35,TARGET,Brandon Ingram,LAC,SF/PF,29.4,36.0,34.0,38.5,29.0,41.4,55.0,1982.2,591.2,15,Y,injured,Primary scorer
-71,46,56.4,-25,FADE,Nickeil Alexander-Walker,ATL,PG/SG,28.4,32.6,31.5,34.1,25.5,38.1,79.0,2578.8,580.9,15,N,day-to-day,Primary scorer
-72,75,90.7,3,,Matas Buzelis,CHI,SF/PF,22.3,33.1,33.6,32.5,25.6,38.5,74.0,2450.7,579.2,15,N,,Stretch big
-73,96,115.4,23,TARGET,Kevin Porter Jr.,MIL,PG/SG,26.7,33.8,34.5,33.0,26.7,39.2,66.0,2232.8,563.7,15,N,,Lead guard
-74,77,76.1,3,,AJ Dybantsa,WSH,SF,19.0,32.9,,32.9,25.7,38.3,72.0,2370.0,549.1,15,,,
-75,93,109.1,18,TARGET,Ryan Rollins,MIL,PG/SG,24.6,33.2,34.3,31.9,26.1,38.6,69.0,2289.5,544.5,15,N,,Lead guard
-76,67,79.5,-9,,Walker Kessler,LAL,C,25.5,33.6,29.5,38.6,26.4,39.0,64.0,2150.4,531.9,15,Y,day-to-day,Rim-running big
-77,44,52.4,-33,FADE,Mikal Bridges,NY,SG/SF,30.4,31.7,30.7,32.8,24.6,37.0,82.0,2596.4,522.6,15,N,,Connector wing
-78,95,113.3,17,TARGET,Kristaps Porzingis,GS,PF/C,31.5,34.1,31.7,36.9,27.0,39.4,59.0,2010.1,518.0,15,Y,day-to-day,Primary scorer
-79,43,55.7,-36,FADE,Naz Reid,CHA,PF/C,27.4,32.1,29.3,35.5,25.0,37.5,76.0,2438.7,516.7,15,Y,,Stretch big
-80,100,112.6,20,TARGET,RJ Barrett,TOR,SG/SF,26.6,33.0,33.4,32.6,25.9,38.4,66.0,2178.4,509.3,15,N,,Primary scorer
-81,82,102.1,1,,Derik Queen,NO,PF/C,22.1,31.8,32.9,30.5,24.6,37.2,76.0,2419.1,497.0,15,N,,Stretch big
-82,86,100.4,4,,Payton Pritchard,BOS,PG/SG,29.0,32.0,32.4,31.6,24.9,37.4,72.0,2306.1,485.2,15,N,,Lead guard
-83,76,95.4,-7,,Miles Bridges,PHX,SF/PF,28.9,32.0,30.5,33.9,25.0,37.4,71.0,2274.4,478.8,15,Y,day-to-day,3&D wing
-84,89,85.0,5,,OG Anunoby,NY,SF/PF,29.5,32.2,31.4,33.1,25.1,37.5,68.0,2187.3,467.6,15,N,,Connector wing
-85,71,94.8,-14,,Brandin Podziemski,GS,PG/SG,23.9,31.2,31.4,30.8,24.2,36.5,79.0,2462.0,464.1,15,N,,Lead guard
-86,81,79.6,-5,,Dylan Harper,SA,PG/SG,20.9,31.5,30.9,32.3,24.3,36.9,72.0,2267.7,446.8,15,N,day-to-day,Lead guard
-87,194,137.6,107,TARGET,Jimmy Butler III,GS,SG/SF,37.4,36.7,35.0,38.8,29.6,41.9,39.0,1431.4,445.1,15,N,out (season),Primary scorer
-88,84,105.8,-4,,Reed Sheppard,HOU,PG/SG,22.6,31.0,31.9,29.9,23.9,36.4,76.0,2358.6,436.5,15,N,,Connector wing
-89,106,104.9,17,TARGET,Paul George,BOS,SF/PF,36.8,33.0,28.6,38.5,25.9,38.4,55.0,1817.1,426.2,15,Y,,Connector wing
-90,142,137.3,52,TARGET,Jalen Suggs,ORL,PG/SG,25.7,31.9,34.2,29.1,24.7,37.5,62.0,1978.2,410.2,15,N,day-to-day,Lead guard
-91,63,81.9,-28,FADE,Norman Powell,CHI,SG/SF,33.7,31.0,26.9,36.0,23.6,37.8,69.0,2138.5,393.5,15,Y,,Primary scorer
-92,90,99.7,-2,,Josh Hart,NY,SG/SF,31.9,31.1,29.5,33.0,23.9,36.4,68.0,2112.3,392.6,15,N,,Lead guard
-93,99,103.0,6,,Ausar Thompson,DET,SF/PF,24.0,30.8,30.8,30.8,23.4,37.6,70.0,2156.8,386.5,15,N,,Connector wing
-94,91,105.2,-3,,Darius Acuff Jr.,SAC,PG,19.0,30.4,,30.4,23.1,37.1,73.0,2219.0,372.8,15,,,
-95,88,104.6,-7,,Jalen Green,PHX,SG/SF,25.0,30.4,28.8,32.4,23.0,36.6,70.0,2129.9,359.6,15,N,,Primary scorer
-96,92,99.6,-4,,Jaden McDaniels,MIN,SF/PF,26.3,30.1,30.3,29.7,22.7,36.9,74.0,2225.2,353.7,15,N,day-to-day,3&D wing
-97,79,101.0,-18,FADE,Coby White,CHA,PG/SG,27.0,30.1,27.8,32.9,22.7,36.9,72.0,2166.5,345.6,15,Y,day-to-day,Primary scorer
-98,101,116.8,3,,Andrew Wiggins,MIA,SF/PF,31.9,30.2,28.7,32.0,22.7,37.0,67.0,2024.6,330.2,15,N,day-to-day,3&D wing
-99,72,97.3,-27,FADE,Kel'el Ware,MIL,C,22.8,29.8,26.6,33.8,22.4,36.6,72.0,2146.9,326.0,16,Y,,Rim-running big
-100,119,130.7,19,TARGET,Andrew Nembhard,IND,PG/SG,27.0,29.7,31.0,28.2,22.3,36.5,71.0,2110.4,314.8,16,N,,Lead guard
-101,116,122.0,15,TARGET,Jabari Smith Jr.,HOU,PF/C,23.7,29.6,31.1,27.6,22.2,36.3,73.0,2157.9,311.7,16,N,,Stretch big
-102,85,105.9,-17,FADE,Fred VanVleet,HOU,PG/SG,32.9,29.6,26.5,33.4,22.2,36.3,68.0,2013.6,293.9,16,,day-to-day,
-103,114,128.3,11,,Cedric Coward,MEM,SG/SF,23.4,29.5,29.3,29.7,22.2,36.3,69.0,2034.4,289.4,16,N,,Stretch big
-104,78,98.6,-26,FADE,CJ McCollum,ATL,PG/SG,35.4,29.2,26.5,32.4,21.8,35.8,73.0,2129.8,283.7,16,Y,,Primary scorer
-105,107,125.6,2,,Jeremiah Fears,NO,PG/SG,20.3,28.9,30.3,27.3,21.7,35.7,77.0,2228.6,281.3,16,N,,Primary scorer
-106,94,116.0,-12,,Ayo Dosunmu,MIN,PG/SG,27.0,29.2,28.2,30.4,21.7,35.9,72.0,2099.6,278.7,16,Y,day-to-day,Lead guard
-107,104,108.4,-3,,Darryn Peterson,UTAH,PG/SG,19.0,29.1,,29.1,21.8,35.8,73.0,2122.0,275.8,16,,,
-108,120,134.5,12,,Kyshawn George,WSH,SG/SF,23.1,29.5,28.9,30.2,22.2,36.4,66.0,1944.1,275.0,16,N,,Primary scorer
-109,113,120.8,4,,Zach Edey,MEM,C,24.7,29.7,26.9,33.2,22.2,36.4,62.0,1842.4,274.5,16,N,,Rim-running big
-110,83,98.7,-27,FADE,DeMar DeRozan,DEN,SF/PF,37.5,28.9,28.0,29.8,21.6,35.6,77.0,2221.6,274.2,16,Y,,Primary scorer
-111,123,137.0,12,,Anthony Black,ORL,PG/SG,23.0,29.2,30.0,28.2,21.8,36.0,69.0,2014.2,269.2,16,N,day-to-day,Lead guard
-112,108,126.7,-4,,Nic Claxton,CHI,C,27.8,29.2,28.3,30.3,21.8,36.0,69.0,2013.1,268.1,16,Y,day-to-day,Stretch big
-113,122,125.1,9,,Zach LaVine,SAC,SG/SF,31.9,29.5,27.4,32.0,22.0,36.1,61.0,1797.5,254.9,16,N,,3&D wing
-114,110,129.1,-4,,Collin Gillespie,PHX,PG,27.6,28.7,29.0,28.5,21.4,35.3,73.0,2097.9,251.8,16,N,,Lead guard
-115,97,117.0,-18,FADE,Nikola Vucevic,ORL,C,36.3,28.7,27.5,30.2,21.3,35.9,72.0,2068.4,247.5,16,Y,,Stretch big
-116,111,125.5,-5,,Keegan Murray,SAC,SF/PF,26.5,28.5,27.9,29.3,21.2,35.3,71.0,2024.0,228.4,16,N,,3&D wing
-117,148,141.0,31,TARGET,Tre Jones,CHI,PG,27.1,28.6,31.0,25.8,21.3,35.3,68.0,1946.7,226.9,16,N,,Lead guard
-118,135,139.0,17,TARGET,Saddiq Bey,NO,SF/PF,27.8,28.3,30.3,25.9,21.0,34.9,71.0,2009.7,214.1,16,N,,3&D wing
-119,109,124.2,-10,,Jaime Jaquez Jr.,MIL,SG/SF,26.0,28.2,28.1,28.2,20.8,34.9,74.0,2083.5,212.0,16,Y,,Lead guard
-120,118,134.0,-2,,Collin Sexton,LAL,PG/SG,28.1,27.8,27.0,28.8,20.4,34.5,70.0,1945.1,174.8,17,Y,day-to-day,Primary scorer
-121,170,140.8,49,TARGET,Isaiah Collier,UTAH,PG,22.3,27.9,30.6,24.6,20.5,34.7,67.0,1869.0,174.6,17,N,,Lead guard
-122,127,133.8,5,,Jrue Holiday,POR,PG/SG,36.6,27.7,27.4,28.1,20.4,34.5,68.0,1884.5,164.8,17,N,,Lead guard
-123,98,115.0,-25,FADE,John Collins,DET,PF/C,29.4,27.5,24.0,31.8,20.2,34.2,68.0,1871.4,151.7,17,Y,,Stretch big
-124,112,125.9,-12,,Peyton Watson,CLE,SF/PF,24.4,27.4,25.9,29.3,20.0,34.1,71.0,1946.2,150.6,17,Y,,Stretch big
-125,140,140.7,15,TARGET,Kyle Filipowski,UTAH,PF/C,23.2,27.3,29.2,24.9,19.9,34.1,73.0,1991.3,145.1,17,N,day-to-day,Stretch big
-126,124,131.9,-2,,Ace Bailey,UTAH,SF/PF,20.5,27.3,27.7,26.8,19.9,34.4,72.0,1963.9,143.0,17,N,,3&D wing
-127,212,139.9,85,TARGET,Ajay Mitchell,OKC,PG/SG,24.6,27.9,30.1,25.2,20.5,34.5,55.0,1533.4,142.4,17,N,day-to-day,Lead guard
-128,121,135.8,-7,,Neemias Queta,BOS,C,27.6,27.3,27.3,27.2,19.8,33.9,72.0,1962.2,141.3,17,N,,Rim-running big
-129,133,135.2,4,,Devin Vassell,SA,SG/SF,26.4,27.3,27.7,26.8,19.9,34.2,69.0,1883.9,138.9,17,N,day-to-day,3&D wing
-130,128,131.5,-2,,Aaron Gordon,DEN,PF,31.4,27.2,25.9,28.9,19.8,33.9,66.0,1798.2,129.1,17,N,,Stretch big
-131,168,140.9,37,TARGET,Santi Aldama,DAL,SF/PF,26.1,27.2,28.9,25.0,19.8,34.1,66.0,1792.0,122.8,17,Y,day-to-day,Stretch big
-132,117,127.2,-15,FADE,Myles Turner,MIL,C,30.9,27.0,25.8,28.4,19.5,33.6,71.0,1916.7,121.1,17,N,,Rim-running big
-133,103,127.0,-30,FADE,Egor Demin,BKN,PG/SG,20.9,27.0,24.5,30.0,19.6,33.6,71.0,1915.3,119.7,17,N,,
-134,145,141.0,11,,Jusuf Nurkic,UTAH,C,32.4,27.1,26.8,27.6,19.6,33.9,64.0,1737.0,118.4,17,N,out,Stretch big
-135,115,129.8,-20,FADE,Quentin Grimes,LAL,SG/SF,26.7,26.8,25.7,28.1,19.2,33.7,73.0,1953.6,107.5,17,Y,,3&D wing
-136,125,138.2,-11,,Scotty Pippen Jr.,MEM,PG/SG,26.2,26.9,24.0,30.6,19.6,33.7,63.0,1697.5,104.2,17,N,,Lead guard
-137,150,140.3,13,,P.J. Washington,DAL,SF/PF,28.4,26.9,26.8,26.9,19.6,33.5,64.0,1719.3,100.7,17,N,,Stretch big
-138,102,122.9,-36,FADE,Tobias Harris,SA,SF/PF,34.5,26.5,23.5,30.1,19.1,33.4,71.0,1878.6,83.0,17,Y,day-to-day,3&D wing
-139,172,139.2,33,TARGET,Collin Murray-Boyles,TOR,PF,21.6,26.5,27.8,24.8,19.2,33.3,66.0,1747.2,78.1,17,N,,Connector wing
-140,130,140.2,-10,,Malik Monk,SAC,PG/SG,29.0,26.4,25.4,27.7,19.1,33.2,68.0,1796.4,76.6,17,N,day-to-day,Lead guard
-141,302,140.1,161,TARGET,Shaedon Sharpe,POR,SG/SF,23.7,27.7,30.1,24.8,20.4,34.6,27.0,748.6,65.8,17,N,injured,Primary scorer
-142,137,137.7,-5,,Cason Wallace,OKC,PG/SG,23.2,26.1,27.7,24.1,18.7,32.8,76.0,1984.8,62.7,17,N,day-to-day,Connector wing
-143,185,140.7,42,TARGET,Bilal Coulibaly,WSH,SG/SF,22.5,25.9,28.4,23.0,18.7,32.8,68.0,1763.8,44.1,17,N,,Connector wing
-144,131,138.7,-13,,Day'Ron Sharpe,BKN,C,25.2,25.8,24.8,27.0,18.5,32.4,69.0,1781.3,36.3,17,N,,Stretch big
-145,159,140.8,14,,Grayson Allen,CHA,PG/SG,31.3,25.8,25.1,26.6,18.4,32.6,63.0,1623.6,30.3,17,Y,day-to-day,Lead guard
-146,173,140.6,27,TARGET,Deandre Ayton,WSH,C,28.5,25.7,26.0,25.3,18.4,32.3,64.0,1642.6,24.1,17,Y,,Stretch big
-147,177,140.7,30,TARGET,Robert Williams III,POR,C,29.3,25.6,24.5,26.9,18.3,32.3,59.0,1508.4,16.3,17,N,day-to-day,Rim-running big
-148,143,139.3,-5,,Toumani Camara,POR,SF/PF,26.7,25.4,26.8,23.8,18.1,32.1,75.0,1907.8,11.0,17,N,,3&D wing
-149,178,140.7,29,TARGET,Jaylon Tyson,CLE,SG/SF,24.2,25.4,25.2,25.6,18.0,32.1,62.0,1572.5,4.5,17,N,,3&D wing
-150,321,139.8,171,TARGET,Donte DiVincenzo,MIN,PG/SG,30.0,25.7,28.0,23.0,18.4,32.6,4.0,102.9,1.8,18,N,out,Connector wing
-151,132,131.9,-19,FADE,Dillon Brooks,PHX,SG/SF,31.0,25.3,24.0,26.9,17.9,32.1,69.0,1745.7,0.7,18,N,,Primary scorer
-152,144,140.4,-8,,Cameron Johnson,DEN,SF/PF,30.9,25.3,24.6,26.1,17.9,32.0,68.0,1719.7,0.0,18,N,,3&D wing
-153,136,139.7,-17,FADE,Jerami Grant,MEM,PF,32.9,25.3,23.8,27.0,17.8,32.0,68.0,1717.4,-2.3,18,Y,,Primary scorer
-154,320,140.0,166,TARGET,Moses Moody,GS,SG/SF,24.7,23.4,24.1,22.4,16.1,30.3,12.0,280.3,-23.2,18,N,out,3&D wing
-155,155,140.2,0,,Bennedict Mathurin,NO,SG/SF,24.6,24.8,24.5,25.1,17.5,31.5,68.0,1683.5,-36.2,18,Y,,Primary scorer
-156,184,140.7,28,TARGET,Naji Marshall,DAL,SF/PF,29.0,24.7,26.7,22.4,17.4,31.5,70.0,1732.3,-38.0,18,N,,Lead guard
-157,139,136.5,-18,FADE,Draymond Green,GS,PF/C,36.9,24.6,21.5,28.5,17.2,31.3,64.0,1577.5,-41.1,18,N,,Lead guard
-158,195,140.8,37,TARGET,Christian Braun,DEN,SG/SF,25.8,24.6,25.8,23.1,17.2,31.4,65.0,1598.8,-45.1,18,N,,3&D wing
-159,161,140.5,2,,Scoot Henderson,POR,PG/SG,23.0,24.5,23.9,25.4,17.3,31.3,66.0,1619.8,-49.3,18,N,,Primary scorer
-160,141,139.3,-19,FADE,Davion Mitchell,MIA,PG,28.4,24.5,23.6,25.5,17.1,31.3,71.0,1737.8,-57.8,18,N,day-to-day,Lead guard
-161,157,140.4,-4,,Bobby Portis,MIA,PF/C,32.0,24.3,23.0,26.0,17.1,31.1,65.0,1581.9,-62.0,18,Y,,Stretch big
-162,153,140.2,-9,,Keaton Wagler,LAC,PG/SG,19.0,24.4,,24.4,17.1,31.3,70.0,1705.0,-65.3,18,,,
-163,146,136.3,-17,FADE,Jonathan Kuminga,MIN,SF/PF,24.3,24.1,22.3,26.3,16.7,31.0,67.0,1614.2,-80.2,18,Y,day-to-day,Stretch big
-164,149,140.9,-15,FADE,Isaiah Stewart,MEM,PF/C,25.7,24.0,23.0,25.3,16.8,30.7,69.0,1658.6,-86.4,18,Y,out,Rim-running big
-165,152,140.6,-13,,Mikel Brown Jr.,BKN,PG,20.0,24.0,,24.0,16.6,30.7,71.0,1706.0,-89.6,18,,day-to-day,
-166,164,140.9,-2,,Wendell Carter Jr.,ORL,C,27.8,24.0,24.8,23.0,16.8,30.9,72.0,1730.3,-90.6,18,N,,Stretch big
-167,134,140.3,-33,FADE,Keldon Johnson,SA,SF/PF,27.3,24.1,24.1,24.0,16.6,30.8,77.0,1852.1,-95.2,18,N,,3&D wing
-168,187,140.4,19,TARGET,Kelly Oubre Jr.,IND,SG/SF,31.1,23.8,24.2,23.2,16.5,30.6,67.0,1593.3,-101.1,18,Y,,Connector wing
-169,190,140.5,21,TARGET,Anfernee Simons,PHI,PG/SG,27.7,23.6,23.8,23.4,16.3,30.4,66.0,1560.3,-108.8,18,Y,day-to-day,3&D wing
-170,192,140.7,22,TARGET,Tari Eason,HOU,SF/PF,25.7,23.6,23.9,23.2,16.1,30.2,66.0,1559.2,-109.9,18,N,,Connector wing
-171,154,140.8,-17,FADE,T.J. McConnell,IND,PG,34.9,23.6,23.0,24.4,16.1,30.5,70.0,1653.4,-116.9,18,N,day-to-day,Lead guard
-172,151,140.9,-21,FADE,Precious Achiuwa,SAC,PF/C,27.4,23.5,23.0,24.1,16.1,30.2,71.0,1669.8,-125.8,18,N,,Stretch big
-173,162,129.0,-11,,Yaxel Lendeborg,GS,SF/PF,24.0,23.5,,23.5,16.2,30.3,71.0,1668.0,-127.6,18,,,
-174,163,140.8,-11,,Morez Johnson Jr.,DAL,PF/C,20.0,23.5,,23.5,16.2,30.2,71.0,1665.0,-130.6,18,,day-to-day,
-175,126,134.4,-49,FADE,Julian Champagnie,SA,SF/PF,25.6,23.6,23.9,23.3,16.4,30.6,82.0,1938.7,-135.0,18,N,,3&D wing
-176,215,140.4,39,TARGET,Bradley Beal,LAC,SG/SF,33.6,22.8,20.4,25.6,14.8,29.8,54.0,1228.8,-136.9,18,N,day-to-day,3&D wing
-177,176,140.8,-1,,GG Jackson,MEM,PF,22.1,23.2,23.1,23.3,15.9,30.0,69.0,1602.9,-142.1,18,N,,Stretch big
-178,183,140.7,5,,Aaron Nesmith,IND,SG/SF,27.3,23.0,21.7,24.6,15.7,29.9,64.0,1474.2,-144.3,18,N,,3&D wing
-179,186,140.6,7,,De'Anthony Melton,GS,PG/SG,28.7,22.8,21.9,24.0,15.4,30.0,65.0,1485.2,-158.7,18,N,,Connector wing
-180,169,140.8,-11,,Bub Carrington,WSH,PG/SG,21.5,23.2,25.7,20.1,15.8,30.0,82.0,1904.3,-169.5,19,N,,Lead guard
-181,165,139.2,-16,FADE,Alex Caruso,OKC,PG/SG,32.9,22.6,21.5,24.0,14.6,29.7,69.0,1562.5,-182.5,19,N,day-to-day,Connector wing
-182,147,140.9,-35,FADE,Danny Wolf,BKN,PF/C,22.7,22.6,20.8,24.7,14.7,29.7,71.0,1602.3,-193.3,19,N,,Stretch big
-183,200,140.5,17,TARGET,Brice Sensabaugh,UTAH,SG/SF,23.3,22.6,24.2,20.6,14.6,30.3,72.0,1626.8,-194.0,19,N,day-to-day,Primary scorer
-184,223,139.9,39,TARGET,Jaylin Williams,OKC,PF/C,24.6,22.3,24.3,20.0,14.3,29.4,67.0,1496.5,-198.0,19,N,day-to-day,Stretch big
-185,188,140.8,3,,De'Andre Hunter,SAC,SF/PF,29.2,22.2,20.8,23.9,14.3,29.3,65.0,1443.6,-200.2,19,Y,,3&D wing
-186,201,140.4,15,TARGET,Jalen Smith,CHI,PF/C,26.9,22.2,22.1,22.4,14.4,28.9,66.0,1468.0,-201.1,19,N,,Stretch big
-187,179,140.5,-8,,Kyle Kuzma,MIL,SF/PF,31.5,22.3,21.6,23.3,14.5,30.2,68.0,1518.6,-201.2,19,N,,3&D wing
-188,211,140.5,23,TARGET,Herbert Jones,NO,SF/PF,28.3,22.1,22.1,22.1,14.2,29.8,63.0,1390.8,-202.5,19,N,,Connector wing
-189,138,140.5,-51,FADE,Jake LaRavia,LAL,SF/PF,25.2,22.6,21.7,23.7,14.4,29.7,77.0,1740.2,-207.2,19,N,,Connector wing
-190,208,140.3,18,TARGET,Al Horford,GS,PF/C,40.7,21.5,18.6,25.1,13.5,28.6,56.0,1206.1,-210.1,19,N,day-to-day,Rim-running big
-191,180,140.5,-11,,Kingston Flemings,ATL,PG/SG,19.0,22.3,,22.3,14.3,30.0,71.0,1580.0,-215.6,19,,,
-192,181,140.5,-11,,Brayden Burries,MIL,SG,21.0,22.2,,22.2,14.4,29.3,71.0,1578.0,-217.6,19,,day-to-day,
-193,129,139.6,-64,FADE,Brook Lopez,LAC,C,38.8,22.2,19.0,26.2,14.1,29.3,72.0,1601.3,-219.6,19,N,,Rim-running big
-194,202,140.4,8,,Tre Johnson,WSH,SG,20.9,21.9,22.3,21.5,13.8,29.0,68.0,1491.5,-228.2,19,N,,3&D wing
-195,203,139.7,8,,Jordan Poole,NO,PG/SG,27.6,21.8,21.6,22.0,13.9,28.8,66.0,1438.0,-231.1,19,N,,Primary scorer
-196,230,140.3,34,TARGET,Paul Reed,DET,PF/C,27.6,21.6,22.6,20.4,13.7,29.3,63.0,1361.3,-232.0,19,N,,Rim-running big
-197,224,140.4,27,TARGET,Marvin Bagley III,DEN,PF/C,27.9,21.1,20.6,21.8,13.1,28.2,61.0,1288.3,-254.4,19,Y,,Stretch big
-198,262,140.1,64,TARGET,Jarace Walker,IND,SF/PF,23.4,21.1,24.8,16.5,13.1,28.8,63.0,1328.3,-265.0,19,N,,3&D wing
-199,156,136.8,-43,FADE,Rui Hachimura,LAC,SF/PF,29.0,21.5,19.5,24.0,13.4,29.2,71.0,1528.8,-266.8,19,Y,,3&D wing
-200,217,140.3,17,TARGET,Obi Toppin,IND,PF,28.9,21.0,20.3,21.9,13.2,28.1,63.0,1324.7,-268.6,19,N,,Primary scorer
-201,216,140.5,15,TARGET,Zaccharie Risacher,DAL,SF,21.8,21.1,21.7,20.3,13.3,28.1,68.0,1433.9,-285.8,19,Y,,Connector wing
-202,182,140.6,-20,FADE,Kevin Huerter,DET,SG/SF,28.4,21.1,19.7,22.9,13.1,28.2,69.0,1456.9,-288.1,19,Y,,Connector wing
-203,175,140.9,-28,FADE,Max Christie,DAL,SG,24.0,21.5,22.0,21.0,13.7,29.2,77.0,1657.7,-289.6,19,N,,3&D wing
-204,206,140.5,2,,Derrick Jones Jr.,LAC,SF/PF,30.0,20.8,20.6,21.1,12.8,27.5,68.0,1417.1,-302.6,19,N,,3&D wing
-205,166,140.8,-39,FADE,Walter Clayton Jr.,MEM,PG/SG,23.9,21.0,19.0,23.4,13.1,28.7,71.0,1488.4,-307.2,19,Y,,Lead guard
-206,196,140.5,-10,,Max Strus,LAC,SF,30.8,20.7,19.2,22.4,12.4,27.8,67.0,1384.2,-310.2,19,Y,out,3&D wing
-207,240,140.2,33,TARGET,Sam Merrill,CLE,SG,30.7,20.3,20.5,20.0,12.3,26.9,62.0,1256.8,-311.2,19,N,,3&D wing
-208,233,140.1,25,TARGET,Miles McBride,NY,PG/SG,26.4,20.5,21.1,19.7,12.3,27.6,65.0,1329.4,-314.4,19,N,,3&D wing
-209,228,140.4,19,TARGET,Gui Santos,GS,SF,24.6,20.5,21.1,19.7,12.7,28.2,66.0,1351.6,-317.5,19,N,,Connector wing
-210,158,140.9,-52,FADE,Jamal Shead,TOR,PG,24.6,21.3,21.8,20.7,13.0,28.4,81.0,1728.6,-319.9,20,N,,Lead guard
-211,167,140.8,-44,FADE,Dennis Schroder,CHA,PG,33.4,20.7,18.7,23.0,12.8,27.7,72.0,1487.4,-333.5,20,Y,,Lead guard
-212,199,140.4,-13,,Vit Krejci,POR,PG,26.6,20.1,17.9,22.8,12.2,27.2,65.0,1307.0,-336.8,20,Y,,3&D wing
-213,198,140.6,-15,FADE,Nique Clifford,SAC,SG/SF,25.0,20.6,20.4,20.8,12.6,27.6,72.0,1481.7,-339.2,20,N,,3&D wing
-214,174,140.9,-40,FADE,Royce O'Neale,CHA,SF/PF,33.7,20.8,20.4,21.3,13.1,27.9,76.0,1579.2,-342.8,20,Y,,3&D wing
-215,191,140.5,-24,FADE,Nolan Traore,BKN,PG,20.7,20.4,19.4,21.6,12.4,27.5,71.0,1448.2,-347.4,20,N,,Lead guard
-216,250,140.1,34,TARGET,Khris Middleton,WSH,SF/PF,35.5,18.6,17.1,20.5,10.4,25.7,53.0,986.8,-353.6,20,N,day-to-day,3&D wing
-217,219,140.4,2,,Jaylen Wells,MEM,SG/SF,23.4,20.2,21.0,19.3,12.4,27.3,71.0,1435.3,-360.3,20,N,,3&D wing
-218,210,138.4,-8,,Jared McCain,OKC,PG/SG,22.9,20.0,19.9,20.2,12.0,27.1,69.0,1382.7,-362.3,20,Y,day-to-day,3&D wing
-219,197,140.5,-22,FADE,Kris Dunn,LAC,PG/SG,32.9,20.3,20.6,20.0,12.2,27.4,75.0,1525.8,-370.9,20,N,,Connector wing
-220,234,140.2,14,,Ziaire Williams,LAL,SG/SF,25.4,19.5,19.3,19.7,11.5,26.6,65.0,1267.1,-376.7,20,Y,day-to-day,Connector wing
-221,204,140.4,-17,FADE,Isaiah Joe,DET,SG,27.6,20.1,20.0,20.1,12.2,27.2,72.0,1443.8,-377.0,20,Y,,3&D wing
-222,171,140.6,-51,FADE,Duncan Robinson,DET,SG/SF,32.8,20.3,19.3,21.6,12.0,28.0,76.0,1544.3,-377.7,20,N,,3&D wing
-223,246,140.2,23,TARGET,Matisse Thybulle,LAL,SF,29.9,18.8,18.4,19.2,10.9,25.9,59.0,1108.2,-383.9,20,Y,,Connector wing
-224,289,140.0,65,TARGET,D'Angelo Russell,,PG/SG,,17.3,,17.3,9.0,23.4,48.0,830.0,-383.9,20,,,Primary scorer
-225,267,140.1,42,TARGET,Tristan Vukcevic,WSH,PF,23.9,18.7,20.1,16.9,10.5,25.7,61.0,1138.3,-404.4,20,N,out,Primary scorer
-226,257,140.0,31,TARGET,Bones Hyland,MIN,PG,26.4,18.7,20.0,17.1,10.9,25.7,62.0,1158.8,-409.1,20,N,,Lead guard
-227,244,140.2,17,TARGET,Caris LeVert,MIL,SG/SF,32.4,18.5,17.8,19.4,10.5,25.6,61.0,1130.8,-411.8,20,Y,,Connector wing
-228,248,140.1,20,TARGET,Goga Bitadze,ORL,C,27.5,18.8,20.4,16.8,11.0,26.5,65.0,1222.5,-421.4,20,N,,Rim-running big
-229,232,140.3,3,,Jeremy Sochan,POR,PF,23.7,18.8,18.2,19.4,10.5,26.5,66.0,1239.2,-429.9,20,Y,,Connector wing
-230,236,140.2,6,,Marcus Smart,HOU,PG/SG,32.9,18.2,16.5,20.4,10.4,25.4,62.0,1131.2,-436.8,20,Y,,Connector wing
-231,242,140.2,11,,Ja'Kobe Walter,TOR,SG,22.4,18.8,19.8,17.6,10.9,25.9,69.0,1297.5,-447.5,20,N,,Connector wing
-232,231,140.0,-1,,Jose Alvarado,NY,PG,28.8,18.5,17.7,19.5,10.6,26.2,66.0,1219.6,-449.5,20,Y,,Lead guard
-233,160,140.5,-73,FADE,Tim Hardaway Jr.,MIA,SG/SF,34.9,19.6,18.5,21.0,11.4,26.7,80.0,1566.1,-457.1,20,Y,,3&D wing
-234,193,140.4,-41,FADE,Luguentz Dort,ATL,SG/SF,27.8,18.9,17.1,21.2,10.9,26.0,72.0,1361.2,-459.7,20,Y,,3&D wing
-235,189,140.6,-46,FADE,Sam Hauser,BOS,SF/PF,29.1,19.3,18.6,20.1,11.1,26.3,77.0,1484.6,-462.7,20,N,,3&D wing
-236,255,140.1,19,TARGET,Noah Clowney,BKN,PF,22.6,18.5,21.0,15.4,10.3,25.5,69.0,1275.9,-469.1,20,N,,3&D wing
-237,249,140.1,12,,Kyle Anderson,TOR,SF/PF,33.4,17.7,17.8,17.6,9.5,25.4,62.0,1096.7,-471.3,20,Y,,Connector wing
-238,222,139.8,-16,FADE,Nikola Jovic,MIA,PF,23.6,18.6,18.2,19.1,10.8,26.3,71.0,1322.4,-473.2,20,N,,Primary scorer
-239,235,140.2,-4,,Ronald Holland II,DET,SF/PF,21.6,19.1,21.6,16.1,11.3,26.8,79.0,1511.3,-486.6,20,N,,
-240,207,140.3,-33,FADE,Luke Kennard,PHX,SG,30.6,18.7,18.4,19.1,10.5,26.4,74.0,1382.8,-488.6,21,Y,,3&D wing
-241,225,140.3,-16,FADE,Tristan da Silva,ORL,SF/PF,25.7,18.9,20.3,17.2,11.0,26.6,77.0,1455.3,-492.0,21,N,,3&D wing
-242,205,140.3,-37,FADE,Khaman Maluach,PHX,C,20.4,17.7,14.1,22.1,9.7,24.7,65.0,1150.3,-493.6,21,N,,Rim-running big
-243,253,140.1,10,,Olivier-Maxence Prosper,MEM,PF,24.6,17.6,18.1,16.9,9.8,24.6,64.0,1124.1,-494.5,21,N,,Connector wing
-244,268,140.1,24,TARGET,Grant Williams,CHA,PF,28.2,17.4,18.2,16.3,9.5,24.0,63.0,1093.1,-500.2,21,N,day-to-day,3&D wing
-245,227,140.4,-18,FADE,Keon Ellis,BKN,SG/SF,27.1,18.3,18.5,18.1,10.1,25.4,72.0,1317.8,-503.0,21,Y,,Connector wing
-246,283,140.0,37,TARGET,Zach Collins,CHI,C,29.2,16.3,16.7,15.8,7.7,22.7,56.0,912.3,-503.9,21,N,day-to-day,Stretch big
-247,220,140.3,-27,FADE,Ryan Dunn,PHX,SF/PF,24.1,18.2,17.3,19.2,10.2,25.3,71.0,1289.0,-506.5,21,N,,Connector wing
-248,239,140.2,-9,,Andre Drummond,NY,C,33.5,16.8,13.6,20.7,8.6,22.9,60.0,1008.9,-508.5,21,Y,,Rim-running big
-249,213,140.4,-36,FADE,Aaron Wiggins,ATL,SG/SF,28.1,18.2,17.3,19.2,10.3,25.2,72.0,1308.0,-512.9,21,Y,,Connector wing
-250,258,140.1,8,,Jaxson Hayes,UTAH,C,26.7,17.2,17.8,16.5,9.0,23.3,64.0,1102.5,-516.1,21,Y,,Rim-running big
-251,221,138.8,-30,FADE,Klay Thompson,MIA,SG/SF,37.0,17.8,16.3,19.5,9.6,24.8,70.0,1242.8,-527.5,21,Y,day-to-day,3&D wing
-252,218,140.3,-34,FADE,Kasparas Jakucionis,MIL,PG,20.7,17.5,15.3,20.2,9.5,24.6,68.0,1190.2,-529.5,21,Y,day-to-day,3&D wing
-253,226,140.2,-27,FADE,Jordan Walsh,BOS,SF,22.9,17.8,17.1,18.6,9.9,25.5,71.0,1260.8,-534.8,21,N,,Connector wing
-254,263,140.1,9,,Cody Williams,MIN,SG,22.2,16.8,17.3,16.2,8.6,23.2,64.0,1073.9,-544.6,21,Y,,3&D wing
-255,209,140.0,-46,FADE,Gradey Dick,LAC,SG/SF,23.2,17.7,16.2,19.5,9.9,24.8,72.0,1272.1,-548.7,21,Y,,Connector wing
-256,261,140.1,5,,Buddy Hield,CHI,SG/SF,34.1,16.4,16.0,16.9,8.1,22.5,62.0,1016.2,-551.8,21,Y,,Connector wing
-257,214,140.4,-43,FADE,Baylor Scheierman,BOS,SG,26.3,17.6,16.2,19.2,9.4,24.7,72.0,1264.5,-556.4,21,N,,3&D wing
-258,241,140.2,-17,FADE,Hannes Steinbach,CHA,PF,20.0,17.5,,17.5,9.6,24.6,71.0,1239.0,-556.6,21,,,
-259,264,140.1,5,,Isaac Okoro,CHI,SG/SF,26.0,16.9,18.3,15.2,8.7,22.9,68.0,1150.3,-569.4,21,N,,3&D wing
-260,277,140.0,17,TARGET,Dean Wade,PHI,PF,30.2,15.2,14.2,16.3,7.2,21.5,58.0,879.3,-587.5,21,Y,,3&D wing
-261,252,140.1,-9,,Corey Kispert,ATL,SG/SF,27.9,16.2,15.8,16.6,8.0,22.6,65.0,1051.6,-592.2,21,Y,,3&D wing
-262,287,140.1,25,TARGET,Leonard Miller,CHI,SF,23.2,15.7,17.3,13.8,7.5,21.8,62.0,974.7,-593.3,21,Y,,Stretch big
-263,247,140.0,-16,FADE,Rob Dillingham,,PG,,16.5,,16.5,8.2,22.8,68.0,1123.0,-596.7,21,,day-to-day,Lead guard
-264,291,140.0,27,TARGET,Mike Conley,BOS,PG,39.3,14.3,14.0,14.8,6.1,20.6,55.0,788.4,-602.5,21,Y,,Lead guard
-265,281,140.1,16,TARGET,Jarred Vanderbilt,LAL,SF/PF,27.8,15.5,16.0,14.9,7.3,21.5,62.0,961.9,-606.1,21,N,,Connector wing
-266,238,140.2,-28,FADE,Terance Mann,BKN,SG/SF,30.3,16.7,15.9,17.7,8.5,22.8,71.0,1183.4,-612.2,21,N,,3&D wing
-267,256,140.1,-11,,Bogdan Bogdanovic,HOU,SG/SF,34.5,15.8,15.4,16.4,7.6,21.8,65.0,1028.5,-615.3,21,Y,,3&D wing
-268,298,140.0,30,TARGET,Jevon Carter,ORL,PG,31.4,12.9,12.5,13.4,6.8,20.1,51.0,659.8,-630.0,21,Y,,Connector wing
-269,243,140.1,-26,FADE,Kentavious Caldwell-Pope,PHI,SG/SF,34.0,15.9,14.7,17.4,7.7,22.0,68.0,1083.4,-636.3,21,Y,day-to-day,Lead guard
-270,229,140.2,-41,FADE,AJ Green,MIL,SG,27.3,16.8,16.7,17.0,8.9,23.2,76.0,1280.4,-641.7,22,N,,3&D wing
-271,284,140.0,13,,Moritz Wagner,BKN,C,29.8,14.8,15.3,14.2,6.8,20.9,62.0,916.3,-651.7,22,Y,,Stretch big
-272,282,140.0,10,,Kenrich Williams,OKC,SF,32.2,15.2,16.0,14.2,6.6,21.1,65.0,985.0,-658.8,22,N,day-to-day,3&D wing
-273,237,140.2,-36,FADE,Harrison Barnes,SA,SF/PF,34.7,17.0,18.0,15.7,8.7,23.1,80.0,1357.3,-665.9,22,N,,3&D wing
-274,295,140.0,21,TARGET,Marcus Sasser,DAL,PG,26.4,14.1,15.5,12.4,5.9,20.5,60.0,846.1,-671.3,22,Y,day-to-day,Lead guard
-275,245,140.1,-30,FADE,Hugo Gonzalez,BOS,SF,21.0,16.1,16.4,15.9,7.6,22.4,74.0,1194.5,-677.0,22,N,,Connector wing
-276,296,140.0,20,TARGET,Jaden Hardy,LAL,SG,24.6,13.9,15.5,12.0,5.7,20.0,60.0,836.0,-681.4,22,Y,,3&D wing
-277,292,140.0,15,TARGET,Ben Sheppard,IND,SG/SF,25.5,14.2,15.2,13.1,6.0,20.5,62.0,882.7,-685.2,22,N,,3&D wing
-278,251,140.1,-27,FADE,Simone Fontecchio,MIA,SF,31.1,15.6,15.9,15.3,7.4,21.9,71.0,1108.0,-687.6,22,N,,3&D wing
-279,260,140.1,-19,FADE,Larry Nance Jr.,IND,PF,34.1,14.1,11.9,16.9,6.0,20.2,62.0,876.4,-691.5,22,Y,,Connector wing
-280,317,139.9,37,TARGET,Jalen Pickett,LAC,PG/SG,27.3,11.0,13.1,8.6,4.9,18.2,49.0,541.2,-698.1,22,Y,,3&D wing
-281,274,140.1,-7,,Kris Murray,MEM,PF,26.5,14.9,15.2,14.6,6.7,21.2,68.0,1015.2,-704.5,22,Y,,Connector wing
-282,259,140.0,-23,FADE,Adem Bona,PHI,C,23.8,14.9,14.6,15.3,6.7,21.0,69.0,1030.4,-714.6,22,N,day-to-day,Rim-running big
-283,293,140.0,10,,Taurean Prince,DET,SF,32.9,13.7,14.6,12.6,5.7,19.8,62.0,847.7,-720.3,22,Y,,3&D wing
-284,270,140.1,-14,,Kevon Looney,LAL,C,31.0,14.2,12.9,15.7,6.0,20.5,65.0,921.7,-722.1,22,Y,,Rim-running big
-285,265,140.1,-20,FADE,Patrick Williams,CHI,PF,25.4,15.2,15.9,14.4,7.0,21.3,72.0,1095.9,-724.9,22,N,,3&D wing
-286,272,140.1,-14,,Mouhamed Gueye,ATL,PF,24.2,14.9,15.5,14.2,7.0,21.3,70.0,1044.1,-726.2,22,N,day-to-day,Connector wing
-287,288,140.0,1,,Asa Newell,ATL,PF,21.3,14.2,15.1,13.0,6.0,20.5,66.0,934.0,-735.1,22,N,,Stretch big
-288,286,140.0,-2,,Julian Strawther,DEN,SF,24.8,14.1,15.0,13.1,6.2,20.4,66.0,933.1,-736.0,22,N,,3&D wing
-289,301,140.0,12,,Josh Green,UTAH,SG,26.2,12.8,13.9,11.4,6.7,19.9,59.0,754.3,-737.8,22,Y,,3&D wing
-290,285,140.0,-5,,Tre Mann,WSH,PG/SG,26.0,14.3,15.3,13.1,5.7,20.2,67.0,956.4,-738.1,22,Y,day-to-day,Lead guard
-291,280,140.0,-11,,Liam McNeeley,CHA,SF,21.3,13.7,13.1,14.5,5.8,20.1,64.0,879.0,-739.6,22,N,,3&D wing
-292,297,140.0,5,,Johnny Furphy,IND,SG,22.1,13.1,14.3,11.6,7.0,20.4,61.0,799.4,-743.3,22,N,out (season),3&D wing
-293,269,140.1,-24,FADE,Trey Lyles,MIN,PF,31.2,13.7,11.8,16.0,5.7,20.0,64.0,874.8,-743.7,22,,,
-294,271,139.9,-23,FADE,Landry Shamet,NY,SG,29.9,14.2,13.5,15.0,6.0,20.2,67.0,950.5,-744.0,22,N,,3&D wing
-295,308,140.0,13,,Jonathan Isaac,ORL,PF,29.3,11.6,12.2,10.9,5.4,19.1,55.0,638.5,-752.4,22,N,day-to-day,Rim-running big
-296,275,140.1,-21,FADE,Gary Trent Jr.,MIL,SG/SF,28.0,14.0,13.7,14.4,5.9,20.3,67.0,941.1,-753.3,22,N,,3&D wing
-297,279,140.0,-18,FADE,Thomas Bryant,CLE,C,29.5,14.2,14.6,13.7,6.0,20.6,68.0,965.3,-754.4,22,N,,Stretch big
-298,300,140.0,2,,Rayan Rupert,PHI,SG,22.7,12.6,13.9,11.0,6.5,20.2,61.0,769.2,-773.5,22,Y,,Connector wing
-299,266,140.0,-33,FADE,Terrence Shannon Jr.,MIN,SG,26.5,13.9,13.1,14.9,5.8,19.9,69.0,961.0,-784.0,22,N,,3&D wing
-300,273,140.0,-27,FADE,Jordan Clarkson,NY,SG/SF,34.7,13.4,12.0,15.1,7.3,20.7,66.0,882.7,-786.4,23,N,,3&D wing
+model_rank,espn_rank,adp,rank_diff,flag,player,team,positions,age,blend_fppg,model_fppg,espn_fppg,fppg_p10,fppg_p90,proj_games,games_p10,games_p90,season_pts,vorp,tier,changed_team,injury_note,player_type,comps
+1,1,1.4,0,,Nikola Jokic,DEN,C,32.0,64.3,61.9,67.2,57.2,69.7,72.0,33.0,78.0,4629.5,2808.7,1,N,,Primary scorer,Al Jefferson 2013; Kevin Durant 2019; Dirk Nowitzki 2013
+2,2,3.1,0,,Shai Gilgeous-Alexander,OKC,PG,28.6,56.9,57.0,56.8,49.8,62.4,76.0,46.0,82.0,4328.1,2406.1,2,N,day-to-day,Primary scorer,Zach LaVine 2023; Spencer Dinwiddie 2021; Paul George 2021
+3,4,3.0,1,,Victor Wembanyama,SA,C,23.1,61.0,61.5,60.5,53.9,66.2,67.0,34.0,82.0,4089.4,2395.0,2,N,day-to-day,Rim-running big,Victor Wembanyama 2025; Victor Wembanyama 2026; Lauri Markkanen 2024
+4,3,3.6,-1,,Luka Doncic,LAL,PG,27.9,60.2,59.8,60.6,53.1,65.3,68.0,34.0,77.0,4091.5,2371.8,2,N,,Primary scorer,Carmelo Anthony 2011; Luka Doncic 2024; Luka Doncic 2025
+5,5,5.7,0,,Giannis Antetokounmpo,MIA,PF/C,32.2,52.0,47.4,57.6,44.9,57.5,67.0,35.0,79.0,3480.8,1786.4,3,Y,day-to-day,Primary scorer,Julius Randle 2025; Anthony Davis 2026; Luka Doncic 2026
+6,7,8.0,1,,Cade Cunningham,DET,PG,25.4,50.7,51.0,50.4,43.6,56.3,69.0,45.0,78.0,3501.2,1756.2,3,N,day-to-day,Primary scorer,Jimmy Butler III 2017; Dion Waiters 2015; Eric Gordon 2016
+7,6,8.7,-1,,Jalen Johnson,ATL,PF,25.1,48.6,47.5,50.0,41.5,54.0,72.0,35.0,82.0,3499.2,1678.3,4,N,,Primary scorer,Devin Booker 2021; Jalen Johnson 2026; Nikola Vucevic 2016
+8,8,7.3,0,,Anthony Edwards,MIN,SG/SF,25.5,47.1,47.0,47.2,40.0,52.5,72.0,45.0,82.0,3391.1,1570.3,5,N,day-to-day,Primary scorer,Donovan Mitchell 2022; DeMar DeRozan 2016; Jaylen Brown 2022
+9,13,13.4,4,,Tyrese Maxey,PHI,PG/SG,26.2,47.4,49.3,45.1,40.3,52.8,71.0,37.0,82.0,3365.3,1569.7,5,N,,Primary scorer,Tyrese Maxey 2026; Evan Fournier 2023; JJ Redick 2016
+10,9,9.2,-1,,Jayson Tatum,BOS,SF/PF,28.9,46.9,46.0,48.1,39.8,52.3,70.0,39.0,82.0,3285.9,1515.6,6,N,,Primary scorer,Paul George 2023; Zach LaVine 2025; Dillon Brooks 2023
+11,11,13.1,0,,Cooper Flagg,DAL,SF/PF,20.1,45.7,45.9,45.4,38.6,51.0,72.0,46.0,78.0,3287.7,1466.8,7,N,,Primary scorer,Josh Giddey 2024; Tyreke Evans 2011; LaMelo Ball 2023
+12,21,19.8,9,,Tyrese Haliburton,IND,PG/SG,26.9,47.0,45.8,48.6,40.0,52.4,64.0,8.0,79.0,3011.1,1392.6,8,,day-to-day,,Nik Stauskas 2022; Brandin Podziemski 2026; George Hill 2013
+13,22,24.4,9,,Alperen Sengun,HOU,C,24.5,44.5,45.8,43.0,37.4,50.1,72.0,46.0,81.0,3207.2,1386.3,8,N,day-to-day,Primary scorer,Alperen Sengun 2026; Nikola Vucevic 2018; LaMarcus Aldridge 2015
+14,10,11.3,-4,,Donovan Mitchell,CLE,PG/SG,30.4,44.8,43.3,46.5,37.6,50.1,71.0,47.0,82.0,3177.4,1381.8,8,N,,Primary scorer,Dwyane Wade 2011; Donovan Mitchell 2026; Zach LaVine 2024
+15,17,16.7,2,,Scottie Barnes,TOR,SG/SF,25.5,44.2,44.7,43.7,37.1,49.6,72.0,21.0,82.0,3184.5,1363.6,8,N,,Primary scorer,Danilo Gallinari 2014; Jarrett Allen 2025; Pascal Siakam 2020
+16,18,23.6,2,,Josh Giddey,CHI,PG/SG,24.3,44.7,43.4,46.2,37.5,50.0,68.0,47.0,79.0,3037.6,1317.8,9,N,,Primary scorer,Trey Murphy III 2026; Jayson Tatum 2022; Jayson Tatum 2021
+17,27,31.7,10,,Jamal Murray,DEN,PG,29.9,43.6,43.3,43.9,36.4,48.9,69.0,39.0,79.0,3005.4,1260.4,10,N,,Primary scorer,Zach LaVine 2024; Jaylen Brown 2025; Deron Williams 2014
+18,28,30.8,10,,Anthony Davis,WSH,PF/C,33.9,45.5,42.2,49.6,38.4,50.9,61.0,29.0,76.0,2776.9,1234.2,10,Y,,Rim-running big,LaMarcus Aldridge 2022; DeMarcus Cousins 2020; Anthony Davis 2026
+19,14,19.2,-5,,LaMelo Ball,MIN,PG,25.4,43.4,40.9,46.4,36.3,48.8,68.0,36.0,78.0,2950.7,1231.0,10,Y,day-to-day,Primary scorer,Caris LeVert 2022; Caris LeVert 2023; Zach LaVine 2021
+20,19,21.0,-1,,Amen Thompson,HOU,SG/SF,24.0,40.9,41.6,40.0,33.7,46.2,78.0,59.0,82.0,3187.5,1214.9,10,N,,Lead guard,Amen Thompson 2026; Kent Bazemore 2017; P.J. Washington 2024
+21,12,18.1,-9,,Domantas Sabonis,SAC,PF/C,30.7,42.7,39.4,46.7,35.2,48.3,69.0,38.0,82.0,2947.0,1202.0,10,N,day-to-day,Stretch big,Paul Millsap 2019; Serge Ibaka 2022; Lauri Markkanen 2026
+22,15,14.1,-7,,Jalen Brunson,NY,PG,30.4,41.7,40.0,43.8,34.6,47.1,72.0,52.0,82.0,3003.6,1182.7,10,N,,Primary scorer,Jalen Brunson 2025; Jalen Brunson 2026; Donovan Mitchell 2026
+23,34,36.3,11,,Evan Mobley,CLE,PF/C,25.6,42.7,42.1,43.3,35.6,48.1,66.0,23.0,82.0,2816.2,1147.1,11,N,,Rim-running big,John Collins 2023; T.J. Warren 2019; John Collins 2025
+24,32,31.5,8,,Kawhi Leonard,TOR,SF/PF,35.6,43.4,41.4,45.7,36.2,48.7,63.0,25.0,75.0,2731.3,1138.0,11,Y,,Primary scorer,Antawn Jamison 2013; Corey Maggette 2011; Corey Maggette 2013
+25,20,22.3,-5,,Devin Booker,PHX,PG/SG,30.3,40.3,38.0,43.2,33.2,45.7,72.0,41.0,82.0,2903.8,1082.9,12,N,day-to-day,Primary scorer,Dwyane Wade 2013; Zach LaVine 2023; Jamal Murray 2025
+26,24,21.4,-2,,Karl-Anthony Towns,NY,C,31.2,40.5,37.6,44.1,33.4,45.9,70.0,40.0,81.0,2838.0,1067.7,12,N,,Stretch big,Chris Bosh 2015; Josh Smith 2015; Markieff Morris 2019
+27,29,34.1,2,,Deni Avdija,POR,SF/PF,26.1,40.1,39.9,40.4,33.0,45.4,72.0,27.0,82.0,2886.4,1065.6,12,N,,Primary scorer,Derrick Favors 2017; Tyrese Maxey 2026; Derrick Favors 2018
+28,23,21.0,-5,,Kevin Durant,HOU,SF/PF,38.3,39.6,36.9,42.9,32.5,45.0,72.0,45.0,81.0,2851.3,1030.4,12,N,day-to-day,Primary scorer,Tim Duncan 2014; Kevin Garnett 2013; Dirk Nowitzki 2015
+29,30,35.5,1,,Austin Reaves,LAL,PG/SG,28.7,40.5,38.2,43.3,33.4,45.9,67.0,37.0,76.0,2712.3,1017.9,12,N,,Primary scorer,Zach LaVine 2023; Brandon Roy 2011; DeMar DeRozan 2016
+30,16,22.9,-14,,Trae Young,WSH,PG,28.4,39.6,35.6,44.4,32.4,45.1,71.0,32.0,82.0,2808.6,1013.1,12,Y,,Primary scorer,Avery Bradley 2019; Avery Bradley 2021; Avery Bradley 2020
+31,25,29.7,-6,,James Harden,CLE,PG/SG,37.4,39.1,36.7,42.1,32.0,44.5,73.0,57.0,81.0,2854.6,1008.5,12,Y,,Primary scorer,DeMar DeRozan 2025; Vince Carter 2012; Chauncey Billups 2012
+32,33,38.3,1,,Jalen Williams,OKC,SF/PF,25.8,39.7,38.6,41.0,32.5,44.9,70.0,34.0,82.0,2776.8,1006.5,12,N,day-to-day,Primary scorer,Victor Oladipo 2020; Bradley Beal 2017; Jamal Murray 2022
+33,45,41.9,12,,Paolo Banchero,ORL,SF/PF,24.2,39.7,40.3,39.0,32.6,45.3,69.0,36.0,80.0,2739.7,994.7,12,N,,Primary scorer,Kevin Love 2012; Rudy Gay 2013; Andrew Bogut 2011
+34,36,29.9,2,,Stephen Curry,GS,PG,38.9,40.2,37.8,43.0,33.1,45.7,66.0,35.0,79.0,2651.3,982.2,12,N,,Primary scorer,Stephen Curry 2024; Tony Parker 2015; Stephen Curry 2026
+35,31,29.1,-4,,Bam Adebayo,MIA,PF/C,29.5,38.7,38.0,39.6,31.6,44.1,73.0,46.0,82.0,2826.0,979.8,12,N,day-to-day,Stretch big,Bam Adebayo 2026; Rudy Gay 2015; Jared Dudley 2017
+36,26,30.6,-10,,Pascal Siakam,IND,PF,32.8,37.8,35.2,41.1,30.7,43.2,74.0,35.0,82.0,2800.3,928.8,13,N,,Primary scorer,LeBron James 2020; DeMar DeRozan 2023; Blake Griffin 2020
+37,69,68.6,32,TARGET,Joel Embiid,PHI,C,32.9,42.0,39.3,45.4,34.9,47.4,54.0,27.0,68.0,2267.9,902.3,13,N,day-to-day,Primary scorer,Joel Embiid 2026; Anthony Davis 2024; Anthony Davis 2023
+38,39,42.8,1,,Kon Knueppel,CHA,SG/SF,21.5,36.8,38.1,35.2,29.7,42.2,78.0,56.0,82.0,2869.9,897.3,13,N,day-to-day,3&D wing,RJ Barrett 2022; Jayson Tatum 2019; Josh Giddey 2024
+39,48,59.6,9,,Dyson Daniels,ATL,PG/SG,23.9,37.1,38.2,35.7,30.0,42.4,75.0,53.0,82.0,2779.6,882.8,13,N,,Connector wing,Terrence Ross 2015; Kevin Huerter 2024; Joe Harris 2020
+40,40,32.7,0,,Jaylen Brown,PHI,SG/SF,30.3,37.7,37.0,38.6,30.7,43.1,71.0,55.0,82.0,2677.6,882.0,13,Y,day-to-day,Primary scorer,Jaylen Brown 2026; Jerami Grant 2023; Jimmy Butler III 2020
+41,62,72.7,21,TARGET,Trey Murphy III,NO,SG/SF,26.6,38.2,39.4,36.8,31.1,43.6,68.0,44.0,80.0,2598.6,878.9,13,N,,Primary scorer,Trey Murphy III 2026; Kawhi Leonard 2016; Gradey Dick 2026
+42,55,65.5,13,,Zion Williamson,NO,PF/C,26.6,38.9,38.1,40.0,31.9,44.3,64.0,27.0,75.0,2492.6,874.1,13,N,,Primary scorer,Zion Williamson 2025; Tristan Thompson 2020; DeMarcus Cousins 2017
+43,54,65.5,11,,Tyler Herro,MIL,PG/SG,27.0,38.3,37.9,38.8,31.2,43.7,67.0,20.0,79.0,2567.8,873.3,13,Y,,Primary scorer,Cameron Johnson 2026; Cameron Payne 2024; Christian Wood 2024
+44,38,49.1,-6,,Desmond Bane,ORL,SG/SF,28.6,37.3,36.6,38.2,30.1,42.7,72.0,44.0,82.0,2688.2,867.3,13,N,day-to-day,Primary scorer,Gerald Green 2015; Marco Belinelli 2012; Gerald Henderson 2013
+45,68,66.0,23,TARGET,Chet Holmgren,OKC,PF/C,24.8,38.4,38.8,37.9,31.3,43.8,65.0,20.0,78.0,2497.8,854.0,13,N,day-to-day,Rim-running big,Evan Mobley 2026; Corey Brewer 2011; Danilo Gallinari 2011
+46,49,56.8,3,,Lauri Markkanen,UTAH,SF/PF,29.7,37.7,36.8,38.7,30.5,43.0,69.0,40.0,82.0,2598.4,853.4,13,N,day-to-day,Primary scorer,Gordon Hayward 2022; Kawhi Leonard 2022; Marc Gasol 2017
+47,52,50.7,5,,Stephon Castle,SA,PG/SG,22.3,37.1,37.3,36.9,29.9,42.5,72.0,47.0,79.0,2671.7,850.8,13,N,day-to-day,Primary scorer,DeMar DeRozan 2013; RJ Barrett 2021; Tyreke Evans 2012
+48,42,55.0,-6,,De'Aaron Fox,SA,PG/SG,29.1,37.3,36.5,38.2,30.1,42.6,71.0,49.0,79.0,2645.0,849.5,13,N,day-to-day,Lead guard,Tony Parker 2012; Deron Williams 2014; Zach LaVine 2024
+49,35,41.2,-14,,Derrick White,BOS,PG/SG,32.6,36.3,35.7,37.0,29.2,41.6,77.0,54.0,82.0,2792.7,845.3,13,N,,Lead guard,Derrick White 2026; Goran Dragic 2018; CJ McCollum 2021
+50,37,49.5,-13,,Darius Garland,LAC,PG,27.0,37.3,34.9,40.4,30.2,42.7,69.0,37.0,80.0,2576.6,831.6,13,Y,,Lead guard,Kyle Lowry 2013; Dejounte Murray 2023; Deron Williams 2012
+51,56,68.5,5,,Franz Wagner,ORL,SF/PF,25.4,37.8,37.2,38.6,30.7,43.2,66.0,32.0,80.0,2497.2,828.1,13,N,,Primary scorer,Andrea Bargnani 2013; Dillon Brooks 2023; Franz Wagner 2026
+52,47,54.6,-5,,Michael Porter Jr.,BKN,SF/PF,28.6,37.2,35.8,38.9,30.1,42.6,69.0,33.0,78.0,2568.9,823.9,13,N,,Primary scorer,Pascal Siakam 2022; Pascal Siakam 2023; Giannis Antetokounmpo 2022
+53,61,74.5,8,,Keyonte George,UTAH,PG/SG,23.2,37.3,37.7,36.8,30.2,42.7,68.0,47.0,82.0,2534.8,815.1,13,N,,Primary scorer,Cole Anthony 2023; Kemba Walker 2016; Collin Sexton 2022
+54,41,38.7,-13,,LeBron James,PHI,SF/PF,42.1,37.8,34.0,42.5,30.6,43.2,64.0,24.0,78.0,2419.3,800.7,13,Y,day-to-day,Primary scorer,Kevin Durant 2026; Grant Hill 2013; Paul Pierce 2014
+55,53,55.6,-2,,Kyrie Irving,DAL,PG,34.9,38.6,34.1,44.2,31.6,44.0,59.0,14.0,82.0,2279.4,787.3,13,,knee (ACL) - ramp up,,Larry Hughes 2012; Jamaal Tinsley 2014; Antonio Daniels 2011
+56,58,69.6,2,,Brandon Miller,CHA,SG/SF,24.2,36.4,35.5,37.4,29.2,41.7,68.0,38.0,82.0,2473.6,753.8,13,N,,Primary scorer,Brandon Ingram 2025; Brandon Ingram 2024; Brandon Miller 2025
+57,66,80.2,9,,Donovan Clingan,POR,C,22.9,35.5,36.9,33.9,28.4,40.9,73.0,49.0,82.0,2593.8,747.6,13,N,,Rim-running big,Donovan Clingan 2026; Rudy Gobert 2018; Wendell Carter Jr. 2025
+58,51,69.8,-7,,Dejounte Murray,NO,PG/SG,30.4,36.1,33.7,39.0,29.0,41.4,68.0,35.0,82.0,2454.2,734.5,13,N,day-to-day,Primary scorer,Dejounte Murray 2026; Victor Oladipo 2021; Michael Redd 2011
+59,74,90.9,15,TARGET,Alex Sarr,WSH,PF/C,21.8,36.3,36.1,36.6,29.2,41.7,66.0,30.0,81.0,2397.9,728.8,13,N,,Rim-running big,Tobias Harris 2015; Alex Sarr 2026; Ersan Ilyasova 2015
+60,50,59.7,-10,,Julius Randle,BKN,PF,32.2,35.1,33.6,37.0,28.0,40.5,72.0,33.0,82.0,2529.7,708.8,13,Y,,Primary scorer,Paul George 2025; Jermaine O'Neal 2011; Al Horford 2017
+61,73,80.4,12,,VJ Edgecombe,PHI,SG,21.5,34.9,35.9,33.7,27.8,40.2,72.0,51.0,80.0,2512.0,691.1,13,N,,Connector wing,Stephen Curry 2011; Andrew Wiggins 2016; Elfrid Payton 2016
+62,64,75.2,2,,Caleb Wilson,CHI,SF,20.0,34.9,,34.9,27.8,40.3,71.0,,,2478.0,682.4,13,,,,
+63,80,86.5,17,TARGET,Jaren Jackson Jr.,UTAH,PF/C,27.4,36.3,34.7,38.1,29.1,41.6,62.0,32.0,70.0,2248.0,680.1,13,Y,,Stretch big,Domantas Sabonis 2023; John Collins 2026; Nene  2013
+64,59,69.6,-5,,Damian Lillard,POR,PG,36.6,35.6,33.1,38.6,28.5,40.9,65.0,23.0,82.0,2313.5,669.7,13,N,day-to-day,,Jordan Farmar 2016; Jordan Farmar 2015; Jordan Farmar 2017
+65,70,80.6,5,,Ja Morant,POR,PG,27.5,35.6,34.0,37.5,28.5,40.9,65.0,24.0,80.0,2312.0,668.1,13,Y,,Primary scorer,Kyrie Irving 2023; Caris LeVert 2022; Markelle Fultz 2022
+66,60,77.9,-6,,Onyeka Okongwu,ATL,C,26.1,34.5,34.3,34.8,27.4,39.9,72.0,46.0,82.0,2485.4,664.5,14,N,,Stretch big,Dwight Howard 2015; Onyeka Okongwu 2026; Nemanja Bjelica 2021
+67,65,75.4,-2,,Cameron Boozer,MEM,PF,19.0,34.3,,34.3,27.2,39.7,72.0,,,2472.0,651.1,14,,,,
+68,87,107.2,19,TARGET,Immanuel Quickley,TOR,PG/SG,27.6,35.3,35.6,34.9,28.2,40.6,65.0,43.0,75.0,2293.1,649.3,14,N,,Lead guard,Immanuel Quickley 2026; Rajon Rondo 2019; Rajon Rondo 2015
+69,57,84.3,-12,,Ty Jerome,MEM,PG/SG,29.6,34.7,30.6,39.8,27.5,40.1,64.0,16.0,81.0,2221.5,603.0,15,N,,Primary scorer,Christian Wood 2022; Dion Waiters 2020; Tobias Harris 2016
+70,105,102.6,35,TARGET,Brandon Ingram,LAC,SF/PF,29.4,36.0,34.0,38.5,29.0,41.4,55.0,36.0,67.0,1982.2,591.2,15,Y,injured,Primary scorer,Zach LaVine 2026; Christian Wood 2023; Derrick Rose 2020
+71,46,56.4,-25,FADE,Nickeil Alexander-Walker,ATL,PG/SG,28.4,32.6,31.5,34.1,25.5,38.1,79.0,56.0,82.0,2578.8,580.9,15,N,day-to-day,Primary scorer,Coby White 2026; Andre Iguodala 2011; Klay Thompson 2017
+72,75,90.7,3,,Matas Buzelis,CHI,SF/PF,22.3,33.1,33.6,32.5,25.6,38.5,74.0,52.0,80.0,2450.7,579.2,15,N,,Stretch big,Jayson Tatum 2020; Saddiq Bey 2023; Franz Wagner 2024
+73,96,115.4,23,TARGET,Kevin Porter Jr.,MIL,PG/SG,26.7,33.8,34.5,33.0,26.7,39.2,66.0,28.0,75.0,2232.8,563.7,15,N,,Lead guard,Derrick White 2022; John Wall 2019; Andrew Wiggins 2024
+74,77,76.1,3,,AJ Dybantsa,WSH,SF,19.0,32.9,,32.9,25.7,38.3,72.0,,,2370.0,549.1,15,,,,
+75,93,109.1,18,TARGET,Ryan Rollins,MIL,PG/SG,24.6,33.2,34.3,31.9,26.1,38.6,69.0,18.0,82.0,2289.5,544.5,15,N,,Lead guard,Jeremy Lin 2014; Monta Ellis 2012; Collin Sexton 2025
+76,67,79.5,-9,,Walker Kessler,LAL,C,25.5,33.6,29.5,38.6,26.4,39.0,64.0,31.0,82.0,2150.4,531.9,15,Y,day-to-day,Rim-running big,Walker Kessler 2026; Mitchell Robinson 2025; Mark Williams 2025
+77,44,52.4,-33,FADE,Mikal Bridges,NY,SG/SF,30.4,31.7,30.7,32.8,24.6,37.0,82.0,59.0,82.0,2596.4,522.6,15,N,,Connector wing,Mikal Bridges 2026; Buddy Hield 2024; Thaddeus Young 2019
+78,95,113.3,17,TARGET,Kristaps Porzingis,GS,PF/C,31.5,34.1,31.7,36.9,27.0,39.4,59.0,9.0,69.0,2010.1,518.0,15,Y,day-to-day,Primary scorer,Danilo Gallinari 2020; Jusuf Nurkic 2024; Danilo Gallinari 2019
+79,43,55.7,-36,FADE,Naz Reid,CHA,PF/C,27.4,32.1,29.3,35.5,25.0,37.5,76.0,48.0,82.0,2438.7,516.7,15,Y,,Stretch big,Carl Landry 2012; Darius Songaila 2011; Bismack Biyombo 2019
+80,100,112.6,20,TARGET,RJ Barrett,TOR,SG/SF,26.6,33.0,33.4,32.6,25.9,38.4,66.0,45.0,75.0,2178.4,509.3,15,N,,Primary scorer,RJ Barrett 2026; Blake Griffin 2018; Blake Griffin 2020
+81,82,102.1,1,,Derik Queen,NO,PF/C,22.1,31.8,32.9,30.5,24.6,37.2,76.0,48.0,82.0,2419.1,497.0,15,N,,Stretch big,Precious Achiuwa 2023; Derrick Williams 2014; Marquese Chriss 2018
+82,86,100.4,4,,Payton Pritchard,BOS,PG/SG,29.0,32.0,32.4,31.6,24.9,37.4,72.0,49.0,80.0,2306.1,485.2,15,N,,Lead guard,Jarrett Jack 2011; Ish Smith 2019; Ramon Sessions 2012
+83,76,95.4,-7,,Miles Bridges,PHX,SF/PF,28.9,32.0,30.5,33.9,25.0,37.4,71.0,49.0,79.0,2274.4,478.8,15,Y,day-to-day,3&D wing,Caron Butler 2011; Andre Iguodala 2014; Kyle Kuzma 2026
+84,89,85.0,5,,OG Anunoby,NY,SF/PF,29.5,32.2,31.4,33.1,25.1,37.5,68.0,44.0,80.0,2187.3,467.6,15,N,,Connector wing,Aaron Gordon 2024; Joakim Noah 2014; Clint Capela 2020
+85,71,94.8,-14,,Brandin Podziemski,GS,PG/SG,23.9,31.2,31.4,30.8,24.2,36.5,79.0,45.0,82.0,2462.0,464.1,15,N,,Lead guard,Brandin Podziemski 2026; Kevin Huerter 2022; Kevin Huerter 2020
+86,81,79.6,-5,,Dylan Harper,SA,PG/SG,20.9,31.5,30.9,32.3,24.3,36.9,72.0,36.0,82.0,2267.7,446.8,15,N,day-to-day,Lead guard,James Harden 2011; Josh Christopher 2023; Jamal Murray 2018
+87,84,105.8,-3,,Reed Sheppard,HOU,PG/SG,22.6,31.0,31.9,29.9,23.9,36.2,76.0,39.0,82.0,2358.6,436.5,15,N,,Connector wing,E'Twaun Moore 2014; Nate Wolters 2015; Reed Sheppard 2026
+88,106,104.9,18,TARGET,Paul George,BOS,SF/PF,36.8,33.0,28.6,38.5,25.9,38.4,55.0,20.0,77.0,1817.1,426.2,15,Y,,Connector wing,James Harden 2023; Trevor Ariza 2022; LaMarcus Aldridge 2022
+89,142,137.3,53,TARGET,Jalen Suggs,ORL,PG/SG,25.7,31.9,34.2,29.1,24.8,37.3,62.0,41.0,75.0,1978.2,410.2,15,N,day-to-day,Lead guard,Kris Dunn 2020; Brandon Ingram 2025; Ricky Rubio 2014
+90,63,81.9,-27,FADE,Norman Powell,CHI,SG/SF,33.7,31.0,26.9,36.0,23.7,37.7,69.0,23.0,77.0,2138.5,393.5,15,Y,,Primary scorer,Luol Deng 2015; Marco Belinelli 2017; Arron Afflalo 2015
+91,90,99.7,-1,,Josh Hart,NY,SG/SF,31.9,31.1,29.5,33.0,23.9,36.6,68.0,33.0,78.0,2112.3,392.6,15,N,,Lead guard,John Salmons 2013; Harrison Barnes 2022; Pat Connaughton 2024
+92,99,103.0,7,,Ausar Thompson,DET,SF/PF,24.0,30.8,30.8,30.8,23.4,37.5,70.0,21.0,78.0,2156.8,386.5,15,N,,Connector wing,Dyson Daniels 2026; Jaylen Wells 2026; Trey Murphy III 2024
+93,91,105.2,-2,,Darius Acuff Jr.,SAC,PG,19.0,30.4,,30.4,23.0,37.2,73.0,,,2219.0,372.8,15,,,,
+94,239,137.6,145,TARGET,Jimmy Butler III,GS,SG/SF,37.4,36.7,35.0,38.8,29.6,42.1,32.0,8.0,45.0,1174.5,365.2,15,N,out (season),Primary scorer,Jimmy Butler III 2025; Jimmy Butler III 2026; Jimmy Butler III 2024
+95,88,104.6,-7,,Jalen Green,PHX,SG/SF,25.0,30.4,28.8,32.4,23.0,36.6,70.0,25.0,82.0,2129.9,359.6,15,N,,Primary scorer,Russell Westbrook 2015; Derrick Rose 2013; D'Angelo Russell 2019
+96,92,99.6,-4,,Jaden McDaniels,MIN,SF/PF,26.3,30.1,30.3,29.7,22.7,36.9,74.0,50.0,81.0,2225.2,353.7,15,N,day-to-day,3&D wing,Jaden McDaniels 2026; Al-Farouq Aminu 2017; Marcus Morris Sr. 2017
+97,79,101.0,-18,FADE,Coby White,CHA,PG/SG,27.0,30.1,27.8,32.9,22.7,36.9,72.0,28.0,82.0,2166.5,345.6,15,Y,day-to-day,Primary scorer,Ricky Rubio 2020; Gary Neal 2014; Gary Neal 2015
+98,101,116.8,3,,Andrew Wiggins,MIA,SF/PF,31.9,30.2,28.7,32.0,22.7,37.0,67.0,28.0,76.0,2024.6,330.2,15,N,day-to-day,3&D wing,Mike Conley 2018; JJ Redick 2021; Andrew Wiggins 2026
+99,72,97.3,-27,FADE,Kel'el Ware,MIL,C,22.8,29.8,26.6,33.8,22.4,36.6,72.0,38.0,82.0,2146.9,326.0,16,Y,,Rim-running big,Kelly Olynyk 2018; Al-Farouq Aminu 2012; Domantas Sabonis 2018
+100,119,130.7,19,TARGET,Andrew Nembhard,IND,PG/SG,27.0,29.7,31.0,28.2,22.3,36.5,71.0,42.0,82.0,2110.4,314.8,16,N,,Lead guard,Cade Cunningham 2025; Tyrese Maxey 2026; Evan Fournier 2023
+101,116,122.0,15,TARGET,Jabari Smith Jr.,HOU,PF/C,23.7,29.6,31.1,27.6,22.2,36.3,73.0,43.0,82.0,2157.9,311.7,16,N,,Stretch big,Jabari Smith Jr. 2026; Myles Turner 2018; Jalen Johnson 2026
+102,85,105.9,-17,FADE,Fred VanVleet,HOU,PG/SG,32.9,29.6,26.5,33.4,22.2,36.3,68.0,28.0,82.0,2013.6,293.9,16,,day-to-day,,Rodney Stuckey 2017; Deron Williams 2015; Jae Crowder 2022
+103,114,128.3,11,,Cedric Coward,MEM,SG/SF,23.4,29.5,29.3,29.7,22.2,36.3,69.0,46.0,81.0,2034.4,289.4,16,N,,Stretch big,Andrew Nembhard 2025; JJ Hickson 2015; Brandon Ingram 2023
+104,78,98.6,-26,FADE,CJ McCollum,ATL,PG/SG,35.4,29.2,26.5,32.4,21.8,35.8,73.0,44.0,82.0,2129.8,283.7,16,Y,,Primary scorer,CJ McCollum 2026; Russell Westbrook 2022; Reggie Jackson 2024
+105,107,125.6,2,,Jeremiah Fears,NO,PG/SG,20.3,28.9,30.3,27.3,21.7,35.7,77.0,54.0,82.0,2228.6,281.3,16,N,,Primary scorer,D'Angelo Russell 2017; De'Aaron Fox 2019; Collin Sexton 2020
+106,94,116.0,-12,,Ayo Dosunmu,MIN,PG/SG,27.0,29.2,28.2,30.4,21.7,35.9,72.0,40.0,82.0,2099.6,278.7,16,Y,day-to-day,Lead guard,Gary Neal 2014; Denzel Valentine 2022; James Ennis III 2021
+107,104,108.4,-3,,Darryn Peterson,UTAH,PG/SG,19.0,29.1,,29.1,21.8,35.8,73.0,,,2122.0,275.8,16,,,,
+108,120,134.5,12,,Kyshawn George,WSH,SG/SF,23.1,29.5,28.9,30.2,22.2,36.4,66.0,49.0,78.0,1944.1,275.0,16,N,,Primary scorer,Michael Carter-Williams 2015; Keldon Johnson 2024; Bradley Beal 2014
+109,113,120.8,4,,Zach Edey,MEM,C,24.7,29.7,26.9,33.2,22.2,36.4,62.0,17.0,82.0,1842.4,274.5,16,N,,Rim-running big,Zach Edey 2026; Greg Oden 2011; Deandre Ayton 2021
+110,83,98.7,-27,FADE,DeMar DeRozan,DEN,SF/PF,37.5,28.9,28.0,29.8,21.6,35.6,77.0,52.0,82.0,2221.6,274.2,16,Y,,Primary scorer,DeMar DeRozan 2025; Vince Carter 2012; Chauncey Billups 2012
+111,123,137.0,12,,Anthony Black,ORL,PG/SG,23.0,29.2,30.0,28.2,21.8,36.0,69.0,37.0,78.0,2014.2,269.2,16,N,day-to-day,Lead guard,Thaddeus Young 2011; Trey Murphy III 2025; Jordan Clarkson 2016
+112,108,126.7,-4,,Nic Claxton,CHI,C,27.8,29.2,28.3,30.3,21.8,36.0,69.0,37.0,80.0,2013.1,268.1,16,Y,day-to-day,Stretch big,Clint Capela 2021; Dewayne Dedmon 2020; Nick Richards 2026
+113,122,125.1,9,,Zach LaVine,SAC,SG/SF,31.9,29.5,27.4,32.0,22.0,36.1,61.0,28.0,73.0,1797.5,254.9,16,N,,3&D wing,Kyrie Irving 2025; Kyrie Irving 2023; Bradley Beal 2025
+114,110,129.1,-4,,Collin Gillespie,PHX,PG,27.6,28.7,29.0,28.5,21.4,35.3,73.0,26.0,82.0,2097.9,251.8,16,N,,Lead guard,Jeremy Lin 2014; Markelle Fultz 2021; Chris Quinn 2013
+115,97,117.0,-18,FADE,Nikola Vucevic,ORL,C,36.3,28.7,27.5,30.2,21.3,35.9,72.0,46.0,82.0,2068.4,247.5,16,Y,,Stretch big,Jeff Green 2022; Elton Brand 2013; Zaza Pachulia 2019
+116,111,125.5,-5,,Keegan Murray,SAC,SF/PF,26.5,28.5,27.9,29.3,21.2,35.3,71.0,25.0,82.0,2024.0,228.4,16,N,,3&D wing,P.J. Washington 2026; Thomas Bryant 2022; Dion Waiters 2018
+117,148,141.0,31,TARGET,Tre Jones,CHI,PG,27.1,28.6,31.0,25.8,21.3,35.3,68.0,39.0,82.0,1946.7,226.9,16,N,,Lead guard,Jose Alvarado 2026; Miles McBride 2026; Gary Harris 2023
+118,135,139.0,17,TARGET,Saddiq Bey,NO,SF/PF,27.8,28.3,30.3,25.9,21.0,34.9,71.0,14.0,82.0,2009.7,214.1,16,N,,3&D wing,Ersan Ilyasova 2014; Danny Granger 2012; Domantas Sabonis 2024
+119,109,124.2,-10,,Jaime Jaquez Jr.,MIL,SG/SF,26.0,28.2,28.1,28.2,20.8,34.9,74.0,39.0,82.0,2083.5,212.0,16,Y,,Lead guard,Patrick Patterson 2015; De'Andre Hunter 2026; Stanley Johnson 2020
+120,118,134.0,-2,,Collin Sexton,LAL,PG/SG,28.1,27.8,27.0,28.8,20.4,34.5,70.0,49.0,82.0,1945.1,174.8,17,Y,day-to-day,Primary scorer,Marcus Thornton 2017; Gary Neal 2015; Dennis Schroder 2023
+121,170,140.8,49,TARGET,Isaiah Collier,UTAH,PG,22.3,27.9,30.6,24.6,20.5,34.7,67.0,32.0,82.0,1869.0,174.6,17,N,,Lead guard,Richaun Holmes 2017; Trevor Ariza 2014; James Ennis III 2018
+122,127,133.8,5,,Jrue Holiday,POR,PG/SG,36.6,27.7,27.4,28.1,20.4,34.5,68.0,21.0,82.0,1884.5,164.8,17,N,,Lead guard,Chris Paul 2020; Luol Deng 2016; Trevor Ariza 2016
+123,98,115.0,-25,FADE,John Collins,DET,PF/C,29.4,27.5,24.0,31.8,20.2,34.2,68.0,34.0,80.0,1871.4,151.7,17,Y,,Stretch big,Carlos Delfino 2013; Danilo Gallinari 2018; Marcus Morris Sr. 2020
+124,112,125.9,-12,,Peyton Watson,CLE,SF/PF,24.4,27.4,25.9,29.3,20.0,34.1,71.0,35.0,82.0,1946.2,150.6,17,Y,,Stretch big,Otto Porter Jr. 2020; Andrew Wiggins 2021; Kelly Oubre Jr. 2021
+125,140,140.7,15,TARGET,Kyle Filipowski,UTAH,PF/C,23.2,27.3,29.2,24.9,19.9,34.1,73.0,52.0,78.0,1991.3,145.1,17,N,day-to-day,Stretch big,Kyle Filipowski 2026; Domantas Sabonis 2019; Serge Ibaka 2012
+126,124,131.9,-2,,Ace Bailey,UTAH,SF/PF,20.5,27.3,27.7,26.8,19.9,34.4,72.0,37.0,79.0,1963.9,143.0,17,N,,3&D wing,Zaccharie Risacher 2026; Kevin Knox II 2020; Jayson Tatum 2019
+127,211,139.9,84,TARGET,Ajay Mitchell,OKC,PG/SG,24.6,27.9,30.1,25.2,20.5,34.5,55.0,7.0,82.0,1533.4,142.4,17,N,day-to-day,Lead guard,Nickeil Alexander-Walker 2022; Jalen Suggs 2024; Sheldon Mac 2019
+128,121,135.8,-7,,Neemias Queta,BOS,C,27.6,27.3,27.3,27.2,19.8,33.9,72.0,32.0,82.0,1962.2,141.3,17,N,,Rim-running big,Mitchell Robinson 2024; Goga Bitadze 2026; Nenad Krstic 2011
+129,133,135.2,4,,Devin Vassell,SA,SG/SF,26.4,27.3,27.7,26.8,19.9,34.2,69.0,42.0,75.0,1883.9,138.9,17,N,day-to-day,3&D wing,Gary Harris 2021; Kevin Huerter 2025; Anthony Morrow 2012
+130,128,131.5,-2,,Aaron Gordon,DEN,PF,31.4,27.2,25.9,28.9,19.8,33.9,66.0,33.0,80.0,1798.2,129.1,17,N,,Stretch big,Paul George 2026; Luol Deng 2018; Kevin Durant 2022
+131,168,140.9,37,TARGET,Santi Aldama,DAL,SF/PF,26.1,27.2,28.9,25.0,19.8,34.1,66.0,28.0,79.0,1792.0,122.8,17,Y,day-to-day,Stretch big,Santi Aldama 2026; Anthony Bennett 2016; Nerlens Noel 2018
+132,117,127.2,-15,FADE,Myles Turner,MIL,C,30.9,27.0,25.8,28.4,19.5,33.6,71.0,45.0,82.0,1916.7,121.1,17,N,,Rim-running big,Rudy Gobert 2026; Rudy Gobert 2025; Rudy Gobert 2024
+133,103,127.0,-30,FADE,Egor Demin,BKN,PG/SG,20.9,27.0,24.5,30.0,19.6,33.6,71.0,28.0,82.0,1915.3,119.7,17,N,,,Anthony Morrow 2012; Trevor Booker 2013; Kenneth Faried 2013
+134,145,141.0,11,,Jusuf Nurkic,UTAH,C,32.4,27.1,26.8,27.6,19.6,33.9,64.0,20.0,82.0,1737.0,118.4,17,N,out,Stretch big,Steven Adams 2024; Nene  2014; Anderson Varejao 2013
+135,115,129.8,-20,FADE,Quentin Grimes,LAL,SG/SF,26.7,26.8,25.7,28.1,19.2,33.7,73.0,44.0,80.0,1953.6,107.5,17,Y,,3&D wing,Quentin Grimes 2026; Kent Bazemore 2021; Grayson Allen 2024
+136,125,138.2,-11,,Scotty Pippen Jr.,MEM,PG/SG,26.2,26.9,24.0,30.6,19.6,33.7,63.0,17.0,82.0,1697.5,104.2,17,N,,Lead guard,Michael Carter-Williams 2022; Jaden Hardy 2026; Cole Anthony 2024
+137,150,140.3,13,,P.J. Washington,DAL,SF/PF,28.4,26.9,26.8,26.9,19.6,33.5,64.0,31.0,77.0,1719.3,100.7,17,N,,Stretch big,P.J. Washington 2026; Jae Crowder 2022; Dion Waiters 2019
+138,102,122.9,-36,FADE,Tobias Harris,SA,SF/PF,34.5,26.5,23.5,30.1,19.1,33.4,71.0,44.0,82.0,1878.6,83.0,17,Y,day-to-day,3&D wing,Al Horford 2021; Al Horford 2020; Ersan Ilyasova 2019
+139,172,139.2,33,TARGET,Collin Murray-Boyles,TOR,PF,21.6,26.5,27.8,24.8,19.2,33.3,66.0,37.0,76.0,1747.2,78.1,17,N,,Connector wing,Larry Nance Jr. 2017; Bam Adebayo 2019; Sekou Doumbouya 2021
+140,130,140.2,-10,,Malik Monk,SAC,PG/SG,29.0,26.4,25.4,27.7,19.1,33.2,68.0,6.0,82.0,1796.4,76.6,17,N,day-to-day,Lead guard,Leandro Barbosa 2012; Alec Burks 2022; Norman Powell 2024
+141,137,137.7,-4,,Cason Wallace,OKC,PG/SG,23.2,26.1,27.7,24.1,18.8,33.0,76.0,53.0,82.0,1984.8,62.7,17,N,day-to-day,Connector wing,Tre Jones 2025; Cason Wallace 2026; Bruce Brown 2022
+142,311,140.1,169,TARGET,Shaedon Sharpe,POR,SG/SF,23.7,27.7,30.1,24.8,20.3,34.4,22.0,0.0,32.0,610.0,53.6,17,N,injured,Primary scorer,Jusuf Nurkic 2024; Jrue Holiday 2017; Nikola Vucevic 2015
+143,185,140.7,42,TARGET,Bilal Coulibaly,WSH,SG/SF,22.5,25.9,28.4,23.0,18.7,32.8,68.0,49.0,80.0,1763.8,44.1,17,N,,Connector wing,Gary Harris 2020; Rodney Hood 2017; Brandon Ingram 2019
+144,131,138.7,-13,,Day'Ron Sharpe,BKN,C,25.2,25.8,24.8,27.0,18.5,32.4,69.0,50.0,82.0,1781.3,36.3,17,N,,Stretch big,Day'Ron Sharpe 2026; Day'Ron Sharpe 2025; Daniel Gafford 2026
+145,159,140.8,14,,Grayson Allen,CHA,PG/SG,31.3,25.8,25.1,26.6,18.4,32.6,63.0,36.0,79.0,1623.6,30.3,17,Y,day-to-day,Lead guard,Shannon Brown 2014; Dennis Schroder 2023; Ben Gordon 2013
+146,173,140.6,27,TARGET,Deandre Ayton,WSH,C,28.5,25.7,26.0,25.3,18.4,32.3,64.0,28.0,82.0,1642.6,24.1,17,Y,,Stretch big,Deandre Ayton 2026; Luol Deng 2017; Trevor Ariza 2015
+147,177,140.7,30,TARGET,Robert Williams III,POR,C,29.3,25.6,24.5,26.9,18.3,32.3,59.0,10.0,82.0,1508.4,16.3,17,N,day-to-day,Rim-running big,Nick Young 2018; Jahlil Okafor 2020; Ryan Anderson 2017
+148,143,139.3,-5,,Toumani Camara,POR,SF/PF,26.7,25.4,26.8,23.8,18.1,32.1,75.0,44.0,82.0,1907.8,11.0,17,N,,3&D wing,Toumani Camara 2026; Draymond Green 2016; Christian Braun 2026
+149,178,140.7,29,TARGET,Jaylon Tyson,CLE,SG/SF,24.2,25.4,25.2,25.6,18.0,32.1,62.0,5.0,79.0,1572.5,4.5,17,N,,3&D wing,Gerald Henderson 2012; Jalen Suggs 2024; Iman Shumpert 2013
+150,321,139.8,171,TARGET,Donte DiVincenzo,MIN,PG/SG,30.0,25.7,28.0,23.0,18.4,32.6,4.0,0.0,15.0,102.9,1.8,18,N,out,Connector wing,Tony Allen 2014; George Hill 2014; Dorian Finney-Smith 2023
+151,132,131.9,-19,FADE,Dillon Brooks,PHX,SG/SF,31.0,25.3,24.0,26.9,17.9,32.1,69.0,38.0,80.0,1745.7,0.7,18,N,,Primary scorer,Miles Bridges 2026; Dwyane Wade 2013; Tobias Harris 2022
+152,144,140.4,-8,,Cameron Johnson,DEN,SF/PF,30.9,25.3,24.6,26.1,17.9,32.0,68.0,28.0,82.0,1719.7,0.0,18,N,,3&D wing,P.J. Washington 2026; Jae Crowder 2022; Deron Williams 2015
+153,136,139.7,-17,FADE,Jerami Grant,MEM,PF,32.9,25.3,23.8,27.0,17.8,32.0,68.0,22.0,81.0,1717.4,-2.3,18,Y,,Primary scorer,Nick Young 2018; Omer Asik 2017; Ryan Anderson 2017
+154,320,140.0,166,TARGET,Moses Moody,GS,SG/SF,24.7,23.4,24.1,22.4,16.1,30.3,12.0,0.0,23.0,280.3,-23.2,18,N,out,3&D wing,Hamidou Diallo 2023; Andrew Harrison 2019; JaMychal Green 2019
+155,155,140.2,0,,Bennedict Mathurin,NO,SG/SF,24.6,24.8,24.5,25.1,17.5,31.5,68.0,46.0,82.0,1683.5,-36.2,18,Y,,Primary scorer,Nickeil Alexander-Walker 2023; Malik Beasley 2021; Jordan Crawford 2012
+156,184,140.7,28,TARGET,Naji Marshall,DAL,SF/PF,29.0,24.7,26.7,22.4,17.4,31.5,70.0,34.0,82.0,1732.3,-38.0,18,N,,Lead guard,Wesley Matthews 2015; Jarrett Allen 2025; Rodney Stuckey 2014
+157,139,136.5,-18,FADE,Draymond Green,GS,PF/C,36.9,24.6,21.5,28.5,17.2,31.3,64.0,26.0,81.0,1577.5,-41.1,18,N,,Lead guard,Kirk Hinrich 2015; Kyle Korver 2014; Gordon Hayward 2024
+158,194,140.8,36,TARGET,Christian Braun,DEN,SG/SF,25.8,24.6,25.8,23.1,17.2,31.4,65.0,26.0,76.0,1598.8,-45.1,18,N,,3&D wing,Kyle Anderson 2020; Saddiq Bey 2025; Danny Green 2015
+159,161,140.5,2,,Scoot Henderson,POR,PG/SG,23.0,24.5,23.9,25.4,17.3,31.3,66.0,17.0,82.0,1619.8,-49.3,18,N,,Primary scorer,Jordan Farmar 2015; Ryan Kelly 2016; Ryan Kelly 2017
+160,141,139.3,-19,FADE,Davion Mitchell,MIA,PG,28.4,24.5,23.6,25.5,17.1,31.3,71.0,36.0,80.0,1737.8,-57.8,18,N,day-to-day,Lead guard,Kentavious Caldwell-Pope 2019; Elfrid Payton 2018; De'Anthony Melton 2024
+161,157,140.4,-4,,Bobby Portis,MIA,PF/C,32.0,24.3,23.0,26.0,17.1,31.1,65.0,24.0,82.0,1581.9,-62.0,18,Y,,Stretch big,Jeff Green 2022; JaMychal Green 2023; Jeff Green 2021
+162,153,140.2,-9,,Keaton Wagler,LAC,PG/SG,19.0,24.4,,24.4,17.1,31.3,70.0,,,1705.0,-65.3,18,,,,
+163,146,136.3,-17,FADE,Jonathan Kuminga,MIN,SF/PF,24.3,24.1,22.3,26.3,16.7,31.0,67.0,27.0,82.0,1614.2,-80.2,18,Y,day-to-day,Stretch big,Cam Reddish 2023; Michael Beasley 2016; Tobias Harris 2014
+164,149,140.9,-15,FADE,Isaiah Stewart,MEM,PF/C,25.7,24.0,23.0,25.3,16.8,30.7,69.0,19.0,82.0,1658.6,-86.4,18,Y,out,Rim-running big,Kyle O'Quinn 2016; Mike Muscala 2019; Zach Collins 2026
+165,152,140.6,-13,,Mikel Brown Jr.,BKN,PG,20.0,24.0,,24.0,16.6,30.7,71.0,,,1706.0,-89.6,18,,day-to-day,,
+166,164,140.9,-2,,Wendell Carter Jr.,ORL,C,27.8,24.0,24.8,23.0,16.8,30.9,72.0,51.0,82.0,1730.3,-90.6,18,N,,Stretch big,Wendell Carter Jr. 2026; Rudy Gobert 2021; JJ Hickson 2015
+167,134,140.3,-33,FADE,Keldon Johnson,SA,SF/PF,27.3,24.1,24.1,24.0,16.6,30.8,77.0,43.0,82.0,1852.1,-95.2,18,N,,3&D wing,Obi Toppin 2026; Georges Niang 2023; Doug McDermott 2020
+168,187,140.4,19,TARGET,Kelly Oubre Jr.,IND,SG/SF,31.1,23.8,24.2,23.2,16.5,30.6,67.0,29.0,80.0,1593.3,-101.1,18,Y,,Connector wing,Robert Covington 2020; Caron Butler 2015; Jerryd Bayless 2017
+169,190,140.5,21,TARGET,Anfernee Simons,PHI,PG/SG,27.7,23.6,23.8,23.4,16.3,30.4,66.0,32.0,82.0,1560.3,-108.8,18,Y,day-to-day,3&D wing,A.J. Price 2014; Wayne Ellington 2017; Ben McLemore 2019
+170,192,140.7,22,TARGET,Tari Eason,HOU,SF/PF,25.7,23.6,23.9,23.2,16.1,30.2,66.0,20.0,82.0,1559.2,-109.9,18,N,,Connector wing,James Ennis III 2019; Richaun Holmes 2017; James Ennis III 2020
+171,154,140.8,-17,FADE,T.J. McConnell,IND,PG,34.9,23.6,23.0,24.4,16.1,30.5,70.0,38.0,82.0,1653.4,-116.9,18,N,day-to-day,Lead guard,Mario Chalmers 2017; Jamal Crawford 2016; Jamal Crawford 2015
+172,151,140.9,-21,FADE,Precious Achiuwa,SAC,PF/C,27.4,23.5,23.0,24.1,16.1,30.2,71.0,47.0,80.0,1669.8,-125.8,18,N,,Stretch big,Brandon Bass 2014; Carlos Delfino 2011; Ersan Ilyasova 2013
+173,162,129.0,-11,,Yaxel Lendeborg,GS,SF/PF,24.0,23.5,,23.5,16.2,30.3,71.0,,,1668.0,-127.6,18,,,,
+174,163,140.8,-11,,Morez Johnson Jr.,DAL,PF/C,20.0,23.5,,23.5,16.2,30.2,71.0,,,1665.0,-130.6,18,,day-to-day,,
+175,126,134.4,-49,FADE,Julian Champagnie,SA,SF/PF,25.6,23.6,23.9,23.3,16.4,30.6,82.0,51.0,82.0,1938.7,-135.0,18,N,,3&D wing,Arron Afflalo 2011; Harrison Barnes 2016; Christian Braun 2026
+176,214,140.4,38,TARGET,Bradley Beal,LAC,SG/SF,33.6,22.8,20.4,25.6,14.8,29.8,54.0,8.0,74.0,1228.8,-136.9,18,N,day-to-day,3&D wing,Richard Hamilton 2013; Marcus Smart 2025; Chauncey Billups 2013
+177,176,140.8,-1,,GG Jackson,MEM,PF,22.1,23.2,23.1,23.3,15.9,30.0,69.0,27.0,82.0,1602.9,-142.1,18,N,,Stretch big,Sergey Karasev 2016; Furkan Korkmaz 2020; Isaiah Jackson 2024
+178,183,140.7,5,,Aaron Nesmith,IND,SG/SF,27.3,23.0,21.7,24.6,15.7,29.9,64.0,29.0,77.0,1474.2,-144.3,18,N,,3&D wing,Aaron Nesmith 2026; Josh Richardson 2018; CJ McCollum 2022
+179,186,140.6,7,,De'Anthony Melton,GS,PG/SG,28.7,22.8,21.9,24.0,15.4,30.0,65.0,41.0,82.0,1485.2,-158.7,18,N,,Connector wing,John Wall 2021; John Jenkins 2019; Brandon Knight 2022
+180,169,140.8,-11,,Bub Carrington,WSH,PG/SG,21.5,23.2,25.7,20.1,15.8,30.0,82.0,55.0,82.0,1904.3,-169.5,19,N,,Lead guard,George Hill 2011; Ayo Dosunmu 2024; Ben McLemore 2016
+181,165,139.2,-16,FADE,Alex Caruso,OKC,PG/SG,32.9,22.6,21.5,24.0,14.6,29.7,69.0,30.0,82.0,1562.5,-182.5,19,N,day-to-day,Connector wing,Alex Caruso 2026; Jameer Nelson 2017; Seth Curry 2025
+182,147,140.9,-35,FADE,Danny Wolf,BKN,PF/C,22.7,22.6,20.8,24.7,14.7,29.7,71.0,45.0,82.0,1602.3,-193.3,19,N,,Stretch big,Kyle O'Quinn 2015; Moritz Wagner 2021; Goga Bitadze 2022
+183,199,140.5,16,TARGET,Brice Sensabaugh,UTAH,SG/SF,23.3,22.6,24.2,20.6,14.6,30.3,72.0,42.0,82.0,1626.8,-194.0,19,N,day-to-day,Primary scorer,Bojan Bogdanovic 2017; Caris LeVert 2019; Montrezl Harrell 2019
+184,222,139.9,38,TARGET,Jaylin Williams,OKC,PF/C,24.6,22.3,24.3,20.0,14.3,29.4,67.0,31.0,82.0,1496.5,-198.0,19,N,day-to-day,Stretch big,Marquese Chriss 2021; Chuma Okeke 2023; Moritz Wagner 2021
+185,188,140.8,3,,De'Andre Hunter,SAC,SF/PF,29.2,22.2,20.8,23.9,14.3,29.3,65.0,23.0,80.0,1443.6,-200.2,19,Y,,3&D wing,De'Andre Hunter 2026; Marvin Williams 2015; Caris LeVert 2026
+186,200,140.4,14,,Jalen Smith,CHI,PF/C,26.9,22.2,22.1,22.4,14.4,28.9,66.0,15.0,82.0,1468.0,-201.1,19,N,,Stretch big,Sam Dekker 2022; Nik Stauskas 2022; Jeremy Sochan 2026
+187,179,140.5,-8,,Kyle Kuzma,MIL,SF/PF,31.5,22.3,21.6,23.3,14.5,30.2,68.0,9.0,82.0,1518.6,-201.2,19,N,,3&D wing,Andrei Kirilenko 2011; Andrei Kirilenko 2012; Aaron Gordon 2026
+188,210,140.5,22,TARGET,Herbert Jones,NO,SF/PF,28.3,22.1,22.1,22.1,14.2,29.8,63.0,8.0,80.0,1390.8,-202.5,19,N,,Connector wing,Alex Caruso 2024; De'Andre Hunter 2023; Duncan Robinson 2025
+189,138,140.5,-51,FADE,Jake LaRavia,LAL,SF/PF,25.2,22.6,21.7,23.7,14.4,29.7,77.0,47.0,82.0,1740.2,-207.2,19,N,,Connector wing,Donte DiVincenzo 2022; Onyeka Okongwu 2025; Andre Roberson 2017
+190,207,140.3,17,TARGET,Al Horford,GS,PF/C,40.7,21.5,18.6,25.1,13.5,28.6,56.0,22.0,71.0,1206.1,-210.1,19,N,day-to-day,Rim-running big,Paul Pierce 2017; Al Horford 2026; Danilo Gallinari 2022
+191,180,140.5,-11,,Kingston Flemings,ATL,PG/SG,19.0,22.3,,22.3,14.3,30.0,71.0,,,1580.0,-215.6,19,,,,
+192,181,140.5,-11,,Brayden Burries,MIL,SG,21.0,22.2,,22.2,14.4,29.3,71.0,,,1578.0,-217.6,19,,day-to-day,,
+193,129,139.6,-64,FADE,Brook Lopez,LAC,C,38.8,22.2,19.0,26.2,14.1,29.3,72.0,47.0,80.0,1601.3,-219.6,19,N,,Rim-running big,Channing Frye 2018; Tim Duncan 2012; Brook Lopez 2026
+194,201,140.4,7,,Tre Johnson,WSH,SG,20.9,21.9,22.3,21.5,13.8,29.0,68.0,50.0,82.0,1491.5,-228.2,19,N,,3&D wing,Keyonte George 2026; Chris Duarte 2023; Kyshawn George 2026
+195,202,139.7,7,,Jordan Poole,NO,PG/SG,27.6,21.8,21.6,22.0,13.9,28.8,66.0,7.0,82.0,1438.0,-231.1,19,N,,Primary scorer,Trey Burke 2019; Jordan Farmar 2013; Jordan Crawford 2018
+196,229,140.3,33,TARGET,Paul Reed,DET,PF/C,27.6,21.6,22.6,20.4,13.7,29.3,63.0,15.0,82.0,1361.3,-232.0,19,N,,Rim-running big,Andre Roberson 2020; Jonas Jerebko 2015; Saddiq Bey 2026
+197,223,140.4,26,TARGET,Marvin Bagley III,DEN,PF/C,27.9,21.1,20.6,21.8,13.1,28.2,61.0,24.0,82.0,1288.3,-254.4,19,Y,,Stretch big,Marvin Bagley III 2025; Markieff Morris 2021; Omri Casspi 2019
+198,262,140.1,64,TARGET,Jarace Walker,IND,SF/PF,23.4,21.1,24.8,16.5,13.1,28.8,63.0,46.0,74.0,1328.3,-265.0,19,N,,3&D wing,Khris Middleton 2016; Julian Champagnie 2026; Marco Belinelli 2012
+199,156,136.8,-43,FADE,Rui Hachimura,LAC,SF/PF,29.0,21.5,19.5,24.0,13.4,29.2,71.0,49.0,82.0,1528.8,-266.8,19,Y,,3&D wing,Caleb Martin 2025; Sterling Brown 2022; Marvin Williams 2013
+200,216,140.3,16,TARGET,Obi Toppin,IND,PF,28.9,21.0,20.3,21.9,13.2,28.1,63.0,33.0,82.0,1324.7,-268.6,19,N,,Primary scorer,Jodie Meeks 2016; Cleanthony Early 2016; Charlie Villanueva 2013
+201,215,140.5,14,,Zaccharie Risacher,DAL,SF,21.8,21.1,21.7,20.3,13.3,28.1,68.0,42.0,80.0,1433.9,-285.8,19,Y,,Connector wing,Bryce McGowens 2025; Bruce Brown 2021; Lonzo Ball 2020
+202,182,140.6,-20,FADE,Kevin Huerter,DET,SG/SF,28.4,21.1,19.7,22.9,13.1,28.2,69.0,37.0,82.0,1456.9,-288.1,19,Y,,Connector wing,Shaun Livingston 2014; Josh Richardson 2023; Josh Richardson 2024
+203,175,140.9,-28,FADE,Max Christie,DAL,SG,24.0,21.5,22.0,21.0,13.7,29.2,77.0,51.0,82.0,1657.7,-289.6,19,N,,3&D wing,Ben McLemore 2016; Ayo Dosunmu 2024; Kentavious Caldwell-Pope 2016
+204,205,140.5,1,,Derrick Jones Jr.,LAC,SF/PF,30.0,20.8,20.6,21.1,12.8,27.5,68.0,29.0,80.0,1417.1,-302.6,19,N,,3&D wing,John Salmons 2013; Max Strus 2026; Doug McDermott 2023
+205,166,140.8,-39,FADE,Walter Clayton Jr.,MEM,PG/SG,23.9,21.0,19.0,23.4,13.1,28.7,71.0,36.0,82.0,1488.4,-307.2,19,Y,,Lead guard,Rondae Hollis Jefferson 2021; Landry Shamet 2022; Kent Bazemore 2015
+206,195,140.5,-11,,Max Strus,LAC,SF,30.8,20.7,19.2,22.4,12.4,27.8,67.0,35.0,82.0,1384.2,-310.2,19,Y,out,3&D wing,Josh Howard 2012; Javonte Green 2025; Bobby Simmons 2011
+207,240,140.2,33,TARGET,Sam Merrill,CLE,SG,30.7,20.3,20.5,20.0,12.3,26.9,62.0,20.0,75.0,1256.8,-311.2,19,N,,3&D wing,Reggie Bullock Jr. 2021; Jose Calderon 2012; Marcus Smart 2021
+208,232,140.1,24,TARGET,Miles McBride,NY,PG/SG,26.4,20.5,21.1,19.7,12.3,27.6,65.0,23.0,77.0,1329.4,-314.4,19,N,,3&D wing,Miles McBride 2026; Jose Alvarado 2026; Gary Harris 2023
+209,227,140.4,18,TARGET,Gui Santos,GS,SF,24.6,20.5,21.1,19.7,12.7,28.2,66.0,26.0,82.0,1351.6,-317.5,19,N,,Connector wing,Nate Wolters 2018; Sheldon Mac 2020; Amir Coffey 2023
+210,158,140.9,-52,FADE,Jamal Shead,TOR,PG,24.6,21.3,21.8,20.7,13.0,28.4,81.0,59.0,82.0,1728.6,-319.9,20,N,,Lead guard,Jamal Shead 2026; Davion Mitchell 2024; Mario Chalmers 2011
+211,167,140.8,-44,FADE,Dennis Schroder,CHA,PG,33.4,20.7,18.7,23.0,12.8,27.7,72.0,36.0,82.0,1487.4,-333.5,20,Y,,Lead guard,Dennis Schroder 2026; Russell Westbrook 2024; Patty Mills 2019
+212,198,140.4,-14,,Vit Krejci,POR,PG,26.6,20.1,17.9,22.8,12.2,27.2,65.0,18.0,82.0,1307.0,-336.8,20,Y,,3&D wing,Justise Winslow 2024; Treveon Graham 2020; James Ennis III 2019
+213,197,140.6,-16,FADE,Nique Clifford,SAC,SG/SF,25.0,20.6,20.4,20.8,12.6,27.6,72.0,42.0,82.0,1481.7,-339.2,20,N,,3&D wing,Malaki Branham 2025; Devin Vassell 2023; Jalen Brunson 2020
+214,174,140.9,-40,FADE,Royce O'Neale,CHA,SF/PF,33.7,20.8,20.4,21.3,13.1,27.9,76.0,47.0,82.0,1579.2,-342.8,20,Y,,3&D wing,Buddy Hield 2025; Thaddeus Young 2020; Jae Crowder 2020
+215,191,140.5,-24,FADE,Nolan Traore,BKN,PG,20.7,20.4,19.4,21.6,12.4,27.5,71.0,41.0,82.0,1448.2,-347.4,20,N,,Lead guard,Malaki Branham 2024; Cole Anthony 2022; Jordan Clarkson 2016
+216,250,140.1,34,TARGET,Khris Middleton,WSH,SF/PF,35.5,18.6,17.1,20.5,10.4,25.7,53.0,8.0,73.0,986.8,-353.6,20,N,day-to-day,3&D wing,Khris Middleton 2025; Kelly Olynyk 2024; Rasual Butler 2014
+217,218,140.4,1,,Jaylen Wells,MEM,SG/SF,23.4,20.2,21.0,19.3,12.4,27.3,71.0,56.0,82.0,1435.3,-360.3,20,N,,3&D wing,P.J. Washington 2022; Evan Fournier 2018; Kyshawn George 2026
+218,209,138.4,-9,,Jared McCain,OKC,PG/SG,22.9,20.0,19.9,20.2,12.0,27.1,69.0,39.0,82.0,1382.7,-362.3,20,Y,day-to-day,3&D wing,Jerome Robinson 2021; Elliot Williams 2014; Patty Mills 2012
+219,196,140.5,-23,FADE,Kris Dunn,LAC,PG/SG,32.9,20.3,20.6,20.0,12.2,27.4,75.0,57.0,82.0,1525.8,-370.9,20,N,,Connector wing,Taurean Prince 2026; Kentavious Caldwell-Pope 2024; Carlos Arroyo 2011
+220,233,140.2,13,,Ziaire Williams,LAL,SG/SF,25.4,19.5,19.3,19.7,11.5,26.6,65.0,13.0,82.0,1267.1,-376.7,20,Y,day-to-day,Connector wing,Ziaire Williams 2026; Ziaire Williams 2025; Rodney Hood 2020
+221,203,140.4,-18,FADE,Isaiah Joe,DET,SG,27.6,20.1,20.0,20.1,12.2,27.2,72.0,45.0,82.0,1443.8,-377.0,20,Y,,3&D wing,Norris Cole 2016; T.J. McConnell 2020; Willie Green 2012
+222,171,140.6,-51,FADE,Duncan Robinson,DET,SG/SF,32.8,20.3,19.3,21.6,12.0,28.0,76.0,51.0,82.0,1544.3,-377.7,20,N,,3&D wing,Tobias Harris 2024; Kyle Korver 2014; George Hill 2015
+223,246,140.2,23,TARGET,Matisse Thybulle,LAL,SF,29.9,18.8,18.4,19.2,10.9,25.9,59.0,15.0,74.0,1108.2,-383.9,20,Y,,Connector wing,Matisse Thybulle 2026; Zach Collins 2024; Zach Collins 2022
+224,289,140.0,65,TARGET,D'Angelo Russell,,PG/SG,,17.3,,17.3,9.0,23.4,48.0,,,830.0,-383.9,20,,,Primary scorer,
+225,267,140.1,42,TARGET,Tristan Vukcevic,WSH,PF,23.9,18.7,20.1,16.9,10.5,25.7,61.0,24.0,82.0,1138.3,-404.4,20,N,out,Primary scorer,Day'Ron Sharpe 2025; Jontay Porter 2024; Nic Claxton 2023
+226,257,140.0,31,TARGET,Bones Hyland,MIN,PG,26.4,18.7,20.0,17.1,10.9,25.7,62.0,16.0,82.0,1158.8,-409.1,20,N,,Lead guard,Sebastian Telfair 2013; Ian Clark 2017; Rodrigue Beaubois 2013
+227,244,140.2,17,TARGET,Caris LeVert,MIL,SG/SF,32.4,18.5,17.8,19.4,10.5,25.6,61.0,20.0,82.0,1130.8,-411.8,20,Y,,Connector wing,Caris LeVert 2026; Chris Boucher 2026; JaMychal Green 2020
+228,248,140.1,20,TARGET,Goga Bitadze,ORL,C,27.5,18.8,20.4,16.8,11.0,26.5,65.0,25.0,81.0,1222.5,-421.4,20,N,,Rim-running big,Mike Muscala 2021; Zeke Nnaji 2026; Brandan Wright 2015
+229,231,140.3,2,,Jeremy Sochan,POR,PF,23.7,18.8,18.2,19.4,10.5,26.5,66.0,24.0,82.0,1239.2,-429.9,20,Y,,Connector wing,Dominic McGuire 2012; Tyler Cavanaugh 2019; Timothe Luwawu-Cabarrot 2020
+230,235,140.2,5,,Marcus Smart,HOU,PG/SG,32.9,18.2,16.5,20.4,10.4,25.4,62.0,25.0,82.0,1131.2,-436.8,20,Y,,Connector wing,Kris Dunn 2025; Glenn Robinson III 2021; Tracy McGrady 2012
+231,242,140.2,11,,Ja'Kobe Walter,TOR,SG,22.4,18.8,19.8,17.6,10.9,25.9,69.0,40.0,82.0,1297.5,-447.5,20,N,,Connector wing,Cason Wallace 2025; R.J. Hampton 2023; Patrick McCaw 2018
+232,230,140.0,-2,,Jose Alvarado,NY,PG,28.8,18.5,17.7,19.5,10.6,26.2,66.0,26.0,82.0,1219.6,-449.5,20,Y,,Lead guard,E'Twaun Moore 2017; Jose Alvarado 2026; E'Twaun Moore 2018
+233,160,140.5,-73,FADE,Tim Hardaway Jr.,MIA,SG/SF,34.9,19.6,18.5,21.0,11.4,26.7,80.0,37.0,82.0,1566.1,-457.1,20,Y,,3&D wing,Maurice Evans 2012; Willie Green 2012; Georges Niang 2026
+234,193,140.4,-41,FADE,Luguentz Dort,ATL,SG/SF,27.8,18.9,17.1,21.2,10.9,26.0,72.0,47.0,79.0,1361.2,-459.7,20,Y,,3&D wing,Jae Crowder 2021; Kentavious Caldwell-Pope 2022; Marvin Williams 2015
+235,189,140.6,-46,FADE,Sam Hauser,BOS,SF/PF,29.1,19.3,18.6,20.1,11.1,26.3,77.0,50.0,82.0,1484.6,-462.7,20,N,,3&D wing,Sam Hauser 2026; Joe Ingles 2018; Kyle Korver 2017
+236,255,140.1,19,TARGET,Noah Clowney,BKN,PF,22.6,18.5,21.0,15.4,10.3,25.5,69.0,22.0,82.0,1275.9,-469.1,20,N,,3&D wing,Jonathan Isaac 2021; Tobias Harris 2015; Thomas Bryant 2021
+237,249,140.1,12,,Kyle Anderson,TOR,SF/PF,33.4,17.7,17.8,17.6,9.5,25.4,62.0,25.0,82.0,1096.7,-471.3,20,Y,,Connector wing,Quentin Richardson 2013; Jared Dudley 2019; Taj Gibson 2023
+238,221,139.8,-17,FADE,Nikola Jovic,MIA,PF,23.6,18.6,18.2,19.1,10.8,26.3,71.0,24.0,82.0,1322.4,-473.2,20,N,,Primary scorer,Michael Carter-Williams 2018; Dennis Smith Jr. 2025; Darrell Arthur 2015
+239,234,140.2,-5,,Ronald Holland II,DET,SF/PF,21.6,19.1,21.6,16.1,11.3,26.8,79.0,42.0,82.0,1511.3,-486.6,20,N,,,Doug McDermott 2020; Obi Toppin 2026; Taj Gibson 2012
+240,206,140.3,-34,FADE,Luke Kennard,PHX,SG,30.6,18.7,18.4,19.1,10.5,26.4,74.0,37.0,82.0,1382.8,-488.6,21,Y,,3&D wing,JaMychal Green 2021; Francisco Garcia 2015; Anthony Morrow 2016
+241,224,140.3,-17,FADE,Tristan da Silva,ORL,SF/PF,25.7,18.9,20.3,17.2,11.0,26.6,77.0,51.0,81.0,1455.3,-492.0,21,N,,3&D wing,Kyle Singler 2015; Sam Young 2012; Corey Kispert 2024
+242,204,140.3,-38,FADE,Khaman Maluach,PHX,C,20.4,17.7,14.1,22.1,9.7,24.7,65.0,29.0,82.0,1150.3,-493.6,21,N,,Rim-running big,Dragan Bender 2018; Rudy Gobert 2015; Jakob Poeltl 2018
+243,253,140.1,10,,Olivier-Maxence Prosper,MEM,PF,24.6,17.6,18.1,16.9,9.8,24.6,64.0,11.0,77.0,1124.1,-494.5,21,N,,Connector wing,Jalen Smith 2024; Terrence Jones 2019; Zach Collins 2025
+244,268,140.1,24,TARGET,Grant Williams,CHA,PF,28.2,17.4,18.2,16.3,9.5,24.0,63.0,14.0,82.0,1093.1,-500.2,21,N,day-to-day,3&D wing,Nick Young 2017; Greg Smith 2016; Jason Smith 2016
+245,226,140.4,-19,FADE,Keon Ellis,BKN,SG/SF,27.1,18.3,18.5,18.1,10.1,25.4,72.0,49.0,82.0,1317.8,-503.0,21,Y,,Connector wing,Delon Wright 2021; Nickeil Alexander-Walker 2026; Langston Galloway 2018
+246,283,140.0,37,TARGET,Zach Collins,CHI,C,29.2,16.3,16.7,15.8,7.7,22.7,56.0,22.0,78.0,912.3,-503.9,21,N,day-to-day,Stretch big,Josh McRoberts 2016; Dewayne Dedmon 2022; Quincy Pondexter 2015
+247,219,140.3,-28,FADE,Ryan Dunn,PHX,SF/PF,24.1,18.2,17.3,19.2,10.2,25.3,71.0,34.0,76.0,1289.0,-506.5,21,N,,Connector wing,Tony Snell 2016; Christian Braun 2025; Draymond Green 2015
+248,238,140.2,-10,,Andre Drummond,NY,C,33.5,16.8,13.6,20.7,8.6,22.9,60.0,28.0,72.0,1008.9,-508.5,21,Y,,Rim-running big,Mike Muscala 2024; David West 2017; Andre Drummond 2026
+249,212,140.4,-37,FADE,Aaron Wiggins,ATL,SG/SF,28.1,18.2,17.3,19.2,10.3,25.2,72.0,37.0,82.0,1308.0,-512.9,21,Y,,Connector wing,Gary Neal 2014; Luke Kennard 2024; Caleb Martin 2025
+250,258,140.1,8,,Jaxson Hayes,UTAH,C,26.7,17.2,17.8,16.5,9.0,23.3,64.0,32.0,82.0,1102.5,-516.1,21,Y,,Rim-running big,Mike Muscala 2020; Josh McRoberts 2014; Juancho Hernangomez 2022
+251,220,138.8,-31,FADE,Klay Thompson,MIA,SG/SF,37.0,17.8,16.3,19.5,9.6,24.8,70.0,34.0,82.0,1242.8,-527.5,21,Y,day-to-day,3&D wing,Russell Westbrook 2025; Thaddeus Young 2022; Alec Burks 2025
+252,217,140.3,-35,FADE,Kasparas Jakucionis,MIL,PG,20.7,17.5,15.3,20.2,9.5,24.6,68.0,29.0,82.0,1190.2,-529.5,21,Y,day-to-day,3&D wing,Kendall Marshall 2014; Dyson Daniels 2025; Doron Lamb 2014
+253,225,140.2,-28,FADE,Jordan Walsh,BOS,SF,22.9,17.8,17.1,18.6,9.9,25.5,71.0,32.0,82.0,1260.8,-534.8,21,N,,Connector wing,Amir Coffey 2023; Nate Wolters 2018; Luka Samanic 2023
+254,263,140.1,9,,Cody Williams,MIN,SG,22.2,16.8,17.3,16.2,8.6,23.2,64.0,32.0,82.0,1073.9,-544.6,21,Y,,3&D wing,Chris Douglas-Roberts 2011; Dyson Daniels 2025; Josh Green 2025
+255,208,140.0,-47,FADE,Gradey Dick,LAC,SG/SF,23.2,17.7,16.2,19.5,9.9,24.8,72.0,37.0,82.0,1272.1,-548.7,21,Y,,Connector wing,Evan Fournier 2015; Nik Stauskas 2016; Greivis Vasquez 2012
+256,261,140.1,5,,Buddy Hield,CHI,SG/SF,34.1,16.4,16.0,16.9,8.1,22.5,62.0,17.0,82.0,1016.2,-551.8,21,Y,,Connector wing,Rasual Butler 2012; Willie Green 2013; Beno Udrih 2014
+257,213,140.4,-44,FADE,Baylor Scheierman,BOS,SG,26.3,17.6,16.2,19.2,9.4,24.7,72.0,21.0,82.0,1264.5,-556.4,21,N,,3&D wing,Sam Hauser 2024; Torrey Craig 2020; Shaquille Harrison 2020
+258,241,140.2,-17,FADE,Hannes Steinbach,CHA,PF,20.0,17.5,,17.5,9.6,24.6,71.0,,,1239.0,-556.6,21,,,,
+259,264,140.1,5,,Isaac Okoro,CHI,SG/SF,26.0,16.9,18.3,15.2,8.7,22.9,68.0,49.0,80.0,1150.3,-569.4,21,N,,3&D wing,Tony Snell 2019; Josh Hart 2023; Kawhi Leonard 2015
+260,277,140.0,17,TARGET,Dean Wade,PHI,PF,30.2,15.2,14.2,16.3,7.2,21.5,58.0,22.0,80.0,879.3,-587.5,21,Y,,3&D wing,Maurice Harkless 2021; James Johnson 2017; Josh Hart 2024
+261,252,140.1,-9,,Corey Kispert,ATL,SG/SF,27.9,16.2,15.8,16.6,8.0,22.6,65.0,25.0,82.0,1051.6,-592.2,21,Y,,3&D wing,Rondae Hollis Jefferson 2021; James Johnson 2015; Stanley Johnson 2020
+262,287,140.1,25,TARGET,Leonard Miller,CHI,SF,23.2,15.7,17.3,13.8,7.5,21.8,62.0,34.0,82.0,974.7,-593.3,21,Y,,Stretch big,Charles Bassey 2026; D.J. White 2012; Alize Johnson 2022
+263,247,140.0,-16,FADE,Rob Dillingham,,PG,,16.5,,16.5,8.2,22.8,68.0,,,1123.0,-596.7,21,,day-to-day,Lead guard,
+264,291,140.0,27,TARGET,Mike Conley,BOS,PG,39.3,14.3,14.0,14.8,6.1,20.6,55.0,20.0,82.0,788.4,-602.5,21,Y,,Lead guard,Derek Fisher 2014; Andre Miller 2015; Jason Terry 2015
+265,281,140.1,16,TARGET,Jarred Vanderbilt,LAL,SF/PF,27.8,15.5,16.0,14.9,7.3,21.5,62.0,18.0,82.0,961.9,-606.1,21,N,,Connector wing,Jeremy Evans 2018; Yuta Watanabe 2022; John Konchar 2023
+266,237,140.2,-29,FADE,Terance Mann,BKN,SG/SF,30.3,16.7,15.9,17.7,8.5,22.8,71.0,19.0,82.0,1183.4,-612.2,21,N,,3&D wing,Max Strus 2026; Pat Connaughton 2024; Thabo Sefolosha 2013
+267,256,140.1,-11,,Bogdan Bogdanovic,HOU,SG/SF,34.5,15.8,15.4,16.4,7.6,21.8,65.0,37.0,82.0,1028.5,-615.3,21,Y,,3&D wing,Danny Green 2024; Bogdan Bogdanovic 2026; David Lee 2016
+268,298,140.0,30,TARGET,Jevon Carter,ORL,PG,31.4,12.9,12.5,13.4,6.8,20.1,51.0,19.0,80.0,659.8,-630.0,21,Y,,Connector wing,Ronnie Price 2014; Monte Morris 2026; Tony Allen 2011
+269,243,140.1,-26,FADE,Kentavious Caldwell-Pope,PHI,SG/SF,34.0,15.9,14.7,17.4,7.7,22.0,68.0,30.0,82.0,1083.4,-636.3,21,Y,day-to-day,Lead guard,Reggie Jackson 2025; Kent Bazemore 2021; Andre Iguodala 2020
+270,228,140.2,-42,FADE,AJ Green,MIL,SG,27.3,16.8,16.7,17.0,8.9,23.2,76.0,49.0,82.0,1280.4,-641.7,22,N,,3&D wing,Grayson Allen 2025; Derrick White 2024; Ayo Dosunmu 2024
+271,284,140.0,13,,Moritz Wagner,BKN,C,29.8,14.8,15.3,14.2,6.8,20.9,62.0,35.0,82.0,916.3,-651.7,22,Y,,Stretch big,Jeff Ayres 2014; Andrew Nicholson 2017; Gorgui Dieng 2023
+272,282,140.0,10,,Kenrich Williams,OKC,SF,32.2,15.2,16.0,14.2,6.6,21.1,65.0,17.0,82.0,985.0,-658.8,22,N,day-to-day,3&D wing,Robert Covington 2024; Andres Nocioni 2012; Matt Barnes 2012
+273,236,140.2,-37,FADE,Harrison Barnes,SA,SF/PF,34.7,17.0,18.0,15.7,8.7,23.1,80.0,58.0,82.0,1357.3,-665.9,22,N,,3&D wing,Marvin Williams 2020; Harrison Barnes 2026; Anthony Parker 2012
+274,295,140.0,21,TARGET,Marcus Sasser,DAL,PG,26.4,14.1,15.5,12.4,5.9,20.5,60.0,33.0,82.0,846.1,-671.3,22,Y,day-to-day,Lead guard,Frank Mason III 2020; Jevon Carter 2020; Cameron Payne 2018
+275,245,140.1,-30,FADE,Hugo Gonzalez,BOS,SF,21.0,16.1,16.4,15.9,7.6,22.4,74.0,43.0,82.0,1194.5,-677.0,22,N,,Connector wing,Rashad Vaughn 2017; Christian Braun 2024; Tony Snell 2015
+276,296,140.0,20,TARGET,Jaden Hardy,LAL,SG,24.6,13.9,15.5,12.0,5.7,20.0,60.0,19.0,80.0,836.0,-681.4,22,Y,,3&D wing,Marcus Thornton 2016; Chris Duarte 2024; Nick Young 2014
+277,292,140.0,15,TARGET,Ben Sheppard,IND,SG/SF,25.5,14.2,15.2,13.1,6.0,20.5,62.0,26.0,81.0,882.7,-685.2,22,N,,3&D wing,Kevon Looney 2021; Tim Hardaway Jr. 2017; Cam Reddish 2025
+278,251,140.1,-27,FADE,Simone Fontecchio,MIA,SF,31.1,15.6,15.9,15.3,7.4,21.9,71.0,29.0,82.0,1108.0,-687.6,22,N,,3&D wing,Chris Boucher 2024; Obi Toppin 2026; Doug McDermott 2020
+279,260,140.1,-19,FADE,Larry Nance Jr.,IND,PF,34.1,14.1,11.9,16.9,6.0,20.2,62.0,34.0,82.0,876.4,-691.5,22,Y,,Connector wing,Larry Nance Jr. 2026; James Johnson 2022; Marcus Smart 2026
+280,317,139.9,37,TARGET,Jalen Pickett,LAC,PG/SG,27.3,11.0,13.1,8.6,4.9,18.2,49.0,4.0,71.0,541.2,-698.1,22,Y,,3&D wing,Donald Sloan 2016; Chasson Randle 2020; Lindy Waters III 2026
+281,274,140.1,-7,,Kris Murray,MEM,PF,26.5,14.9,15.2,14.6,6.7,21.2,68.0,24.0,82.0,1015.2,-704.5,22,Y,,Connector wing,Travis Wear 2018; John Henson 2019; Derrick Favors 2023
+282,259,140.0,-23,FADE,Adem Bona,PHI,C,23.8,14.9,14.6,15.3,6.7,21.0,69.0,27.0,82.0,1030.4,-714.6,22,N,day-to-day,Rim-running big,Adem Bona 2026; Thon Maker 2019; Jan Vesely 2013
+283,293,140.0,10,,Taurean Prince,DET,SF,32.9,13.7,14.6,12.6,5.7,19.8,62.0,12.0,82.0,847.7,-720.3,22,Y,,3&D wing,Keith Bogans 2013; Bobby Simmons 2011; Rasual Butler 2012
+284,270,140.1,-14,,Kevon Looney,LAL,C,31.0,14.2,12.9,15.7,6.0,20.5,65.0,29.0,82.0,921.7,-722.1,22,Y,,Rim-running big,Sasha Pavlovic 2012; Jared Jeffries 2012; Troy Murphy 2012
+285,265,140.1,-20,FADE,Patrick Williams,CHI,PF,25.4,15.2,15.9,14.4,7.0,21.3,72.0,19.0,82.0,1095.9,-724.9,22,N,,3&D wing,Trevor Booker 2016; Keldon Johnson 2026; Aaron Wiggins 2025
+286,272,140.1,-14,,Mouhamed Gueye,ATL,PF,24.2,14.9,15.5,14.2,7.0,21.3,70.0,12.0,82.0,1044.1,-726.2,22,N,day-to-day,Connector wing,Moussa Diabate 2026; Jeff Ayres 2015; Paul Reed 2024
+287,288,140.0,1,,Asa Newell,ATL,PF,21.3,14.2,15.1,13.0,6.0,20.5,66.0,33.0,82.0,934.0,-735.1,22,N,,Stretch big,Ivan Rabb 2019; T.J. Warren 2016; T.J. Leaf 2019
+288,286,140.0,-2,,Julian Strawther,DEN,SF,24.8,14.1,15.0,13.1,6.2,20.4,66.0,16.0,82.0,933.1,-736.0,22,N,,3&D wing,Moses Moody 2025; Chris Douglas-Roberts 2012; Kevin Porter Jr. 2025
+289,301,140.0,12,,Josh Green,UTAH,SG,26.2,12.8,13.9,11.4,6.7,19.9,59.0,15.0,82.0,754.3,-737.8,22,Y,,3&D wing,Wes Iwundu 2022; Jerian Grant 2020; Juan Toscano-Anderson 2024
+290,285,140.0,-5,,Tre Mann,WSH,PG/SG,26.0,14.3,15.3,13.1,5.7,20.2,67.0,33.0,82.0,956.4,-738.1,22,Y,day-to-day,Lead guard,Ty Jerome 2023; Raul Neto 2021; Brandon Boston 2025
+291,280,140.0,-11,,Liam McNeeley,CHA,SF,21.3,13.7,13.1,14.5,5.8,20.1,64.0,22.0,82.0,879.0,-739.6,22,N,,3&D wing,James Young 2016; Otto Porter Jr. 2015; James Anderson 2012
+292,297,140.0,5,,Johnny Furphy,IND,SG,22.1,13.1,14.3,11.6,7.0,20.4,61.0,15.0,82.0,799.4,-743.3,22,N,out (season),3&D wing,Kessler Edwards 2023; Taylor Hendricks 2025; Rondae Hollis Jefferson 2017
+293,269,140.1,-24,FADE,Trey Lyles,MIN,PF,31.2,13.7,11.8,16.0,5.7,20.0,64.0,14.0,82.0,874.8,-743.7,22,,,,Andrei Kirilenko 2013; Josh Powell 2014; Mike Dunleavy 2013
+294,271,139.9,-23,FADE,Landry Shamet,NY,SG,29.9,14.2,13.5,15.0,6.0,20.2,67.0,32.0,82.0,950.5,-744.0,22,N,,3&D wing,Marquis Daniels 2012; Elfrid Payton 2025; Michael Carter-Williams 2021
+295,307,140.0,12,,Jonathan Isaac,ORL,PF,29.3,11.6,12.2,10.9,5.4,19.1,55.0,17.0,81.0,638.5,-752.4,22,N,day-to-day,Rim-running big,Anthony Gill 2026; Mike Muscala 2021; Cole Aldrich 2018
+296,275,140.1,-21,FADE,Gary Trent Jr.,MIL,SG/SF,28.0,14.0,13.7,14.4,5.9,20.3,67.0,21.0,82.0,941.1,-753.3,22,N,,3&D wing,Nik Stauskas 2022; Garrett Temple 2018; Darius Miller 2021
+297,279,140.0,-18,FADE,Thomas Bryant,CLE,C,29.5,14.2,14.6,13.7,6.0,20.6,68.0,24.0,82.0,965.3,-754.4,22,N,,Stretch big,Mike Muscala 2021; Thomas Bryant 2025; Ekpe Udoh 2018
+298,300,140.0,2,,Rayan Rupert,PHI,SG,22.7,12.6,13.9,11.0,6.5,20.2,61.0,27.0,82.0,769.2,-773.5,22,Y,,Connector wing,Xavier Henry 2014; Caleb Houstan 2026; Jordan Hamilton 2015
+299,266,140.0,-33,FADE,Terrence Shannon Jr.,MIN,SG,26.5,13.9,13.1,14.9,5.8,19.9,69.0,14.0,82.0,961.0,-784.0,22,N,,3&D wing,Lindy Waters III 2024; Glenn Robinson III 2017; Naji Marshall 2023
+300,273,140.0,-27,FADE,Jordan Clarkson,NY,SG/SF,34.7,13.4,12.0,15.1,7.3,20.7,66.0,14.0,82.0,882.7,-786.4,23,N,,3&D wing,Devin Harris 2016; Larry Hughes 2012; Jamaal Tinsley 2012

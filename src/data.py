@@ -290,7 +290,8 @@ def load_career() -> pd.DataFrame:
     ci = pd.read_csv(C.DATA_RAW / "Player_Career_Info.csv")
     ci["birth_date"] = pd.to_datetime(ci["birth_date"], errors="coerce")
     ci = ci.rename(columns={"from": "debut_season"})
-    return ci[["player_id", "player", "birth_date", "debut_season", "ht_in_in"]]
+    return ci[["player_id", "player", "birth_date", "debut_season",
+               "ht_in_in", "wt"]]
 
 
 # basketball-reference per-game counting columns -> ESPN scoring keys
@@ -422,7 +423,7 @@ def player_bio(matched: pd.DataFrame, career: pd.DataFrame) -> pd.DataFrame:
         best = pd.DataFrame(columns=["athlete_id", "player_id"])
     bio = best.merge(career, on="player_id", how="left")
     return bio[["athlete_id", "player_id", "birth_date", "debut_season",
-                "ht_in_in"]]
+                "ht_in_in", "wt"]]
 
 
 # --------------------------------------------------------------------------

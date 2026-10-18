@@ -1,0 +1,511 @@
+athlete_id,proj_games,games_p10,games_p90,comps
+4278039,79.0,56.0,82.0,Coby White 2026; Andre Iguodala 2011; Klay Thompson 2017
+4869342,75.0,53.0,82.0,Terrence Ross 2015; Kevin Huerter 2024; Joe Harris 2020
+4431941,20.0,4.0,65.0,Sundiata Gaines 2012; Jamaree Bouyea 2025; Briante Weber 2018
+4397020,72.0,47.0,79.0,Jae Crowder 2021; Kentavious Caldwell-Pope 2022; Marvin Williams 2015
+2578185,64.0,33.0,82.0,Alan Anderson 2017; Dorian Finney-Smith 2026; James Johnson 2021
+4585618,11.0,3.0,70.0,Sean Kilpatrick 2016; Jaylen Morris 2019; Chris Johnson 2014
+4712863,70.0,12.0,82.0,Moussa Diabate 2026; Jeff Ayres 2015; Paul Reed 2024
+4701230,72.0,35.0,82.0,Devin Booker 2021; Jalen Johnson 2026; Nikola Vucevic 2016
+4280151,65.0,25.0,82.0,Rondae Hollis Jefferson 2021; James Johnson 2015; Stanley Johnson 2020
+3146557,52.0,12.0,74.0,Damian Jones 2023; Chris Copeland 2016; Thomas Bryant 2026
+2490149,73.0,44.0,82.0,CJ McCollum 2026; Russell Westbrook 2022; Reggie Jackson 2024
+4873201,66.0,33.0,82.0,Ivan Rabb 2019; T.J. Warren 2016; T.J. Leaf 2019
+4431680,72.0,46.0,82.0,Dwight Howard 2015; Onyeka Okongwu 2026; Nemanja Bjelica 2021
+4397183,72.0,37.0,82.0,Gary Neal 2014; Luke Kennard 2024; Caleb Martin 2025
+4431714,49.0,13.0,66.0,Damyean Dotson 2021; James Johnson 2014; Justin Anderson 2019
+2991235,40.0,0.0,67.0,Brendan Haywood 2014; DeAndre Jordan 2021; Kenyon Martin 2014
+3037789,65.0,37.0,82.0,Danny Green 2024; Bogdan Bogdanovic 2026; David Lee 2016
+3102529,56.0,21.0,79.0,Matt Bonner 2016; Tristan Thompson 2023; Ersan Ilyasova 2020
+4592857,22.0,0.0,69.0,Melvin Frazier Jr. 2021; Buddy Boeheim 2025; Malcolm Miller 2020
+3202,72.0,45.0,81.0,Tim Duncan 2014; Kevin Garnett 2013; Dirk Nowitzki 2015
+4433192,66.0,20.0,82.0,James Ennis III 2019; Richaun Holmes 2017; James Ennis III 2020
+4709131,10.0,2.0,42.0,Grant Riller 2022; Brandon Goodwin 2020; Carlik Jones 2023
+5105553,52.0,13.0,80.0,Jordan Bell 2021; JT Thor 2025; Frank Ntilikina 2022
+4871144,72.0,46.0,81.0,Alperen Sengun 2026; Nikola Vucevic 2018; LaMarcus Aldridge 2015
+4711272,76.0,39.0,82.0,E'Twaun Moore 2014; Nate Wolters 2015; Reed Sheppard 2026
+2990992,62.0,25.0,82.0,Kris Dunn 2025; Glenn Robinson III 2021; Tracy McGrady 2012
+4432639,73.0,43.0,82.0,Jabari Smith Jr. 2026; Myles Turner 2018; Jalen Johnson 2026
+3136777,54.0,13.0,74.0,Thanasis Antetokounmpo 2024; Garrison Mathews 2025; Admiral Schofield 2024
+4684740,78.0,59.0,82.0,Amen Thompson 2026; Kent Bazemore 2017; P.J. Washington 2024
+4432827,26.0,4.0,71.0,D.J. White 2012; Micah Potter 2026; Mamadi Diakite 2024
+2991230,68.0,28.0,82.0,Rodney Stuckey 2017; Deron Williams 2015; Jae Crowder 2022
+4431752,62.0,21.0,82.0,Sandro Mamukelashvili 2026; Tyler Zeller 2019; Ish Wainright 2024
+5157066,61.0,15.0,82.0,Kessler Edwards 2023; Taylor Hendricks 2025; Rondae Hollis Jefferson 2017
+4396993,64.0,8.0,79.0,Nik Stauskas 2022; Brandin Podziemski 2026; George Hill 2013
+4065731,58.0,9.0,79.0,Kris Humphries 2012; Greg Oden 2013; Alexis Ajinca 2014
+4592829,10.0,3.0,68.0,Jordan McRae 2019; Charlie Brown Jr. 2024; Edmond Sumner 2021
+3999,36.0,6.0,68.0,Drew Gooden 2016; Udonis Haslem 2021; James Jones 2016
+2530530,70.0,38.0,82.0,Mario Chalmers 2017; Jamal Crawford 2016; Jamal Crawford 2015
+2580365,62.0,34.0,82.0,Larry Nance Jr. 2026; James Johnson 2022; Marcus Smart 2026
+4395712,71.0,42.0,82.0,Cade Cunningham 2025; Tyrese Maxey 2026; Evan Fournier 2023
+4396909,64.0,29.0,77.0,Aaron Nesmith 2026; Josh Richardson 2018; CJ McCollum 2022
+3133603,67.0,29.0,80.0,Robert Covington 2020; Caron Butler 2015; Jerryd Bayless 2017
+4433076,62.0,26.0,81.0,Kevon Looney 2021; Tim Hardaway Jr. 2017; Cam Reddish 2025
+3149673,74.0,35.0,82.0,LeBron James 2020; DeMar DeRozan 2023; Blake Griffin 2020
+4398207,37.0,2.0,63.0,Cartier Martin 2013; Reggie Williams 2013; Dean Wade 2023
+4278355,63.0,33.0,82.0,Jodie Meeks 2016; Cleanthony Early 2016; Charlie Villanueva 2013
+5106060,63.0,46.0,74.0,Khris Middleton 2016; Julian Champagnie 2026; Marco Belinelli 2012
+4017837,68.0,39.0,80.0,Nene  2013; Rudy Gobert 2023; Marcin Gortat 2014
+6580,54.0,8.0,74.0,Richard Hamilton 2013; Marcus Smart 2025; Chauncey Billups 2013
+4845363,60.0,2.0,80.0,Malik Beasley 2019; James Anderson 2013; Johnny Davis 2025
+5106258,72.0,37.0,82.0,Evan Fournier 2015; Nik Stauskas 2016; Greivis Vasquez 2012
+2991139,75.0,57.0,82.0,Taurean Prince 2026; Kentavious Caldwell-Pope 2024; Carlos Arroyo 2011
+4396907,69.0,37.0,80.0,Kyle Lowry 2013; Dejounte Murray 2023; Deron Williams 2012
+4066648,71.0,49.0,82.0,Caleb Martin 2025; Sterling Brown 2022; Marvin Williams 2013
+3913176,55.0,36.0,67.0,Zach LaVine 2026; Christian Wood 2023; Derrick Rose 2020
+4432170,38.0,3.0,73.0,Chris Douglas-Roberts 2015; Quincy Miller 2015; Shawne Williams 2011
+3936099,68.0,29.0,80.0,John Salmons 2013; Max Strus 2026; Doug McDermott 2023
+5159895,19.0,4.0,65.0,Tremont Waters 2022; Chris Chiozza 2021; Devon Dotson 2023
+3448,72.0,47.0,80.0,Channing Frye 2018; Tim Duncan 2012; Brook Lopez 2026
+4396818,10.0,3.0,69.0,PJ Dozier 2022; Charlie Brown Jr. 2024; Max Strus 2023
+5108024,54.0,17.0,78.0,Arnett Moultrie 2014; Sandro Mamukelashvili 2023; Perry Jones 2014
+4398390,49.0,4.0,71.0,Donald Sloan 2016; Chasson Randle 2020; Lindy Waters III 2026
+4702352,67.0,30.0,81.0,Timothe Luwawu-Cabarrot 2018; Jamison Battle 2026; Jonathan Mogbo 2026
+4065778,67.0,35.0,82.0,Josh Howard 2012; Javonte Green 2025; Bobby Simmons 2011
+4702785,16.0,0.0,55.0,Jalen Slawson 2025; Riley Minix 2026; Dean Wade 2021
+4683935,40.0,10.0,75.0,Chris Duarte 2024; Chris Duarte 2025; Ryan Rollins 2024
+3945274,68.0,34.0,77.0,Carmelo Anthony 2011; Luka Doncic 2024; Luka Doncic 2025
+4397014,73.0,44.0,80.0,Quentin Grimes 2026; Kent Bazemore 2021; Grayson Allen 2024
+4868423,60.0,19.0,80.0,Marcus Thornton 2016; Chris Duarte 2024; Nick Young 2014
+4683774,63.0,0.0,79.0,Johnny Davis 2025; Frank Ntilikina 2023; James Bouknight 2024
+4433136,64.0,31.0,82.0,Walker Kessler 2026; Mitchell Robinson 2025; Mark Williams 2025
+4897943,66.0,28.0,82.0,Orlando Johnson 2014; Damyean Dotson 2019; Robbie John Hummel 2015
+4592691,77.0,47.0,82.0,Donte DiVincenzo 2022; Onyeka Okongwu 2025; Andre Roberson 2017
+3155535,65.0,29.0,82.0,Sasha Pavlovic 2012; Jared Jeffries 2012; Troy Murphy 2012
+4278580,60.0,17.0,78.0,Jonas Jerebko 2016; Kelly Olynyk 2018; Carl Landry 2011
+4702972,18.0,0.0,68.0,Matt Mooney 2021; John Konchar 2021; Quinndary Weatherspoon 2021
+4066457,67.0,37.0,76.0,Zach LaVine 2023; Brandon Roy 2011; DeMar DeRozan 2016
+4277811,70.0,49.0,82.0,Marcus Thornton 2017; Gary Neal 2015; Dennis Schroder 2023
+4397134,24.0,4.0,75.0,Hamady Ndiaye 2014; Olivier Sarr 2026; Eric Moreland 2018
+5060631,35.0,3.0,75.0,Maxwell Lewis 2025; Chris Livingston 2025; Spencer Jones 2026
+3907498,59.0,15.0,74.0,Matisse Thybulle 2026; Zach Collins 2024; Zach Collins 2022
+4278077,62.0,18.0,82.0,Jeremy Evans 2018; Yuta Watanabe 2022; John Konchar 2023
+4433137,65.0,13.0,82.0,Ziaire Williams 2026; Ziaire Williams 2025; Rodney Hood 2020
+4066261,73.0,46.0,82.0,Bam Adebayo 2026; Rudy Gay 2015; Jared Dudley 2017
+3032977,67.0,35.0,79.0,Julius Randle 2025; Anthony Davis 2026; Luka Doncic 2026
+3899664,71.0,29.0,82.0,Chris Boucher 2024; Obi Toppin 2026; Doug McDermott 2020
+4431772,49.0,5.0,79.0,Joe Harris 2016; Terance Mann 2021; Orlando Johnson 2014
+4700818,23.0,1.0,60.0,Solomon Alabi 2012; Nick Richards 2022; Ognjen Kuzmic 2015
+2528210,80.0,37.0,82.0,Maurice Evans 2012; Willie Green 2012; Georges Niang 2026
+4431786,45.0,0.0,72.0,Damion Lee 2020; Dominique Jones 2013; Max Strus 2022
+4997528,71.0,24.0,82.0,Michael Carter-Williams 2018; Dennis Smith Jr. 2025; Darrell Arthur 2015
+3950760,39.0,2.0,72.0,Mouhamadou Gueye 2026; Ray Spalding 2021; Malik Williams 2026
+4601025,71.0,45.0,80.0,Amen Thompson 2026; P.J. Washington 2024; Aaron Nesmith 2024
+4898237,32.0,4.0,73.0,Briante Weber 2017; Vit Krejci 2023; Tim Frazier 2016
+4278053,71.0,36.0,80.0,Kentavious Caldwell-Pope 2019; Elfrid Payton 2018; De'Anthony Melton 2024
+3064482,65.0,24.0,82.0,Jeff Green 2022; JaMychal Green 2023; Jeff Green 2021
+4431720,15.0,2.0,67.0,Mason Jones 2024; Maurice Ager 2011; DaQuan Jeffries 2024
+4278076,49.0,9.0,71.0,Tiago Splitter 2017; Dewayne Dedmon 2021; Cole Aldrich 2016
+4066993,30.0,4.0,77.0,Sam Merrill 2025; Buddy Boeheim 2026; Mac McClung 2025
+4065697,55.0,16.0,76.0,Derrick Jones Jr. 2023; Dennis Smith Jr. 2025; Evan Fournier 2024
+6475,70.0,34.0,82.0,Russell Westbrook 2025; Thaddeus Young 2022; Alec Burks 2025
+3059319,67.0,28.0,76.0,Mike Conley 2018; JJ Redick 2021; Andrew Wiggins 2026
+4433569,21.0,5.0,69.0,Miles Plumlee 2014; Joel Bolomboy 2018; Justin Patton 2019
+4432588,24.0,3.0,74.0,Emanuel Terry 2022; Jarrod Uthoff 2020; Peyton Watson 2026
+4997526,52.0,13.0,68.0,Ty Jerome 2023; Ousmane Dieng 2026; Vit Krejci 2026
+4397475,76.0,49.0,82.0,Grayson Allen 2025; Derrick White 2024; Ayo Dosunmu 2024
+4395725,67.0,20.0,79.0,Cameron Johnson 2026; Cameron Payne 2024; Christian Wood 2024
+5214640,68.0,29.0,82.0,Kendall Marshall 2014; Dyson Daniels 2025; Doron Lamb 2014
+4432848,74.0,39.0,82.0,Patrick Patterson 2015; De'Andre Hunter 2026; Stanley Johnson 2020
+4697268,35.0,5.0,73.0,Kendall Marshall 2014; Donald Sloan 2013; Brodric Thomas 2022
+3134907,68.0,9.0,82.0,Andrei Kirilenko 2011; Andrei Kirilenko 2012; Aaron Gordon 2026
+2991043,61.0,20.0,82.0,Caris LeVert 2026; Chris Boucher 2026; JaMychal Green 2020
+4397233,39.0,4.0,73.0,Jeff Adrien 2014; Yuta Watanabe 2022; Josh McRoberts 2011
+4397140,66.0,28.0,75.0,Derrick White 2022; John Wall 2019; Andrew Wiggins 2024
+4591725,69.0,18.0,82.0,Jeremy Lin 2014; Monta Ellis 2012; Collin Sexton 2025
+4397114,37.0,0.0,67.0,Mychal Mulder 2021; Lindy Waters III 2023; Armoni Brooks 2022
+4277922,52.0,15.0,71.0,Jericho Sims 2025; Terrence Jones 2019; Khem Birch 2021
+4277843,67.0,21.0,82.0,Nik Stauskas 2022; Garrett Temple 2018; Darius Miller 2021
+3133628,71.0,45.0,82.0,Rudy Gobert 2026; Rudy Gobert 2025; Rudy Gobert 2024
+5105623,72.0,38.0,82.0,Kelly Olynyk 2018; Al-Farouq Aminu 2012; Domantas Sabonis 2018
+4432816,68.0,36.0,78.0,Caris LeVert 2022; Caris LeVert 2023; Zach LaVine 2021
+5279133,47.0,17.0,75.0,Perry Jones 2014; Santi Aldama 2023; T.J. Leaf 2019
+4432247,68.0,17.0,82.0,Josh Green 2023; AJ Green 2025; Dalen Terry 2025
+3934673,4.0,0.0,15.0,Tony Allen 2014; George Hill 2014; Dorian Finney-Smith 2023
+4397002,72.0,40.0,82.0,Gary Neal 2014; Denzel Valentine 2022; James Ennis III 2021
+4594268,72.0,45.0,82.0,Donovan Mitchell 2022; DeMar DeRozan 2016; Jaylen Brown 2022
+4592699,20.0,0.0,66.0,Olivier Sarr 2024; Malcolm Miller 2020; Christian Wood 2018
+3032976,73.0,51.0,81.0,Marcin Gortat 2018; Rudy Gobert 2026; Marvin Williams 2019
+4592492,62.0,16.0,82.0,Sebastian Telfair 2013; Ian Clark 2017; Rodrigue Beaubois 2013
+4433247,67.0,27.0,82.0,Cam Reddish 2023; Michael Beasley 2016; Tobias Harris 2014
+3136196,64.0,14.0,82.0,Andrei Kirilenko 2013; Josh Powell 2014; Mike Dunleavy 2013
+4431828,64.0,13.0,79.0,Kyle Anderson 2021; Chandler Hutchison 2021; Michael Carter-Williams 2023
+4431671,74.0,50.0,81.0,Jaden McDaniels 2026; Al-Farouq Aminu 2017; Marcus Morris Sr. 2017
+4702134,19.0,5.0,69.0,Eugene Omoruyi 2023; Oscar Tshiebwe 2025; Georges Niang 2018
+4592979,16.0,0.0,66.0,Buddy Boeheim 2025; Nate Williams 2025; Malcolm Miller 2020
+4592686,10.0,3.0,43.0,Kyle Weaver 2011; Joe Harris 2017; Skylar Mays 2023
+4432847,69.0,14.0,82.0,Lindy Waters III 2024; Glenn Robinson III 2017; Naji Marshall 2023
+4431695,22.0,2.0,58.0,Alex Poythress 2019; Jordan Mickey 2018; Isaiah Mobley 2025
+4895758,64.0,32.0,82.0,Chris Douglas-Roberts 2011; Dyson Daniels 2025; Josh Green 2025
+5157587,29.0,2.0,56.0,Solomon Alabi 2012; Nic Claxton 2021; Mouhamed Gueye 2025
+4712896,69.0,22.0,82.0,Jonathan Isaac 2021; Tobias Harris 2015; Thomas Bryant 2021
+5175643,71.0,28.0,82.0,Anthony Morrow 2012; Trevor Booker 2013; Kenneth Faried 2013
+4702177,72.0,49.0,82.0,Delon Wright 2021; Nickeil Alexander-Walker 2026; Langston Galloway 2018
+5174655,42.0,3.0,77.0,Gabriel Deck 2022; Lindy Waters III 2023; Cameron Reynolds 2020
+3907823,71.0,19.0,82.0,Max Strus 2026; Pat Connaughton 2024; Thabo Sefolosha 2013
+4687718,44.0,6.0,72.0,Dwayne Bacon 2021; Yuta Watanabe 2023; Jordan Hamilton 2015
+4702670,33.0,5.0,58.0,Craig Brackins 2012; Lucas Nogueira 2016; Mouhamadou Gueye 2025
+4278104,69.0,33.0,78.0,Pascal Siakam 2022; Pascal Siakam 2023; Giannis Antetokounmpo 2022
+5037873,64.0,35.0,77.0,Bruce Brown 2022; Josh Okogie 2021; Moses Moody 2026
+3064514,72.0,33.0,82.0,Paul George 2025; Jermaine O'Neal 2011; Al Horford 2017
+5242502,59.0,21.0,77.0,Christian Eyenga 2012; Manny Harris 2012; Amen Thompson 2025
+4432194,69.0,50.0,82.0,Day'Ron Sharpe 2026; Day'Ron Sharpe 2025; Daniel Gafford 2026
+5279130,71.0,41.0,82.0,Malaki Branham 2024; Cole Anthony 2022; Jordan Clarkson 2016
+3150844,62.0,35.0,82.0,Jeff Ayres 2014; Andrew Nicholson 2017; Gorgui Dieng 2023
+5107173,71.0,45.0,82.0,Kyle O'Quinn 2015; Moritz Wagner 2021; Goga Bitadze 2022
+4397018,60.0,10.0,80.0,Isaac Okoro 2026; Garrison Mathews 2024; DeAndre' Bembry 2022
+4277869,66.0,26.0,82.0,E'Twaun Moore 2017; Jose Alvarado 2026; E'Twaun Moore 2018
+3934719,68.0,44.0,80.0,Aaron Gordon 2024; Joakim Noah 2014; Clint Capela 2020
+4065673,31.0,6.0,60.0,Etan Thomas 2011; Ronny Turiaf 2014; Dan Gadzuric 2012
+3147657,82.0,59.0,82.0,Mikal Bridges 2026; Buddy Hield 2024; Thaddeus Young 2019
+4065670,65.0,13.0,80.0,Seth Curry 2020; Anthony Tolliver 2019; Bruce Brown 2026
+3934672,72.0,52.0,82.0,Jalen Brunson 2025; Jalen Brunson 2026; Donovan Mitchell 2026
+2528426,66.0,14.0,82.0,Devin Harris 2016; Larry Hughes 2012; Jamaal Tinsley 2012
+5211983,58.0,24.0,82.0,Josh Minott 2025; Paul Reed 2023; Christian Wood 2018
+5289900,69.0,32.0,81.0,Obi Toppin 2022; Dante Cunningham 2011; Austin Daye 2011
+6585,60.0,28.0,72.0,Mike Muscala 2024; David West 2017; Andre Drummond 2026
+3914285,46.0,7.0,78.0,Larry Nance Jr. 2023; Mason Plumlee 2021; Joakim Noah 2017
+3062679,68.0,33.0,78.0,John Salmons 2013; Harrison Barnes 2022; Pat Connaughton 2024
+4433225,60.0,3.0,81.0,CJ McCollum 2016; Markel Brown 2017; Jimmer Fredette 2016
+4431823,65.0,23.0,77.0,Miles McBride 2026; Jose Alvarado 2026; Gary Harris 2023
+4411057,25.0,0.0,71.0,Nate Williams 2025; Buddy Boeheim 2025; Melvin Frazier Jr. 2021
+3914044,67.0,32.0,82.0,Marquis Daniels 2012; Elfrid Payton 2025; Michael Carter-Williams 2021
+3136195,70.0,40.0,81.0,Chris Bosh 2015; Josh Smith 2015; Markieff Morris 2019
+4432808,19.0,1.0,53.0,Pete Nance 2026; Mamadi Diakite 2023; Jay Huff 2024
+4432573,69.0,36.0,80.0,Kevin Love 2012; Rudy Gay 2013; Andrew Bogut 2011
+4066320,72.0,44.0,82.0,Gerald Green 2015; Marco Belinelli 2012; Gerald Henderson 2013
+4348700,65.0,25.0,81.0,Mike Muscala 2021; Zeke Nnaji 2026; Brandan Wright 2015
+4712849,69.0,37.0,78.0,Thaddeus Young 2011; Trey Murphy III 2025; Jordan Clarkson 2016
+4565201,24.0,4.0,71.0,Justin James 2022; Cameron Payne 2018; Saben Lee 2023
+4278572,69.0,32.0,82.0,A.J. Lawson 2026; Jeremy Evans 2015; Cartier Martin 2012
+3133635,51.0,19.0,80.0,Ronnie Price 2014; Monte Morris 2026; Tony Allen 2011
+4277847,72.0,51.0,82.0,Wendell Carter Jr. 2026; Rudy Gobert 2021; JJ Hickson 2015
+4397204,35.0,0.0,66.0,Olivier Sarr 2025; Vlatko Cancar 2023; Micah Potter 2025
+4702382,77.0,51.0,81.0,Kyle Singler 2015; Sam Young 2012; Corey Kispert 2024
+4576085,32.0,3.0,70.0,Jamaree Bouyea 2026; Nate Williams 2026; John Jenkins 2017
+4065654,55.0,17.0,81.0,Anthony Gill 2026; Mike Muscala 2021; Cole Aldrich 2018
+4278075,24.0,3.0,73.0,PJ Dozier 2025; D.J. Wilson 2024; Justin Anderson 2022
+4593034,14.0,0.0,57.0,Gabe York 2023; Taze Moore 2025; Jordan Schakel 2023
+5214637,63.0,25.0,79.0,Trey Murphy III 2023; Aaron Nesmith 2022; Troy Brown Jr. 2020
+5239561,58.0,31.0,76.0,Dennis Schroder 2015; Marquis Teague 2014; Tre Jones 2022
+4432165,62.0,41.0,75.0,Kris Dunn 2020; Brandon Ingram 2025; Ricky Rubio 2014
+6478,72.0,46.0,82.0,Jeff Green 2022; Elton Brand 2013; Zaza Pachulia 2019
+4566434,66.0,32.0,80.0,Andrea Bargnani 2013; Dillon Brooks 2023; Franz Wagner 2026
+4433188,42.0,10.0,75.0,Elliot Williams 2014; Raul Neto 2020; Sundiata Gaines 2012
+3195,55.0,20.0,82.0,Derek Fisher 2014; Andre Miller 2015; Jason Terry 2015
+4277951,50.0,9.0,79.0,Mike Muscala 2017; Drew Eubanks 2022; Chimezie Metu 2023
+4251,55.0,20.0,77.0,James Harden 2023; Trevor Ariza 2022; LaMarcus Aldridge 2022
+5175647,74.0,43.0,82.0,Rashad Vaughn 2017; Christian Braun 2024; Tony Snell 2015
+5176420,18.0,4.0,70.0,David Nwaba 2018; Tosan Evbuomwan 2025; Axel Toupane 2017
+4397251,26.0,3.0,71.0,PJ Dozier 2021; Charlie Brown Jr. 2023; Micah Potter 2025
+4065804,77.0,50.0,82.0,Sam Hauser 2026; Joe Ingles 2018; Kyle Korver 2017
+4066354,72.0,49.0,80.0,Jarrett Jack 2011; Ish Smith 2019; Ramon Sessions 2012
+4397424,72.0,32.0,82.0,Mitchell Robinson 2024; Goga Bitadze 2026; Nenad Krstic 2011
+4351852,38.0,8.0,76.0,Jeremiah Robinson-Earl 2026; Damian Jones 2021; Cole Aldrich 2014
+4593841,72.0,21.0,82.0,Sam Hauser 2024; Torrey Craig 2020; Shaquille Harrison 2020
+4065648,70.0,39.0,82.0,Paul George 2023; Zach LaVine 2025; Dillon Brooks 2023
+4683689,71.0,32.0,82.0,Amir Coffey 2023; Nate Wolters 2018; Luka Samanic 2023
+3078576,77.0,54.0,82.0,Derrick White 2026; Goran Dragic 2018; CJ McCollum 2021
+4702745,32.0,1.0,66.0,Nick Richards 2022; Ariel Hukporti 2026; Cole Aldrich 2012
+4870562,60.0,23.0,80.0,Glenn Robinson III 2018; Reggie Bullock Jr. 2019; Danuel House Jr. 2021
+5105637,69.0,27.0,82.0,Adem Bona 2026; Thon Maker 2019; Jan Vesely 2013
+3917376,71.0,55.0,82.0,Jaylen Brown 2026; Jerami Grant 2023; Jimmy Butler III 2020
+2581018,68.0,30.0,82.0,Reggie Jackson 2025; Kent Bazemore 2021; Andre Iguodala 2020
+5124612,72.0,51.0,80.0,Stephen Curry 2011; Andrew Wiggins 2016; Elfrid Payton 2016
+4711297,62.0,30.0,78.0,Hamidou Diallo 2021; Aaron Wiggins 2024; Sterling Brown 2020
+3059318,54.0,27.0,68.0,Joel Embiid 2026; Anthony Davis 2024; Anthony Davis 2023
+4871141,52.0,12.0,69.0,Perry Jones 2015; Ian Mahinmi 2012; Cristiano Felicio 2018
+1966,64.0,24.0,78.0,Kevin Durant 2026; Grant Hill 2013; Paul Pierce 2014
+4702159,14.0,4.0,53.0,Malik Fitts 2022; Marcus Georges-Hunt 2018; Joe Harris 2017
+4433144,43.0,7.0,75.0,Malik Monk 2022; Antonio Reeves 2026; Jodie Meeks 2011
+4431678,71.0,37.0,82.0,Tyrese Maxey 2026; Evan Fournier 2023; JJ Redick 2016
+5099752,61.0,27.0,82.0,Xavier Henry 2014; Caleb Houstan 2026; Jordan Hamilton 2015
+4351851,66.0,32.0,82.0,A.J. Price 2014; Wayne Ellington 2017; Ben McLemore 2019
+3912848,58.0,22.0,80.0,Maurice Harkless 2021; James Johnson 2017; Josh Hart 2024
+4432446,62.0,12.0,79.0,Cedi Osman 2019; Dante Cunningham 2011; Derrick Brown 2012
+3136193,72.0,41.0,82.0,Dwyane Wade 2013; Zach LaVine 2023; Jamal Murray 2025
+4280245,27.0,4.0,71.0,Quenton Jackson 2026; Mac McClung 2025; Edmond Sumner 2021
+4591259,39.0,2.0,63.0,Dominique Jones 2012; Theo Pinson 2020; Glen Rice Jr. 2015
+4066383,71.0,49.0,79.0,Caron Butler 2011; Andre Iguodala 2014; Kyle Kuzma 2026
+3155526,69.0,38.0,80.0,Miles Bridges 2026; Dwyane Wade 2013; Tobias Harris 2022
+4432646,32.0,4.0,73.0,Tim Frazier 2016; Briante Weber 2017; Yogi Ferrell 2018
+4888725,71.0,34.0,76.0,Tony Snell 2016; Christian Braun 2025; Draymond Green 2015
+5105977,62.0,23.0,77.0,Dante Cunningham 2011; Kyle O'Quinn 2014; Patrick Patterson 2012
+4278585,73.0,26.0,82.0,Jeremy Lin 2014; Markelle Fultz 2021; Chris Quinn 2013
+4278402,56.0,3.0,80.0,Shaquille Harrison 2020; Bryn Forbes 2019; Ben McLemore 2021
+4437244,70.0,25.0,82.0,Russell Westbrook 2015; Derrick Rose 2013; D'Angelo Russell 2019
+4291678,22.0,0.0,65.0,James Nunnally 2020; Toney Douglas 2016; Haywood Highsmith 2023
+4702602,20.0,2.0,57.0,Devin Robinson 2019; Drew Peterson 2025; Jacob Toppin 2025
+4601023,70.0,42.0,82.0,Maxi Kleber 2019; Mitchell Robinson 2021; Jan Vesely 2013
+3913174,74.0,37.0,82.0,JaMychal Green 2021; Francisco Garcia 2015; Anthony Morrow 2016
+5203685,65.0,29.0,82.0,Dragan Bender 2018; Rudy Gobert 2015; Jakob Poeltl 2018
+4066268,35.0,3.0,62.0,Richaun Holmes 2024; Chris Silva 2022; Yuta Watanabe 2024
+4592714,39.0,7.0,73.0,Donald Sloan 2016; DeMarre Carroll 2014; Jordan Goodwin 2025
+4909710,43.0,1.0,72.0,Justin Holiday 2015; Luis Montero 2018; DeJon Jarreau 2024
+4701232,28.0,0.0,62.0,Luke Kornet 2021; Kosta Koufos 2013; Chimezie Metu 2023
+4683021,72.0,27.0,82.0,Derrick Favors 2017; Tyrese Maxey 2026; Derrick Favors 2018
+4431736,75.0,44.0,82.0,Toumani Camara 2026; Draymond Green 2016; Christian Braun 2026
+4592435,39.0,6.0,60.0,Chris Johnson 2013; Austin Daye 2014; Jeff Ayres 2014
+5081727,62.0,15.0,82.0,Jarred Vanderbilt 2022; Moussa Diabate 2026; Melvin Frazier Jr. 2022
+5105565,73.0,49.0,82.0,Donovan Clingan 2026; Rudy Gobert 2018; Wendell Carter Jr. 2025
+5217746,65.0,21.0,82.0,Ante Zizic 2019; Rudy Gobert 2015; Donatas Motiejunas 2014
+4683678,66.0,17.0,82.0,Jordan Farmar 2015; Ryan Kelly 2016; Ryan Kelly 2017
+3995,68.0,21.0,82.0,Chris Paul 2020; Luol Deng 2016; Trevor Ariza 2016
+4703889,20.0,0.0,62.0,Drew Peterson 2025; Alize Johnson 2020; Amile Jefferson 2020
+4578893,65.0,18.0,82.0,Justise Winslow 2024; Treveon Graham 2020; James Ennis III 2019
+6606,65.0,23.0,82.0,Jordan Farmar 2016; Jordan Farmar 2015; Jordan Farmar 2017
+4684737,45.0,4.0,76.0,Melvin Frazier Jr. 2022; Buddy Boeheim 2026; Christian Wood 2019
+4279888,65.0,24.0,80.0,Kyrie Irving 2023; Caris LeVert 2022; Markelle Fultz 2022
+4066399,40.0,6.0,74.0,Jeff Adrien 2015; Bruno Fernando 2025; Thomas Bryant 2024
+4914336,22.0,0.0,32.0,Jusuf Nurkic 2024; Jrue Holiday 2017; Nikola Vucevic 2015
+4610139,66.0,24.0,82.0,Dominic McGuire 2012; Tyler Cavanaugh 2019; Timothe Luwawu-Cabarrot 2020
+4593043,14.0,4.0,42.0,Alondes Williams 2024; Daeqwon Plowden 2026; Paul Watson 2021
+4066211,59.0,10.0,82.0,Nick Young 2018; Jahlil Okafor 2020; Ryan Anderson 2017
+4706557,20.0,4.0,72.0,Sam Merrill 2022; Rayjon Tucker 2021; Abdel Nader 2019
+4431679,71.0,47.0,80.0,Brandon Bass 2014; Carlos Delfino 2011; Ersan Ilyasova 2013
+4395650,40.0,10.0,70.0,Kevin Knox II 2025; PJ Dozier 2023; Shawne Williams 2015
+4433174,58.0,26.0,74.0,Aaron Gordon 2016; Onyeka Okongwu 2025; Nemanja Bjelica 2017
+4702384,72.0,42.0,82.0,Malaki Branham 2025; Devin Vassell 2023; Jalen Brunson 2020
+4397654,8.0,3.0,71.0,Gabe Vincent 2023; Chris Quinn 2013; Blake Ahearn 2012
+4065732,65.0,23.0,80.0,De'Andre Hunter 2026; Marvin Williams 2015; Caris LeVert 2026
+3064440,61.0,28.0,73.0,Kyrie Irving 2025; Kyrie Irving 2023; Bradley Beal 2025
+5107897,66.0,46.0,82.0,Dominic McGuire 2011; Enrique Freeman 2026; Wenyen Gabriel 2021
+4066262,68.0,6.0,82.0,Leandro Barbosa 2012; Alec Burks 2022; Norman Powell 2024
+4594327,71.0,25.0,82.0,P.J. Washington 2026; Thomas Bryant 2022; Dion Waiters 2018
+4592965,14.0,0.0,59.0,Alondes Williams 2025; Kevon Harris 2025; Trevelin Queen 2024
+2583639,45.0,5.0,71.0,Jamaal Tinsley 2012; Matthew Dellavedova 2023; Larry Hughes 2012
+4279318,22.0,1.0,72.0,Trey Johnson 2011; Zylan Cheatham 2022; Joe Harris 2018
+4898371,77.0,48.0,82.0,Tyler Zeller 2014; Deandre Ayton 2020; Greg Monroe 2012
+3155942,69.0,38.0,82.0,Paul Millsap 2019; Serge Ibaka 2022; Lauri Markkanen 2026
+3907387,36.0,2.0,74.0,Shavlik Randolph 2013; Jonathan Isaac 2026; Vlatko Cancar 2025
+6578,80.0,58.0,82.0,Marvin Williams 2020; Harrison Barnes 2026; Anthony Parker 2012
+5061568,70.0,41.0,82.0,Rashad Vaughn 2017; Christian Braun 2024; Tony Snell 2015
+4845367,72.0,47.0,79.0,DeMar DeRozan 2013; RJ Barrett 2021; Tyreke Evans 2012
+4592479,82.0,51.0,82.0,Arron Afflalo 2011; Harrison Barnes 2016; Christian Braun 2026
+4066259,71.0,49.0,79.0,Tony Parker 2012; Deron Williams 2014; Zach LaVine 2024
+5037871,72.0,36.0,82.0,James Harden 2011; Josh Christopher 2023; Jamal Murray 2018
+6440,71.0,44.0,82.0,Al Horford 2021; Al Horford 2020; Ersan Ilyasova 2019
+4395723,77.0,43.0,82.0,Obi Toppin 2026; Georges Niang 2023; Doug McDermott 2020
+4713010,33.0,2.0,67.0,Travis Leslie 2013; Vince Williams Jr. 2024; Dominique Jones 2012
+3064560,61.0,15.0,80.0,Dwight Powell 2025; Miles Plumlee 2019; Nick Collison 2013
+3134916,64.0,12.0,82.0,Jordan McLaughlin 2024; Chris Quinn 2012; Royal Ivey 2012
+4703421,25.0,4.0,73.0,Brodric Thomas 2022; TyTy Washington Jr. 2024; Saben Lee 2023
+4395630,69.0,42.0,75.0,Gary Harris 2021; Kevin Huerter 2025; Anthony Morrow 2012
+5104157,67.0,34.0,82.0,Victor Wembanyama 2025; Victor Wembanyama 2026; Lauri Markkanen 2024
+4277880,43.0,5.0,73.0,D.J. White 2013; Aron Baynes 2016; Jeff Adrien 2015
+4684208,46.0,0.0,78.0,Lamar Patterson 2017; Admiral Schofield 2021; Gary Clark 2020
+2991350,69.0,30.0,82.0,Alex Caruso 2026; Jameer Nelson 2017; Seth Curry 2025
+4278073,76.0,46.0,82.0,Zach LaVine 2023; Spencer Dinwiddie 2021; Paul George 2021
+4222252,59.0,18.0,78.0,Isaiah Hartenstein 2026; Jakob Poeltl 2025; Ivica Zubac 2025
+4433255,65.0,20.0,78.0,Evan Mobley 2026; Corey Brewer 2011; Danilo Gallinari 2011
+4683778,69.0,39.0,82.0,Jerome Robinson 2021; Elliot Williams 2014; Patty Mills 2012
+4900671,55.0,7.0,82.0,Nickeil Alexander-Walker 2022; Jalen Suggs 2024; Sheldon Mac 2019
+4277923,9.0,3.0,68.0,Jimmer Fredette 2019; Orien Greene 2011; Will Conroy 2013
+5159925,43.0,2.0,71.0,Troy Daniels 2015; Glen Rice Jr. 2015; Johnny Davis 2024
+4683692,76.0,53.0,82.0,Tre Jones 2025; Cason Wallace 2026; Bruce Brown 2022
+4593803,70.0,34.0,82.0,Victor Oladipo 2020; Bradley Beal 2017; Jamal Murray 2022
+4432823,67.0,31.0,82.0,Marquese Chriss 2021; Chuma Okeke 2023; Moritz Wagner 2021
+3133626,65.0,17.0,82.0,Robert Covington 2024; Andres Nocioni 2012; Matt Barnes 2012
+4433268,17.0,3.0,59.0,Charlie Brown Jr. 2022; TyTy Washington Jr. 2025; Jared Cunningham 2015
+4873138,72.0,37.0,79.0,Zaccharie Risacher 2026; Kevin Knox II 2020; Jayson Tatum 2019
+4277919,16.0,2.0,61.0,Solomon Jones 2013; Luke Kornet 2023; Josh Childress 2014
+4683766,67.0,32.0,82.0,Richaun Holmes 2017; Trevor Ariza 2014; James Ennis III 2018
+4684793,73.0,52.0,78.0,Kyle Filipowski 2026; Domantas Sabonis 2019; Serge Ibaka 2012
+4433627,68.0,47.0,82.0,Cole Anthony 2023; Kemba Walker 2016; Collin Sexton 2022
+4432811,59.0,15.0,82.0,Wes Iwundu 2022; Jerian Grant 2020; Juan Toscano-Anderson 2024
+4397077,64.0,32.0,82.0,Mike Muscala 2020; Josh McRoberts 2014; Juancho Hernangomez 2022
+4396963,40.0,0.0,76.0,Gabriel Deck 2022; Isaiah Hicks 2019; Damion James 2012
+4433618,14.0,1.0,48.0,Braxton Key 2024; E.J. Liddell 2026; Naz Mitrou-Long 2020
+4277961,62.0,32.0,70.0,Domantas Sabonis 2023; John Collins 2026; Nene  2013
+4066336,69.0,40.0,82.0,Gordon Hayward 2022; Kawhi Leonard 2022; Marc Gasol 2017
+3133602,43.0,5.0,72.0,Reggie Bullock Jr. 2019; Svi Mykhailiuk 2026; Francisco Garcia 2012
+3102530,64.0,20.0,82.0,Steven Adams 2024; Nene  2014; Anderson Varejao 2013
+4065663,57.0,12.0,79.0,Damien Wilkins 2011; Torrey Craig 2023; Haywood Highsmith 2026
+5105839,72.0,42.0,82.0,Bojan Bogdanovic 2017; Caris LeVert 2019; Montrezl Harrell 2019
+4278129,64.0,28.0,82.0,Deandre Ayton 2026; Luol Deng 2017; Trevor Ariza 2015
+4432187,56.0,3.0,75.0,Chasson Randle 2019; Brandon Williams 2024; Markel Brown 2017
+4845374,82.0,55.0,82.0,George Hill 2011; Ayo Dosunmu 2024; Ben McLemore 2016
+4432907,26.0,3.0,80.0,Davon Reed 2022; Marcus Garrett 2025; Jerome Robinson 2024
+5104155,68.0,49.0,80.0,Gary Harris 2020; Rodney Hood 2017; Brandon Ingram 2019
+6583,61.0,29.0,76.0,LaMarcus Aldridge 2022; DeMarcus Cousins 2020; Anthony Davis 2026
+5174563,66.0,49.0,78.0,Michael Carter-Williams 2015; Keldon Johnson 2024; Bradley Beal 2014
+2581184,47.0,10.0,67.0,Anthony Gill 2026; Udonis Haslem 2016; Rodney McGruder 2023
+4708972,48.0,1.0,80.0,Derrick Walton Jr. 2020; Sharife Cooper 2024; Chasson Randle 2019
+5238230,68.0,50.0,82.0,Keyonte George 2026; Chris Duarte 2023; Kyshawn George 2026
+4432645,14.0,2.0,45.0,Darius Johnson-Odom 2014; Jared Cunningham 2014; Isaiah Wong 2025
+3936296,30.0,0.0,62.0,Shavlik Randolph 2015; Drew Gooden 2015; Jason Collins 2011
+4433622,14.0,2.0,46.0,Damion James 2014; Louis King 2023; Alize Johnson 2022
+4432819,67.0,33.0,82.0,Ty Jerome 2023; Raul Neto 2021; Brandon Boston 2025
+6609,53.0,8.0,73.0,Khris Middleton 2025; Kelly Olynyk 2024; Rasual Butler 2014
+5144126,61.0,32.0,79.0,Jaden McDaniels 2023; Brandon Ingram 2018; Matas Buzelis 2026
+5160992,66.0,30.0,81.0,Tobias Harris 2015; Alex Sarr 2026; Ersan Ilyasova 2015
+4997537,61.0,24.0,82.0,Day'Ron Sharpe 2025; Jontay Porter 2024; Nic Claxton 2023
+4606840,60.0,21.0,78.0,Pelle Larsson 2026; Dwayne Bacon 2019; Dwayne Bacon 2020
+4277905,71.0,32.0,82.0,Avery Bradley 2019; Avery Bradley 2021; Avery Bradley 2020
+2993874,62.0,25.0,82.0,Quentin Richardson 2013; Jared Dudley 2019; Taj Gibson 2023
+4433134,72.0,21.0,82.0,Danilo Gallinari 2014; Jarrett Allen 2025; Pascal Siakam 2020
+4395625,66.0,45.0,75.0,RJ Barrett 2026; Blake Griffin 2018; Blake Griffin 2020
+4431893,60.0,8.0,79.0,Joe Harris 2016; DeMarre Carroll 2011; Derrick Brown 2012
+4590360,26.0,0.0,72.0,Adam Flagler 2025; RayJ Dennis 2026; Gabe Vincent 2021
+4432190,40.0,5.0,66.0,Didier Ilunga-Mbenga 2011; Von Wafer 2012; Daequan Cook 2011
+4431684,54.0,10.0,71.0,Willie Reed 2017; Quincy Acy 2018; Shelden Williams 2011
+4395623,13.0,2.0,62.0,Udoka Azubuike 2024; Luke Kornet 2023; Alan Williams 2019
+6450,63.0,25.0,75.0,Antawn Jamison 2013; Corey Maggette 2011; Corey Maggette 2013
+4702656,39.0,4.0,71.0,Khyri Thomas 2020; Jalen Pickett 2025; Bryn Forbes 2018
+5093267,66.0,37.0,76.0,Larry Nance Jr. 2017; Bam Adebayo 2019; Sekou Doumbouya 2021
+3134908,64.0,35.0,75.0,Jakob Poeltl 2026; Al Horford 2024; Wesley Matthews 2019
+4395724,65.0,43.0,75.0,Immanuel Quickley 2026; Rajon Rondo 2019; Rajon Rondo 2015
+4432241,81.0,59.0,82.0,Jamal Shead 2026; Davion Mitchell 2024; Mario Chalmers 2011
+4397784,23.0,3.0,70.0,David Nwaba 2018; Sean Kilpatrick 2016; Dakota Mathias 2022
+4684272,69.0,40.0,82.0,Cason Wallace 2025; R.J. Hampton 2023; Patrick McCaw 2018
+4896372,71.0,36.0,82.0,Rondae Hollis Jefferson 2021; Landry Shamet 2022; Kent Bazemore 2015
+4903027,69.0,46.0,81.0,Andrew Nembhard 2025; JJ Hickson 2015; Brandon Ingram 2023
+4600663,62.0,17.0,82.0,Zach Edey 2026; Greg Oden 2011; Deandre Ayton 2021
+2991070,68.0,22.0,81.0,Nick Young 2018; Omer Asik 2017; Ryan Anderson 2017
+4684806,45.0,2.0,73.0,Johnny Juzang 2026; Romeo Langford 2023; Dorell Wright 2011
+5105550,69.0,27.0,82.0,Sergey Karasev 2016; Furkan Korkmaz 2020; Isaiah Jackson 2024
+4065733,64.0,16.0,81.0,Christian Wood 2022; Dion Waiters 2020; Tobias Harris 2016
+4683934,56.0,9.0,78.0,Armoni Brooks 2022; Caleb Martin 2021; Lindy Waters III 2023
+4594326,68.0,24.0,82.0,Travis Wear 2018; John Henson 2019; Derrick Favors 2023
+4432185,50.0,7.0,80.0,Jordan Bell 2020; Quincy Pondexter 2012; Timothe Luwawu-Cabarrot 2019
+4431785,63.0,17.0,82.0,Michael Carter-Williams 2022; Jaden Hardy 2026; Cole Anthony 2024
+4593016,59.0,21.0,79.0,James Wiseman 2025; Tarik Black 2018; Festus Ezeli 2017
+4595400,64.0,11.0,77.0,Jalen Smith 2024; Terrence Jones 2019; Zach Collins 2025
+4781746,55.0,20.0,77.0,Malachi Flynn 2022; KJ Simpson 2026; Ray McCallum 2015
+4433083,52.0,6.0,75.0,Malcolm Brogdon 2018; Frank Jackson 2023; Jeremy Lamb 2017
+4432810,69.0,19.0,82.0,Kyle O'Quinn 2016; Mike Muscala 2019; Zach Collins 2026
+5112087,71.0,56.0,82.0,P.J. Washington 2022; Evan Fournier 2018; Kyshawn George 2026
+4397136,71.0,14.0,82.0,Ersan Ilyasova 2014; Danny Granger 2012; Domantas Sabonis 2024
+4683736,34.0,4.0,68.0,Kobe Bufkin 2026; Chandler Hutchison 2022; Chris Chiozza 2022
+5144091,77.0,54.0,82.0,D'Angelo Russell 2017; De'Aaron Fox 2019; Collin Sexton 2020
+4433623,13.0,4.0,64.0,Robert Covington 2015; BJ Johnson 2020; Louis King 2021
+5170947,26.0,6.0,70.0,A.J. Lawson 2025; Isaiah Joe 2023; Justin James 2022
+4277813,63.0,8.0,80.0,Alex Caruso 2024; De'Andre Hunter 2023; Duncan Robinson 2025
+3442,29.0,2.0,57.0,DeAndre Jordan 2025; DeAndre Jordan 2024; Jeff Green 2026
+4431778,36.0,2.0,61.0,Orlando Robinson 2025; Solomon Jones 2013; Steve Novak 2012
+4683634,68.0,46.0,82.0,Nickeil Alexander-Walker 2023; Malik Beasley 2021; Jordan Crawford 2012
+4997538,54.0,23.0,76.0,Perry Jones 2015; Khem Birch 2020; Jaylin Williams 2025
+4576086,39.0,1.0,73.0,Sergey Karasev 2016; Furkan Korkmaz 2020; Allen Crabbe 2016
+5061589,67.0,34.0,80.0,Adem Bona 2026; Victor Claver 2014; Aaron Gordon 2016
+4397688,68.0,44.0,80.0,Trey Murphy III 2026; Kawhi Leonard 2016; Gradey Dick 2026
+3907497,68.0,35.0,82.0,Dejounte Murray 2026; Victor Oladipo 2021; Michael Redd 2011
+4277956,66.0,7.0,82.0,Trey Burke 2019; Jordan Farmar 2013; Jordan Crawford 2018
+4869780,76.0,48.0,82.0,Precious Achiuwa 2023; Derrick Williams 2014; Marquese Chriss 2018
+4683742,42.0,3.0,80.0,Adreian Payne 2016; Damion Lee 2019; Drew Timme 2026
+4431675,58.0,12.0,77.0,Terrence Jones 2017; Trendon Watford 2026; Lamar Stevens 2025
+4395628,64.0,27.0,75.0,Zion Williamson 2025; Tristan Thompson 2020; DeMarcus Cousins 2017
+3135045,63.0,36.0,79.0,Shannon Brown 2014; Dennis Schroder 2023; Ben Gordon 2013
+2578239,66.0,21.0,82.0,James Jones 2014; Thanasis Antetokounmpo 2024; Doug McDermott 2026
+4433249,68.0,16.0,80.0,Dorian Finney-Smith 2021; Julian Champagnie 2026; JaMychal Green 2018
+4701225,25.0,3.0,58.0,Isaiah Mobley 2025; Jeff Adrien 2013; Jordan Mickey 2018
+4602025,75.0,40.0,82.0,Royce O'Neale 2020; Dorian Finney-Smith 2018; Sindarius Thornwell 2019
+4576060,70.0,40.0,82.0,Walker Kessler 2025; Jan Vesely 2013; Mitchell Robinson 2020
+5061575,78.0,56.0,82.0,RJ Barrett 2022; Jayson Tatum 2019; Josh Giddey 2024
+5239590,64.0,22.0,82.0,James Young 2016; Otto Porter Jr. 2015; James Anderson 2012
+4433287,68.0,38.0,82.0,Brandon Ingram 2025; Brandon Ingram 2024; Brandon Miller 2025
+2583632,76.0,47.0,82.0,Buddy Hield 2025; Thaddeus Young 2020; Jae Crowder 2020
+4396971,76.0,48.0,82.0,Carl Landry 2012; Darius Songaila 2011; Bismack Biyombo 2019
+5211176,48.0,16.0,79.0,Ivan Rabb 2019; Noah Clowney 2025; Juancho Hernangomez 2019
+3032979,72.0,36.0,82.0,Dennis Schroder 2026; Russell Westbrook 2024; Patty Mills 2019
+4395651,72.0,28.0,82.0,Ricky Rubio 2020; Gary Neal 2014; Gary Neal 2015
+4066218,63.0,14.0,82.0,Nick Young 2017; Greg Smith 2016; Jason Smith 2016
+4432162,36.0,3.0,76.0,Jordan McRae 2019; Garrett Temple 2013; Armoni Brooks 2024
+4432946,40.0,1.0,77.0,Jalen Slawson 2026; Cameron Reynolds 2021; Tyrese Martin 2025
+4711294,74.0,52.0,80.0,Jayson Tatum 2020; Saddiq Bey 2023; Franz Wagner 2024
+4278067,69.0,37.0,80.0,Clint Capela 2021; Dewayne Dedmon 2020; Nick Richards 2026
+4066650,56.0,22.0,78.0,Josh McRoberts 2016; Dewayne Dedmon 2022; Quincy Pondexter 2015
+5242496,29.0,3.0,63.0,Quincy Miller 2014; Josh Minott 2024; Jarred Vanderbilt 2020
+4871145,68.0,47.0,79.0,Trey Murphy III 2026; Jayson Tatum 2022; Jayson Tatum 2021
+4683750,65.0,20.0,82.0,Emmanuel Mudiay 2019; Anthony Morrow 2014; Svi Mykhailiuk 2023
+2990984,62.0,17.0,82.0,Rasual Butler 2012; Willie Green 2013; Beno Udrih 2014
+4395626,68.0,39.0,82.0,Jose Alvarado 2026; Miles McBride 2026; Gary Harris 2023
+5044385,62.0,34.0,82.0,Charles Bassey 2026; D.J. White 2012; Alize Johnson 2022
+4432822,68.0,49.0,80.0,Tony Snell 2019; Josh Hart 2023; Kawhi Leonard 2015
+4397689,16.0,3.0,60.0,Alize Johnson 2023; Matt Ryan 2025; KZ Okpala 2023
+2595516,69.0,23.0,77.0,Luol Deng 2015; Marco Belinelli 2017; Arron Afflalo 2015
+4593049,14.0,2.0,62.0,Solomon Jones 2014; Luke Kornet 2023; Lance Thomas 2015
+4397189,66.0,15.0,82.0,Sam Dekker 2022; Nik Stauskas 2022; Jeremy Sochan 2026
+4432117,15.0,3.0,44.0,Justin Robinson 2022; Jamaree Bouyea 2025; Jeff Dowtin Jr. 2024
+4431687,72.0,19.0,82.0,Trevor Booker 2016; Keldon Johnson 2026; Aaron Wiggins 2025
+4066328,70.0,32.0,81.0,Al Horford 2018; Aaron Gordon 2026; Serge Ibaka 2016
+3934723,68.0,24.0,82.0,Mike Muscala 2021; Thomas Bryant 2025; Ekpe Udoh 2018
+4431734,26.0,0.0,73.0,Duncan Robinson 2020; Yuta Watanabe 2020; Tyrese Martin 2024
+3992,73.0,57.0,81.0,DeMar DeRozan 2025; Vince Carter 2012; Chauncey Billups 2012
+4898369,11.0,3.0,40.0,Daryl Macon 2020; Kadeem Allen 2019; Mac McClung 2023
+4066757,62.0,20.0,75.0,Reggie Bullock Jr. 2021; Jose Calderon 2012; Marcus Smart 2021
+5177362,21.0,3.0,58.0,Devontae Cacok 2022; Isaiah Mobley 2025; PJ Dozier 2020
+3908809,71.0,47.0,82.0,Dwyane Wade 2011; Donovan Mitchell 2026; Zach LaVine 2024
+4432158,66.0,23.0,82.0,John Collins 2023; T.J. Warren 2019; John Collins 2025
+4701233,59.0,14.0,78.0,Jordan McLaughlin 2023; Malachi Flynn 2024; Jose Alvarado 2025
+5023693,53.0,21.0,74.0,Cory Higgins 2013; CJ McCollum 2015; Andrew Goudelock 2013
+4701845,21.0,3.0,67.0,Sean Kilpatrick 2016; David Nwaba 2018; Axel Toupane 2017
+5106268,44.0,2.0,77.0,Jawad Williams 2011; Jalen Slawson 2026; Luis Montero 2018
+4683747,62.0,5.0,79.0,Gerald Henderson 2012; Jalen Suggs 2024; Iman Shumpert 2013
+4576087,71.0,35.0,82.0,Otto Porter Jr. 2020; Andrew Wiggins 2021; Kelly Oubre Jr. 2021
+4593125,66.0,28.0,79.0,Santi Aldama 2026; Anthony Bennett 2016; Nerlens Noel 2018
+4432582,77.0,51.0,82.0,Ben McLemore 2016; Ayo Dosunmu 2024; Kentavious Caldwell-Pope 2016
+4701208,42.0,6.0,77.0,Orlando Robinson 2024; Ivan Rabb 2019; Keita Bates-Diop 2020
+5041939,72.0,46.0,78.0,Josh Giddey 2024; Tyreke Evans 2011; LaMelo Ball 2023
+4278049,66.0,44.0,79.0,Daniel Gafford 2026; Wendell Carter Jr. 2026; Cody Zeller 2020
+5105806,66.0,23.0,82.0,James Michael McAdoo 2018; Yuta Watanabe 2023; Cheick Diallo 2020
+6442,59.0,14.0,82.0,Larry Hughes 2012; Jamaal Tinsley 2014; Antonio Daniels 2011
+4683688,52.0,10.0,67.0,Dereck Lively II 2026; Goga Bitadze 2025; Mitchell Robinson 2026
+4431775,16.0,3.0,72.0,Haywood Highsmith 2022; Davon Reed 2022; Marcus Garrett 2025
+4278594,70.0,34.0,82.0,Wesley Matthews 2015; Jarrett Allen 2025; Rodney Stuckey 2014
+3138160,67.0,28.0,82.0,Derrick Jones Jr. 2023; Evan Fournier 2024; Dennis Smith Jr. 2025
+4898238,32.0,7.0,62.0,Caleb Martin 2021; Lindy Waters III 2023; Justin Minaya 2024
+2531367,49.0,19.0,79.0,Nick Collison 2017; Dwight Powell 2026; Ekpe Udoh 2019
+5211175,68.0,42.0,80.0,Bryce McGowens 2025; Bruce Brown 2021; Lonzo Ball 2020
+4432107,60.0,33.0,82.0,Frank Mason III 2020; Jevon Carter 2020; Cameron Payne 2018
+4278078,64.0,31.0,77.0,P.J. Washington 2026; Jae Crowder 2022; Dion Waiters 2019
+4277848,61.0,24.0,82.0,Marvin Bagley III 2025; Markieff Morris 2021; Omri Casspi 2019
+4431767,65.0,26.0,76.0,Kyle Anderson 2020; Saddiq Bey 2025; Danny Green 2015
+3978,77.0,52.0,82.0,DeMar DeRozan 2025; Vince Carter 2012; Chauncey Billups 2012
+3064290,66.0,33.0,80.0,Paul George 2026; Luol Deng 2018; Kevin Durant 2022
+4433607,38.0,3.0,75.0,Chris Wright 2013; Killian Tillie 2022; Ray Spalding 2020
+3138196,68.0,28.0,82.0,P.J. Washington 2026; Jae Crowder 2022; Deron Williams 2015
+3112335,72.0,33.0,78.0,Al Jefferson 2013; Kevin Durant 2019; Dirk Nowitzki 2013
+4592427,52.0,2.0,78.0,Dean Wade 2022; Juan Toscano-Anderson 2022; Juancho Hernangomez 2020
+3135046,69.0,29.0,82.0,Luke Ridnour 2015; Ricky Rubio 2022; Tyus Jones 2026
+4432872,14.0,3.0,52.0,Naz Mitrou-Long 2020; PJ Dozier 2020; Malcolm Hill 2024
+3936299,69.0,39.0,79.0,Zach LaVine 2024; Jaylen Brown 2025; Deron Williams 2014
+4433629,58.0,11.0,79.0,Shabazz Napier 2016; Yogi Ferrell 2018; Jonny Flynn 2012
+4431690,52.0,12.0,74.0,Zeke Nnaji 2026; Tony Bradley 2023; Brandan Wright 2015
+4432181,66.0,16.0,82.0,Moses Moody 2025; Chris Douglas-Roberts 2012; Kevin Porter Jr. 2025
+4277890,43.0,3.0,66.0,Lonzo Ball 2024; Rodney McGruder 2023; Gary Harris 2023
+5105592,32.0,5.0,59.0,Cam Whitmore 2026; DaJuan Summers 2012; Troy Williams 2019
+3908845,68.0,34.0,80.0,Carlos Delfino 2013; Danilo Gallinari 2018; Marcus Morris Sr. 2020
+4432166,69.0,45.0,78.0,Jimmy Butler III 2017; Dion Waiters 2015; Eric Gordon 2016
+4433621,67.0,42.0,80.0,Kyle Kuzma 2020; Derrick Favors 2016; Jalen Duren 2026
+2596112,42.0,3.0,74.0,Sam Merrill 2026; Ronald Dupree 2011; Alan Anderson 2015
+4397449,48.0,6.0,75.0,E'Twaun Moore 2017; Matthew Dellavedova 2020; Denzel Valentine 2022
+4683771,79.0,42.0,82.0,Doug McDermott 2020; Obi Toppin 2026; Taj Gibson 2012
+4066372,69.0,37.0,82.0,Shaun Livingston 2014; Josh Richardson 2023; Josh Richardson 2024
+5107199,30.0,1.0,80.0,Xavier Munford 2018; Justin Holiday 2015; DeJon Jarreau 2024
+4395702,72.0,45.0,82.0,Norris Cole 2016; T.J. McConnell 2020; Willie Green 2012
+5107818,16.0,2.0,53.0,Anthony Lamb 2023; Norvel Pelle 2022; Joe Alexander 2011
+4700852,46.0,4.0,73.0,Cam Spencer 2026; Jalen Pickett 2025; Bryn Forbes 2018
+2990962,62.0,12.0,82.0,Keith Bogans 2013; Bobby Simmons 2011; Rasual Butler 2012
+4278562,63.0,15.0,82.0,Andre Roberson 2020; Jonas Jerebko 2015; Saddiq Bey 2026
+3157465,76.0,51.0,82.0,Tobias Harris 2024; Kyle Korver 2014; George Hill 2015
+4397882,25.0,0.0,65.0,Micah Potter 2024; D.J. White 2011; Damian Jones 2019
+4684742,70.0,21.0,78.0,Dyson Daniels 2026; Jaylen Wells 2026; Trey Murphy III 2024
+4397886,14.0,2.0,69.0,Henry Ellenson 2020; Bruno Caboclo 2021; Alize Johnson 2022
+6430,32.0,8.0,45.0,Jimmy Butler III 2025; Jimmy Butler III 2026; Jimmy Butler III 2024
+4433149,36.0,2.0,72.0,Isaiah Canaan 2015; Lindell Wigginton 2023; Gabe Vincent 2021
+3975,66.0,35.0,79.0,Stephen Curry 2024; Tony Parker 2015; Stephen Curry 2026
+6589,64.0,26.0,81.0,Kirk Hinrich 2015; Kyle Korver 2014; Gordon Hayward 2024
+3213,56.0,22.0,71.0,Paul Pierce 2017; Al Horford 2026; Danilo Gallinari 2022
+4696317,11.0,3.0,40.0,Jamaal Franklin 2015; Daryl Macon 2020; Jason Preston 2024
+4897449,25.0,0.0,69.0,Damion Lee 2020; Melvin Frazier Jr. 2021; Jawad Williams 2011
+4066436,65.0,41.0,82.0,John Wall 2021; John Jenkins 2019; Brandon Knight 2022
+4432171,12.0,0.0,23.0,Hamidou Diallo 2023; Andrew Harrison 2019; JaMychal Green 2019
+2990969,56.0,32.0,78.0,Wesley Johnson 2019; Cory Joseph 2022; Kyle Anderson 2023
+3134903,62.0,26.0,80.0,Gary Payton II 2026; E'Twaun Moore 2018; CJ Miles 2019
+4709138,79.0,45.0,82.0,Brandin Podziemski 2026; Kevin Huerter 2022; Kevin Huerter 2020
+3102531,59.0,9.0,69.0,Danilo Gallinari 2020; Jusuf Nurkic 2024; Danilo Gallinari 2019
+4897262,66.0,35.0,78.0,Nassir Little 2021; Nassir Little 2022; Chuma Okeke 2022
+4997536,66.0,26.0,82.0,Nate Wolters 2018; Sheldon Mac 2020; Amir Coffey 2023
+4433159,51.0,6.0,74.0,Timothe Luwawu-Cabarrot 2019; Daequan Cook 2011; Von Wafer 2012
+4397040,53.0,7.0,73.0,Quinn Cook 2020; Ty Jerome 2023; Raul Neto 2020
